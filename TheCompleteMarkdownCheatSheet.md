@@ -144,7 +144,7 @@ Link with a description:
 
 :bowtie: :blush: :smile: :relieved:
 
-Check out my learning credit references for github emoji resources.
+Check out my [github emoji resources](https://github.com/piusmnwilson/markdown/blob/70409c3a2af679fa1cf24910879dc3e1c6ad0f83/github-markdown-emojis.md) file.
 ## **Learning Credit References**
 * [Markdown Guide](https://www.markdownguide.org/)
 * [Github markdown cheat sheet: Everything you need to know to write README.MD](https://dev.to/sameerkatija/github-markdown-cheat-sheet-everything-you-need-to-know-to-write-readme-md-2eca)
