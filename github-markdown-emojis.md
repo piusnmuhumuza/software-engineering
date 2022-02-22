@@ -886,3 +886,9 @@ Symbols
 :small_red_triangle:
 :small_red_triangle_down:
 :shipit:
+
+## **Learning Credit References**
+
+* [Github Emojis](https://gist.github.com/rxaviers/7360908)
+* [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
+* [roachhd](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
