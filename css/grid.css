@@ -24,7 +24,8 @@ body {
 
     /* grid-auto-rows: 200px; */
     /* grid-auto-rows: minmax(100, auto); */
-    grid-template-rows: 200px 100px 200px;
+    /* grid-template-rows: 200px 100px 200px; */
+    /* grid-template-rows: repeat(3, 1fr);*/
 }
  
 .item {
