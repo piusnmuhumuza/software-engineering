@@ -23,7 +23,8 @@ body {
     gap: 10px;
 
     /* grid-auto-rows: 200px; */
-    grid-auto-rows: minmax(100, auto);
+    /* grid-auto-rows: minmax(100, auto); */
+    grid-template-rows: 200px 100px 200px;
 }
  
 .item {
