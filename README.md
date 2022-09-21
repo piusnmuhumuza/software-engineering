@@ -32,6 +32,16 @@ one of the things to learn in Python after the fundamentals are **Python Framewo
 
 A link to a good python roadmap;- [Step by step guide to becoming a Python developer](https://roadmap.sh/python).
 
+## Technical skills needed to become a competent pyhton developer;-
+
+* Back-end & Front-end Tools. front-end includes JavaScript, HTML, CSS, etc.
+* Knowledge of Version control.
+* A proper understanding of the automation framework for debugging errors, use different tools proficiently and manage other routine tasks thus managing toll and enhancing your speed and accuracy.
+* A good grasp of Data Algorithms and Structures
+
+
+
+
 ## python frameworks
 ## python Libraries
 ## Developing with Django
