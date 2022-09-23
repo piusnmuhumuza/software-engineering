@@ -1,4 +1,6 @@
-# Python & Django
+# Python Development
+
+## Python & Django
 Python is a high-level object-oriented programming language used to develop various desktop and mobile applications, websites, and software interfaces. Python developers use their programming and coding skills to combine software components and enhance features, data privacy, and security.
 
 ## Learning python
