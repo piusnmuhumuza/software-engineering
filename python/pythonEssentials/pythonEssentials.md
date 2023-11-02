@@ -1,5 +1,7 @@
 # Python Essentials series
 
+This course is the first in a two-course Python Essentials series. It covers everything you need to know to start designing, writing, running, debugging, and improving Python programs at the foundational level.
+
 ## Python Essentials One
 
 ### Covers
@@ -26,3 +28,9 @@ Boolean values, conditional execution, loops, lists and list processing, logical
 Functions, tuples, dictionaries, exceptions, and data processing.
 
 ## Python Essentials Two
+
+## Learning Resources
+
+## Conclusion
+
+This course has been designed and developed by the OpenEDG Python Institute in partnership with the Cisco Networking Academy for anyone and everyone who wants to learn Python and modern programming techniques.
