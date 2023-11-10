@@ -120,6 +120,41 @@ A *transaction/Transactions group* is a *set/collection& of tasks that are execu
 
 check out [TCL Full Form](https://www.geeksforgeeks.org/tcl-full-form/) for more.
 
+#### Frequently used SQL Commands
+
+| SQL Command      | Syntax  | Description     |
+| :---        |    :----:   |          ---: |
+|ALTER TABLE     | ```sql ALTER TABLE table_name ADD column_name datatype;```      | It is used for adding columns to a database table.   |
+| AND  | ```sql SELECT column_name(s)FROM table_nameWHERE column_1 = value_1  AND column_2 = value_2;```       | This serves as an operator to combine two individual conditions.      |
+|AS    | Title       | Here's this   |
+|AVG     | Title       | Here's this   |
+|BETWEEN     | Title       | Here's this   |
+|CASE     | Title       | Here's this   |
+|COUNT    | Title       | Here's this   |
+|CREATE TABLE     | Title       | Here's this   |
+|DELETE     | Title       | Here's this   |
+|GROUP BY    | Title       | Here's this   |
+|HAVING     | Title       | Here's this   |
+|INNER JOIN     | Title       | Here's this   |
+|INSERT    | Title       | Here's this   |
+|IS NULL/ IS NOT NULL     | Title       | Here's this   |
+|LIKE    | Title       | Here's this   |
+|LIMIT    | Title       | Here's this   |
+|MAX     | Title       | Here's this   |
+|MIN     | Title       | Here's this   |
+|OR     | Title       | Here's this   |
+|ORDER BY     | Title       | Here's this   |
+|OUTER JOIN     | Title       | Here's this   |
+|ROUND     | Title       | Here's this   |
+|SELECT     | Title       | Here's this   |
+|SELECT DISTINCT    | Title       | Here's this   |
+|SUM     | Title       | Here's this   |
+|UPDATE     | Title       | Here's this   |
+|WHERE    | Title       | Here's this   |
+|WITH     | Title       | Here's this   |
+|    |       | |
+
+
 ### Normalisation
 
 #### Boyce–Codd normal form
