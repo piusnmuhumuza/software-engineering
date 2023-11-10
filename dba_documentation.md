@@ -7,7 +7,6 @@ Databases serve an important function for many individuals and companies, by pro
 
 The languages used to perform the various critical tasks that ensure database management system function correctly and databases are secure, up-to-date and at peek performance are referred to as *SQL Sub-Languages* under Structured Query Language(SQL).
 
-
 ## SQL | Structured Query Language
 
 Structured query language (SQL) is a standardized, domain-specific programming language for managing (e.g. storing and processing information) relational databases or performing various operations on the data in them.
@@ -219,6 +218,7 @@ Because the structure of XML data is unpredictable, the queries that you need to
 
 XML data and other databases that store data in a format analogous to HTML can be processed with XQuery. The main objective of XQuery is to provide query mechanisms for data extraction from real and virtual Web based documents. It aims to link Web and database technologies with the help of XML.
 
+### 
 
 ## KEYWORDS
 ``DATABASES``, ``SQL``, ``STRUCTURED QUERY LANGUAGE``, ``SQUARE``, ``DATABASE ADMINISTRATION``, ``DATABASE ADMINISTRATOR``, ``RELATIONAL DATABASES``, ``QUERYING``, ``SQL QUERYING``, ``Normalization``, ``Database Character Sets``, ``SQL Server``, ``XQuery``.
