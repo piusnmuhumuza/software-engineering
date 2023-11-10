@@ -15,9 +15,12 @@ When it comes to choosing a database the biggest decision is picking a relationa
 
 NoSQL (“non SQL” or “not only SQL”) databases were developed in the late 2000s with a focus on scaling, fast queries, allowing for frequent application changes, and making programming simpler for developers. Relational databases accessed with SQL (Structured Query Language) were developed in the 1970s with a focus on reducing data duplication as storage was much more costly than developer time.
 
-SQL requires you to use predefined schemas to determine the structure of your data before you work with it while NoSQL databases have a dynamic schemas for unstructured data thus their data is stored in many ways such as document-oriented, column-oriented, graph-based, or organized as a key-value store.
+SQL requires you to use predefined schemas to determine the structure of your data before you work with it while NoSQL databases have a dynamic schemas for unstructured data thus their data is stored in many ways such as document-oriented, column-oriented, graph-based, or organized as a key-value stores.
 
-SQL databases are table-based on the other hand NoSQL databases are either key-value pairs, document-based, graph databases, or wide-column stores. 
+SQL databases are table-based on the other hand NoSQL databases are either key-value pairs, document-based, graph databases, or wide-column stores.
+
+* NoSQL uses BASE while SQL(Primarily Relational DBs) uses ACID.
+* NoSQL choose availability over consistency, while Relational DBs choose Consistency over availability.
 
 ### MySQL VS MsSQL
 
@@ -206,6 +209,20 @@ This is the most basic level of normalization. In 1NF, each table cell should co
 5NF is the highest level of normalization and involves decomposing a table into smaller tables to remove data redundancy and improve data integrity.
 
 Normal forms help to reduce data redundancy, increase data consistency, and improve database performance. However, higher levels of normalization can lead to more complex database designs and queries. It is important to strike a balance between normalization and practicality when designing a database.
+
+## Database CAP Theorem
+
+Consistency, Availability and partition Tolerance.
+
+## The BASE Philosophy
+
+* Basically Available- System will stay up using replication/sharding.
+* Soft state- No guarantee that data is consistent, reads can yield stale data.
+* Eventual Consistency- If we wait long enough, reads will yield consistent data.
+
+## ACID
+
+Atomicity,Consistency, Isolation, Durability.
 
 ## Projects
 
