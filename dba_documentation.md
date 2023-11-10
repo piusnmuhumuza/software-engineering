@@ -7,6 +7,10 @@ Databases serve an important function for many individuals and companies, by pro
 
 The languages used to perform the various critical tasks that ensure database management system function correctly and databases are secure, up-to-date and at peek performance are referred to as *SQL Sub-Languages* under Structured Query Language(SQL).
 
+### SQL Vs NoSQL
+
+
+
 ## SQL | Structured Query Language
 
 Structured query language (SQL) is a standardized, domain-specific programming language for managing (e.g. storing and processing information) relational databases or performing various operations on the data in them.
@@ -153,6 +157,9 @@ check out [TCL Full Form](https://www.geeksforgeeks.org/tcl-full-form/) for more
 |WITH     | `WITH temporary_name AS (SELECT *FROM table_name)SELECT *FROM temporary_nameWHERE column_name operator value;`      | It is used to utilize an alias to store the result of a certain query in a transient table.   |
 |    |       | |
 
+### MySQL VS MsSQL
+
+
 ### Normalisation
 
 Normalization is the process of minimizing redundancy from a relation or set of relations. Redundancy in relation may cause insertion, deletion, and update anomalies. So, it helps to minimize the redundancy in relations. Normal forms are used to eliminate or reduce redundancy in database tables.
@@ -198,9 +205,7 @@ Normal forms help to reduce data redundancy, increase data consistency, and impr
 * **XQuery (XML Query):** is a query and functional programming language that queries and transforms collections of structured and unstructured data, usually in the form of XML, text and with vendor-specific extensions for other data formats (JSON, binary, etc.).
 
 
-## Other Notable Database concepts
-
-### NoSQL
+## Other Notable Database Languages
 
 
 ### XQuery
@@ -218,7 +223,21 @@ Because the structure of XML data is unpredictable, the queries that you need to
 
 XML data and other databases that store data in a format analogous to HTML can be processed with XQuery. The main objective of XQuery is to provide query mechanisms for data extraction from real and virtual Web based documents. It aims to link Web and database technologies with the help of XML.
 
-### 
+### SQL/XML
+
+The SQL/XML language is a combination of SQL and XQuery that supports the manipulation and storage of XML data in a database that works with SQL. It enables applications to perform SQL statements on XML data and vice versa. It's helpful when you want to extract content from an XML document or if you want to ensure compatibility with future optimizations or systems that may only support XML.
+
+### OQL
+
+OQL, which stands for Object Query Language, is the standard language for object-oriented databases, which represent data as variables, functions or data structures. These databases are popular with companies that want to store large amounts of complex data. Much like SQL does in relational databases, OQL gives you the option to perform queries and retrieve data in object databases.
+
+### GraphQL
+
+GraphQL is an open-source language that works with APIs, which are interfaces that allow users to interact with data. It provides a way to define the structure of data and how the system returns information in order to prevent the release of excessive amounts of data. It's helpful when you want to extract data from multiple APIs, aggregate data from different sources or specify the data efficiently.
+
+### LINQ
+
+LINQ, or Language Integrated Query, is a language that extracts and processes data from XML documents, relational databases and other third-party sources. With LINQ, you can access data through various sources without having to use a separate database language for each one. This ensures consistency among queries for objects, relational databases and XML, allowing you to filter, order and group operations.
 
 ## KEYWORDS
 ``DATABASES``, ``SQL``, ``STRUCTURED QUERY LANGUAGE``, ``SQUARE``, ``DATABASE ADMINISTRATION``, ``DATABASE ADMINISTRATOR``, ``RELATIONAL DATABASES``, ``QUERYING``, ``SQL QUERYING``, ``Normalization``, ``Database Character Sets``, ``SQL Server``, ``XQuery``.
@@ -241,4 +260,4 @@ XML data and other databases that store data in a format analogous to HTML can b
 * [Structured Query Language (SQL)](https://www.techtarget.com/searchdatamanagement/definition/SQL)
 * [SQL | DDL, DQL, DML, DCL and TCL Commands](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
 * [Types of SQL Commands: DDL, DQL, DML, DCL, TCL](https://trainings.internshala.com/blog/different-types-of-sql-commands/)
-* 
+* [Types of Database Languages and Their Uses](https://sahil-miglani.medium.com/types-of-database-languages-and-their-uses-1a4b84b89e72)
