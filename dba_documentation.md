@@ -47,7 +47,7 @@ Originally based upon relational algebra and tuple relational calculus, SQL cons
 
 SQL These sub-languages are mainly categorized into four categories: **a Data Query Language(DQL)**, **a Data Definition Language (DDL)**, **a Data Control Language (DCL)**, and **a Data Manipulation Language (DML)**. But there is another one called;- the **Transaction Control Language (TCL)** & **XML Query Language (XQuery)**.
 
-[![An old rock in the desert](/images/sql-commands.jpg "SQL commands")](https://www.geeksforgeeks.org/sql-ddl-dml-tcl-dcl/)*The Structured Query(SQL) Language Commands ordered by their sub-languages.*
+[![An old rock in the desert](/images/sql-commands.jpg "SQL commands")](https://www.geeksforgeeks.org/sql-ddl-dml-tcl-dcl/)*The common Structured Query Language(SQL)  Commands organised by their sub-languages.*
 
 #### DDL | Data Definition Language
 
@@ -102,6 +102,8 @@ GRANT SELECT, UPDATE ON MY_TABLE TO SOME_USER, ANOTHER_USER;
 REVOKE SELECT, UPDATE ON MY_TABLE FROM USER1, USER2;  
 ```
 
+* The **``DENY``** command even though not very common or getting deprecated is mean't to outright prohibit a user from accessing database objects and also overrides any granted accesses. [Read here](https://learn.microsoft.com/en-us/sql/t-sql/statements/deny-transact-sql?view=sql-server-ver16).
+
 #### TCL | Transaction Control Language
 
 Sometimes argued to be part of the sub-language set as well, TCL commands are used to change the state of some data -- for example, to ``COMMIT`` transaction changes or to ``ROLLBACK`` transaction changes.
@@ -115,6 +117,7 @@ A *transaction/Transactions group* is a *set/collection& of tasks that are execu
 * The **``ROLLBACK``** Reverts a transaction if an error appears.
 * The **``SAVEPOINT``** Creates a transaction save point.
 * The **``SET TRANSACTION``** Defines the transaction’s parameters.
+
 check out [TCL Full Form](https://www.geeksforgeeks.org/tcl-full-form/) for more.
 
 ### Normalisation
