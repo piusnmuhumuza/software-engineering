@@ -1,6 +1,13 @@
 
 # LEARNING DATABASE ADMINISTRATION
 
+## Databases
+
+Databases serve an important function for many individuals and companies, by providing effective and practical ways to organize and store information using or on a computer. Business Analysts, QAs, Database Administrators and developers among other *'technical actors'* use database languages to design, maintain and monitor databases and their related management systems.
+
+The languages used to perform the various critical tasks that ensure database management system function correctly and databases are secure, up-to-date and at peek performance are referred to as *SQL Sub-Languages* under Structured Query Language(SQL).
+
+
 ## SQL | Structured Query Language
 
 Structured query language (SQL) is a standardized, domain-specific programming language for managing (e.g. storing and processing information) relational databases or performing various operations on the data in them.
@@ -18,7 +25,17 @@ SQL was initially developed at [IBM](https://en.wikipedia.org/wiki/IBM) by [Dona
 
 Chamberlin and Boyce's first attempt at a relational database language was SQUARE (Specifying Queries in A Relational Environment), but it was difficult to use due to subscript/superscript notation. After moving to the San Jose Research Laboratory in 1973, they began work on a sequel to SQUARE. The original name SEQUEL, which is widely regarded as a pun on QUEL, the query language of Ingres, was later changed to SQL (dropping the vowels) because "SEQUEL" was a trademark of the UK-based Hawker Siddeley Dynamics Engineering Limited company.[15] The label SQL later became the acronym for Structured Query Language. [Read More here](https://en.wikipedia.org/wiki/SQL).
 
-### SQL Sub-Languages
+### Database Querying
+
+SQL queries and other operations take the form of commands written as statements and are aggregated into programs that enable users to add, modify or retrieve data from database tables.
+
+A table is the most basic unit of a database and consists of rows and columns of data. A single table holds records, and each record is stored in a row of the table. Tables are the most used type of database objects, or structures that hold or reference data in a relational database. Other types of database objects include the following:
+
+* **Views** are logical representations of data assembled from one or more database tables.
+* **Indexes** are lookup tables that help speed up database lookup functions.
+* **Reports** consist of data retrieved from one or more tables, usually a subset of that data that is selected based on search criteria.
+
+### The SQL Sub-Languages
 
 Although SQL is essentially a declarative language (4GL), it also includes procedural elements. The scope of SQL includes data query, data manipulation (insert, update, and delete), data definition (schema creation and modification), and data access control.
 
@@ -26,29 +43,29 @@ Originally based upon relational algebra and tuple relational calculus, SQL cons
 
 SQL These sub-languages are mainly categorized into four categories: **a Data Query Language(DQL)**, **a Data Definition Language (DDL)**, **a Data Control Language (DCL)**, and **a Data Manipulation Language (DML)**. But there is another one called;- the **Transaction Control Language (TCL)** & **XML Query Language (XQuery)**.
 
-#### DML | Data Manipulation Language
-
-Primarily used by everyone but most specifically data analyst who write queries that target data. The queries are;- ```INSERT```, ```UPDATE```, ```DELETE```.
-
 #### DDL | Data Definition Language
 
-Primarily used by Developers who create database objects. The queries are;- ```CREATE```, ```ALTER```, ```DROP```.
+Also called data definition commands because they are used to define data tables are Primarily used by Developers who create database objects using commands;- ```CREATE```, ```ALTER```, ```DROP```.
+
+#### DML | Data Manipulation Language
+
+Primarily used by everyone but most specifically data analyst who write queries that target data. commands;- ```INSERT```, ```UPDATE```, ```DELETE```, are used to manipulate data in existing tables by adding, changing or removing data. Unlike DDL commands that define how data is stored, DML commands operate in the tables defined with DDL commands.
 
 #### DCL | Data Control Language
 
-Primarily used by Database Administrators (DBA) for security accesses and control. The queries are;- ```GRANT```, ```REVOKE```, ```DENY```.
+Primarily used by Database Administrators (DBA) for security accesses and control, these commands are used to grant or revoke user access privileges using;- ```GRANT```, ```REVOKE```, ```DENY``` commands.
 
 #### DQL | Data Query Language
 
-Data query language is part of the base grouping of SQL sub-languages. DQL statements are used for performing queries on the data within schema objects. 
+Data query language is part of the base grouping of SQL sub-languages and consists of just one command, ``SELECT``, used to get specific data from tables.
 
-The purpose of DQL commands is to get the schema relation based on the query passed to it.
+The purpose of DQL commands is to get the schema relation based on the query passed to it, e.g. When adding FROM or WHERE data manipulators to the ``SELECT`` statement, thus the reason this statement is sometimes *considered part/grouped with the DML commands*.
 
-Although often considered part of DML, the SQL SELECT statement is strictly speaking an example of DQL. When adding FROM or WHERE data manipulators to the SELECT statement the statement is then considered part of the DML.
+Nonetheless, the SQL ``SELECT`` statement is strictly an example of DQL, whose statements are used for performing queries on the data within schema objects.
 
 #### TCL | Transaction Control Language
 
-Sometimes a transaction control language (TCL) is argued to be part of the sub-language set as well.
+Sometimes argued to be part of the sub-language set as well, TCL commands are used to change the state of some data -- for example, to ``COMMIT`` transaction changes or to ``ROLLBACK`` transaction changes.
 
 ### Normalisation
 
@@ -108,3 +125,6 @@ XML data and other databases that store data in a format analogous to HTML can b
 * [XQuery Language Reference (SQL Server)](https://learn.microsoft.com/en-us/sql/xquery/xquery-language-reference-sql-server?view=sql-server-ver16)
 * [McJones et al. “The 1995 SQL Reunion: People, Projects and Politics”](http://www.scs.stanford.edu/~dbg/readings/SRC-1997-018.pdf)
 * [XML Query Language](https://www.techopedia.com/definition/2671/xml-query-language-xquery)
+* [Structured Query Language (SQL)](https://www.techtarget.com/searchdatamanagement/definition/SQL)
+* [SQL | DDL, DQL, DML, DCL and TCL Commands](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
+* 
