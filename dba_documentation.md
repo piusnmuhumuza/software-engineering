@@ -156,6 +156,7 @@ check out [TCL Full Form](https://www.geeksforgeeks.org/tcl-full-form/) for more
 
 ### Normalisation
 
+
 #### Boyce–Codd normal form
 
 [Boyce–Codd normal form (or BCNF or 3.5NF)](https://en.wikipedia.org/wiki/Boyce%E2%80%93Codd_normal_form) is a normal form used in database normalization. It is a slightly stronger version of the third normal form (3NF). BCNF was developed in 1974 by Raymond F. Boyce and Edgar F. Codd to address certain types of anomalies not dealt with by 3NF as originally defined.
