@@ -124,36 +124,35 @@ check out [TCL Full Form](https://www.geeksforgeeks.org/tcl-full-form/) for more
 
 | SQL Command      | Syntax  | Description     |
 | :---        |    :----:   |          ---: |
-|ALTER TABLE     | ```sql ALTER TABLE table_name ADD column_name datatype;```      | It is used for adding columns to a database table.   |
-| AND  | ```sql SELECT column_name(s)FROM table_nameWHERE column_1 = value_1  AND column_2 = value_2;```       | This serves as an operator to combine two individual conditions.      |
-|AS    | Title       | Here's this   |
-|AVG     | Title       | Here's this   |
-|BETWEEN     | Title       | Here's this   |
-|CASE     | Title       | Here's this   |
-|COUNT    | Title       | Here's this   |
-|CREATE TABLE     | Title       | Here's this   |
-|DELETE     | Title       | Here's this   |
-|GROUP BY    | Title       | Here's this   |
-|HAVING     | Title       | Here's this   |
-|INNER JOIN     | Title       | Here's this   |
-|INSERT    | Title       | Here's this   |
-|IS NULL/ IS NOT NULL     | Title       | Here's this   |
-|LIKE    | Title       | Here's this   |
-|LIMIT    | Title       | Here's this   |
-|MAX     | Title       | Here's this   |
-|MIN     | Title       | Here's this   |
-|OR     | Title       | Here's this   |
-|ORDER BY     | Title       | Here's this   |
-|OUTER JOIN     | Title       | Here's this   |
-|ROUND     | Title       | Here's this   |
-|SELECT     | Title       | Here's this   |
-|SELECT DISTINCT    | Title       | Here's this   |
-|SUM     | Title       | Here's this   |
-|UPDATE     | Title       | Here's this   |
-|WHERE    | Title       | Here's this   |
-|WITH     | Title       | Here's this   |
+|ALTER TABLE     | `ALTER TABLE table_name ADD column_name datatype;`      | It is used for adding columns to a database table.   |
+| AND  | `SELECT column_name(s)FROM table_nameWHERE column_1 = value_1  AND column_2 = value_2`       | This serves as an operator to combine two individual conditions.      |
+|AS    | ```sql SELECT column_name AS ‘Alias’ FROM table_name;```      | This keyword in SQL is used in reTitle naming a table or columns using an alias name.  |
+|AVG     | `SELECT AVG(column_name)FROM table_name;`      | It is used in aggregating a numerical column, returning its average.   |
+|BETWEEN     | `SELECT column_name(s)FROM table_nameWHERE column_name BETWEEN value_1 AND value_2;`       | This operation filters the result within a specified range.  |
+|CASE     | `SELECT column_name,CASE WHEN condition THEN ‘Result_1’WHEN condition THEN ‘Result_2’ELSE ‘Result_3’ENDFROM table_name;`       | It serves as a statement to create multiple outputs within a SELECT statement.  |
+|COUNT    | `SELECT COUNT(column_name)FROM table_name;`      | This function takes a column name as an argument, then, counts the row number while the column is not NULL.   |
+|CREATE TABLE     | `CREATE TABLE table_name (  column_1 datatype,   column_2 datatype,   column_3 datatype);`      | It creates a new table inside a dataset and defines the name for the table and columns inside it.   |
+|DELETE     | `DELETE FROM table_nameWHERE some_column = some_value;`      | It is employed in the removal of rows from a table.   |
+|GROUP BY    | `SELECT column_name, COUNT(*)FROM table_nameGROUP BY column_name;`       | It is a SQL clause used for aggregate functions in conjunction with the SELECT statement.   |
+|HAVING     | `SELECT column_name, COUNT(*)FROM table_nameGROUP BY column_nameHAVING COUNT(*) > value;`       | Because the WHERE keyword cannot be used in aggregating functions, it is utilized in SQL.  |
+|INNER JOIN     | `SELECT column_name(s)FROM table_1JOIN table_2  ON table_1.column_name = table_2.column_name;`       | If the Join condition is TRUE, it is used to merge rows from separate tables.  |
+|INSERT    | `INSERT INTO table_name (column_1, column_2, column_3) VALUES (value_1, ‘value_2’, value_3);`      | It is used to insert new rows into a table.   |
+|IS NULL/ IS NOT NULL     | `SELECT column_name(s)FROM table_nameWHERE column_name IS NULL;`       | It is an operator used with the WHERE clause to search for empty values.   |
+|LIKE    | `SELECT column_name(s)FROM table_nameWHERE column_name LIKE pattern;`      | This special operator is used in conjunction with the WHERE clause to look for a certain pattern in a column.   |
+|LIMIT    | `SELECT column_name(s)FROM table_nameLIMIT number;`      | It is a command that defines the maximum number of rows required in the result set.  |
+|MAX     | `SELECT MAX(column_name)FROM table_name;`      | It is a function that accepts a number of columns as an input and returns the one with the highest value.  |
+|MIN     | `SELECT MIN(column_name)FROM table_name;`      | This function takes as an argument a number of columns and returns the smallest value among them.   |
+|OR     | `SELECT column_nameFROM table_nameWHERE column_name = value_1   OR column_name = value_2;`      | It acts as a filter operator employed in order to limit the result set to rows when either condition is TRUE.   |
+|ORDER BY     | `SELECT column_nameFROM table_nameORDER BY column_name ASC;`       | It is a clause used to sort the result set numerically or alphabetically by a certain column. in this syntax *ASC* or *DESC* can be used.  |
+|OUTER JOIN     | `SELECT column_name(s)FROM table_1LEFT JOIN table_2  ON table_1.column_name = table_2.column_name;`       | Even if the condition is NOT TRUE, it is issued to mix rows from different tables.   |
+|ROUND     | `SELECT ROUND(column_name, integer)FROM table_name;`      | It is a function that accepts a column name and an integer as arguments and rounds the entries in a column to the number of decimal places provided by the integer.    |
+|SELECT     | `SELECT column_name FROM table_name;`       | It is an SQL statement utilized to retrieve information from a database.  |
+|SELECT DISTINCT    | `SELECT DISTINCT column_nameFROM table_name;`      | It is used to indicate that the statement is a query, which returns distinct values in the columns supplied.   |
+|SUM     | `SELECT SUM(column_name)FROM table_name;`      | This function returns the sum of data from a specific column.   |
+|UPDATE     | `UPDATE table_nameSET some_column = some_valueWHERE some_column = some_value;`      | It is used in modifying table rows.   |
+|WHERE    | `SELECT column_name(s)FROM table_nameWHERE column_name operator value;`      | It is a clause used to limit the result set to rows when the condition is TRUE.   |
+|WITH     | `WITH temporary_name AS (SELECT *FROM table_name)SELECT *FROM temporary_nameWHERE column_name operator value;`      | It is used to utilize an alias to store the result of a certain query in a transient table.   |
 |    |       | |
-
 
 ### Normalisation
 
