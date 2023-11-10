@@ -7,8 +7,25 @@ Databases serve an important function for many individuals and companies, by pro
 
 The languages used to perform the various critical tasks that ensure database management system function correctly and databases are secure, up-to-date and at peek performance are referred to as *SQL Sub-Languages* under Structured Query Language(SQL).
 
+Most Database beginners confused by terminologies;- SQL & NoSQL as well as MySQL & MsSQL. Being the most common terminologies beginners will encounter before become senior Developers or Senior Engineer, let's look at them briefly;-
+
 ### SQL Vs NoSQL
 
+When it comes to choosing a database the biggest decision is picking a relational (SQL) or non-relational (NoSQL) data structure. SQL databases are primarily called Relational Databases (RDBMS); whereas NoSQL databases are primarily called non-relational or distributed databases.
+
+NoSQL (“non SQL” or “not only SQL”) databases were developed in the late 2000s with a focus on scaling, fast queries, allowing for frequent application changes, and making programming simpler for developers. Relational databases accessed with SQL (Structured Query Language) were developed in the 1970s with a focus on reducing data duplication as storage was much more costly than developer time.
+
+SQL requires you to use predefined schemas to determine the structure of your data before you work with it while NoSQL databases have a dynamic schemas for unstructured data thus their data is stored in many ways such as document-oriented, column-oriented, graph-based, or organized as a key-value store.
+
+SQL databases are table-based on the other hand NoSQL databases are either key-value pairs, document-based, graph databases, or wide-column stores. 
+
+### MySQL VS MsSQL
+
+Several database platforms use SQL, but with slight variations—each tends to have a slightly different syntax. **MySQL** and **Microsoft SQL Server (MSSQL)** are two of the most popular enterprise database systems in the world.
+While MySQL is an open-source relational database management system (RDBMS), MSSQL Server RDBMS is developed by Microsoft.
+
+* MySQL emerged in the mid-1990s as one of the first open-source RDBMS, which significantly contributed to its immense popularity, particularly among startups.
+* Microsoft SQL Server, on the other hand, has been around since the 1980s, making it an older product than MySQL. Although it has undergone numerous changes over the years, its core principles remain consistent.
 
 
 ## SQL | Structured Query Language
@@ -157,8 +174,6 @@ check out [TCL Full Form](https://www.geeksforgeeks.org/tcl-full-form/) for more
 |WITH     | `WITH temporary_name AS (SELECT *FROM table_name)SELECT *FROM temporary_nameWHERE column_name operator value;`      | It is used to utilize an alias to store the result of a certain query in a transient table.   |
 |    |       | |
 
-### MySQL VS MsSQL
-
 
 ### Normalisation
 
@@ -261,3 +276,5 @@ LINQ, or Language Integrated Query, is a language that extracts and processes da
 * [SQL | DDL, DQL, DML, DCL and TCL Commands](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
 * [Types of SQL Commands: DDL, DQL, DML, DCL, TCL](https://trainings.internshala.com/blog/different-types-of-sql-commands/)
 * [Types of Database Languages and Their Uses](https://sahil-miglani.medium.com/types-of-database-languages-and-their-uses-1a4b84b89e72)
+* [SQL vs. NoSQL: The Most Important Differences](https://blog.udemy.com/nosql-vs-sql/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_535397282064_._kw__._de_c_._dm__._pl__._ti_dsa-393987629421_._li_9076814_._pd__._&matchtype=&gclid=CjwKCAiAxreqBhAxEiwAfGfndIYj8JDvQdOheiaOnsJIcefnvmkjzBjc2waeVjVad-tMmKJjrYXWhxoCNJkQAvD_BwE)
+* [SQL vs. NoSQL Databases: What’s the Difference?](https://www.ibm.com/blog/sql-vs-nosql/)
