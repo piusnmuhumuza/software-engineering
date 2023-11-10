@@ -12,7 +12,7 @@ The languages used to perform the various critical tasks that ensure database ma
 
 Structured query language (SQL) is a standardized, domain-specific programming language for managing (e.g. storing and processing information) relational databases or performing various operations on the data in them.
 
-Initially created in the 1970s, SQL is regularly used not only by database administrators, but also by developers writing data integration scripts and data analysts looking to set up and run analytical queries.
+Initially created in the 1970s, SQL is tremendously powerful when it comes to Database Management, and regularly used not only by database administrators, but also by developers writing data integration scripts and data analysts looking to set up and run analytical queries. 
 
 The term SQL is pronounced ```ess-kew-ell```, ```ɛsˌkjuːˈɛl```,```S-Q-L``` or sometimes ```siːkwəl``` "sequel"sequel for historical reasons.
 
@@ -27,9 +27,13 @@ Chamberlin and Boyce's first attempt at a relational database language was SQUAR
 
 ### Database Querying
 
-SQL queries and other operations take the form of commands written as statements and are aggregated into programs that enable users to add, modify or retrieve data from database tables.
+Like any well-designed programming tool, SQL includes certain commands that every developer should be familiar with while working with databases.
 
-A table is the most basic unit of a database and consists of rows and columns of data. A single table holds records, and each record is stored in a row of the table. Tables are the most used type of database objects, or structures that hold or reference data in a relational database. Other types of database objects include the following:
+SQL queries and other operations take the form of commands written as statements, aggregated into programs that enable users to add, modify or retrieve data from database tables.
+
+A **table** is the most basic unit of a database and consists of ``rows`` and ``columns`` of data. A single table holds ``records``, and each record is stored in a ``row`` of the table. Tables are the most used type of database objects, or structures that hold or reference data in a relational database.
+
+Other types of database objects include the following:
 
 * **Views** are logical representations of data assembled from one or more database tables.
 * **Indexes** are lookup tables that help speed up database lookup functions.
@@ -43,17 +47,21 @@ Originally based upon relational algebra and tuple relational calculus, SQL cons
 
 SQL These sub-languages are mainly categorized into four categories: **a Data Query Language(DQL)**, **a Data Definition Language (DDL)**, **a Data Control Language (DCL)**, and **a Data Manipulation Language (DML)**. But there is another one called;- the **Transaction Control Language (TCL)** & **XML Query Language (XQuery)**.
 
+[![An old rock in the desert](/images/sql-commands.jpg "SQL commands")](https://www.geeksforgeeks.org/sql-ddl-dml-tcl-dcl/)*The Structured Query(SQL) Language Commands ordered by their sub-languages.*
+
 #### DDL | Data Definition Language
 
-Also called data definition commands because they are used to define data tables are Primarily used by Developers who create database objects using commands;- ```CREATE```, ```ALTER```, ```DROP```.
+DDL,a set of SQL commands, mainly dealing with database schema descriptions is used to describe/define the database schema.
+Also called data definition commands;- ``CREATE``, ``ALTER``, ``RENAME``, ``TRUNCATE``,``COMMENT`` & ``DROP``, commands are primarily used by privileged **Developers** and not **general users** to create, design, modify/alter, or destroy/delete the structure/layout of the objects stored in the database but not the data itself.
 
-#### DML | Data Manipulation Language
+**The DDL Commands** include;-
 
-Primarily used by everyone but most specifically data analyst who write queries that target data. commands;- ```INSERT```, ```UPDATE```, ```DELETE```, are used to manipulate data in existing tables by adding, changing or removing data. Unlike DDL commands that define how data is stored, DML commands operate in the tables defined with DDL commands.
-
-#### DCL | Data Control Language
-
-Primarily used by Database Administrators (DBA) for security accesses and control, these commands are used to grant or revoke user access privileges using;- ```GRANT```, ```REVOKE```, ```DENY``` commands.
+* The **``CREATE``** command is used to create the database or its objects (like table, index, function, views, store procedure, and triggers).
+* The **``DROP``** command is used to delete objects from the database.
+* The **``ALTER``** command is used to alter the structure of the database.
+* The **``TRUNCATE``** command is used to remove all records from a table, including all spaces allocated for the records are removed.
+* **``COMMENT``** is used to add comments to the data dictionary.
+* The **``RENAME``** command is used to rename an object existing in the database.
 
 #### DQL | Data Query Language
 
@@ -63,9 +71,51 @@ The purpose of DQL commands is to get the schema relation based on the query pas
 
 Nonetheless, the SQL ``SELECT`` statement is strictly an example of DQL, whose statements are used for performing queries on the data within schema objects.
 
+#### DML | Data Manipulation Language
+
+Primarily used by everyone but most specifically data analyst who write queries that target data. commands;- ```INSERT```, ```UPDATE```, ```DELETE```, are used to manipulate data in existing tables by adding, changing or removing data. Unlike DDL commands that define how data is stored, DML commands operate in the tables defined with DDL commands.
+
+* The **``INSERT``** command is used to insert data into a table.
+* The **``UPDATE``** command is used to update existing data within a table.
+* The **``DELETE``** command is used to delete records from a database table.
+* The **``LOCK``** command is used for Table control concurrency.
+* The **``CALL``** command is a PL/SQL or JAVA subprogram.
+* The **``EXPLAIN PLAN``** command describes the access path to data.
+
+#### DCL | Data Control Language
+
+Primarily used by Database Administrators (DBA) for security accesses and control, these commands are used to grant or revoke user access privileges using;- ```GRANT```, ```REVOKE```, ```DENY``` commands.
+
+* The **``GRANT``** command gives users access privileges to the database.
+
+**Syntax:**
+
+```sql
+GRANT SELECT, UPDATE ON MY_TABLE TO SOME_USER, ANOTHER_USER;
+```
+
+* The **``REVOKE``** command withdraws the user’s access privileges given by using the GRANT command.
+
+**Syntax:**
+
+```sql
+REVOKE SELECT, UPDATE ON MY_TABLE FROM USER1, USER2;  
+```
+
 #### TCL | Transaction Control Language
 
 Sometimes argued to be part of the sub-language set as well, TCL commands are used to change the state of some data -- for example, to ``COMMIT`` transaction changes or to ``ROLLBACK`` transaction changes.
+
+A *transaction/Transactions group* is a *set/collection& of tasks that are executed as a *single entity/a single execution unit*. Each transaction commences with a particular task and ends when all of the tasks in the group are *accomplished/successfully completed*. The transaction fails when one or more of the tasks *misses or fails*. As a consequence, a transaction has just two *results/outcomes*: either it succeeds(**Success**) or it fails(**failure**).
+
+**These are TCL commands that serve to manage transaction execution:**
+
+* The **``BEGIN``** command initiates a transaction.
+* The **``COMMIT``** command commits or terminates a transaction.
+* The **``ROLLBACK``** Reverts a transaction if an error appears.
+* The **``SAVEPOINT``** Creates a transaction save point.
+* The **``SET TRANSACTION``** Defines the transaction’s parameters.
+check out [TCL Full Form](https://www.geeksforgeeks.org/tcl-full-form/) for more.
 
 ### Normalisation
 
@@ -127,4 +177,5 @@ XML data and other databases that store data in a format analogous to HTML can b
 * [XML Query Language](https://www.techopedia.com/definition/2671/xml-query-language-xquery)
 * [Structured Query Language (SQL)](https://www.techtarget.com/searchdatamanagement/definition/SQL)
 * [SQL | DDL, DQL, DML, DCL and TCL Commands](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
+* [Types of SQL Commands: DDL, DQL, DML, DCL, TCL](https://trainings.internshala.com/blog/different-types-of-sql-commands/)
 * 
