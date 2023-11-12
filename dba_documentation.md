@@ -222,18 +222,19 @@ Consistency, Availability and partition Tolerance.
 
 ## ACID
 
-Atomicity,Consistency, Isolation, Durability.
+Atomicity, Consistency, Isolation, Durability.
 
 ## Projects
+* [Paakasa](https://github.com/piusnmuhumuza/paakasa)
 
 ## Glossary
 
-* **Sublanguages:** A sublanguages is a subset of a language. Sublanguages occur in natural language, computer programming language, and relational databases.
+* **Sublanguages:** A sublanguage is a subset of a language. Sublanguages occur in natural language, computer programming language, and relational databases.
 * **IBM System R:** is a database system built as a research project at IBM's San Jose Research Laboratory beginning in 1974. [System R](https://en.wikipedia.org/wiki/IBM_System_R) was a seminal project: it was the first implementation of SQL, which has since become the standard relational data query language.
-* **Edgar F. Codd (19 August 1923 – 18 April 2003) :** was an English computer scientist who, while working for IBM, invented the relational model for database management, the theoretical basis for relational databases and relational database management systems. He made other valuable contributions to computer science, but the relational model, a very influential general theory of data management, remains his most mentioned, analyzed and celebrated achievement.
+* **Edgar F. Codd (19 August 1923 – 18 April 2003):** was an English computer scientist who, while working for IBM, invented the relational model for database management, the theoretical basis for relational databases and relational database management systems. He made other valuable contributions to computer science, but the relational model, a very influential general theory of data management, remains his most mentioned, analyzed and celebrated achievement.
 * **Raymond F. Boyce (1946–1974):** was an American computer scientist who was known for his research in relational databases. He is best known for his work co-developing the SQL database language and [Boyce-Codd normal form](https://en.wikipedia.org/wiki/Boyce%E2%80%93Codd_normal_form).
 * **Donald D. Chamberlin:** is an American computer scientist who is one of the principal designers of the original SQL language specification with Raymond Boyce. He also made significant contributions to the development of [XQuery](https://en.wikipedia.org/wiki/XQuery). Chamberlin was elected a member of the [National Academy of Engineering](https://www.nae.edu/) in 1997 for contributions to the SQL database query language.
-* **SQUARE (Specifying Queries in A Relational Environment):**, *but it was difficult to use due to subscript/superscript notation.-- SQUARE is a set oriented data sublanguage for expressing queries to a data base consisting of a collection of time-varying relations that mimics how people use relations or tables to obtain information.*
+* **SQUARE (Specifying Queries in A Relational Environment):**, *but it was difficult to use due to subscript/superscript notation.-- SQUARE is a set-oriented data sublanguage for expressing queries to a database consisting of a collection of time-varying relations that mimics how people use relations or tables to obtain information.*
 * **XQuery (XML Query):** is a query and functional programming language that queries and transforms collections of structured and unstructured data, usually in the form of XML, text and with vendor-specific extensions for other data formats (JSON, binary, etc.).
 
 
@@ -253,7 +254,7 @@ Because the structure of XML data is unpredictable, the queries that you need to
 * Return results that have mixed types.
 * Update existing XML data.
 
-XML data and other databases that store data in a format analogous to HTML can be processed with XQuery. The main objective of XQuery is to provide query mechanisms for data extraction from real and virtual Web based documents. It aims to link Web and database technologies with the help of XML.
+XML data and other databases that store data in a format analogous to HTML can be processed with XQuery. The main objective of XQuery is to provide query mechanisms for data extraction from real and virtual Web-based documents. It aims to link Web and database technologies with the help of XML.
 
 ### SQL/XML
 
@@ -274,8 +275,7 @@ LINQ, or Language Integrated Query, is a language that extracts and processes da
 ## KEYWORDS
 ``DATABASES``, ``SQL``, ``STRUCTURED QUERY LANGUAGE``, ``SQUARE``, ``DATABASE ADMINISTRATION``, ``DATABASE ADMINISTRATOR``, ``RELATIONAL DATABASES``, ``QUERYING``, ``SQL QUERYING``, ``Normalization``, ``Database Character Sets``, ``SQL Server``, ``XQuery``.
 
-## Projects
-* [Paakasa](https://github.com/piusnmuhumuza/paakasa)
+
 
 ## Additional Learning Resources
 
