@@ -273,9 +273,8 @@ GraphQL is an open-source language that works with APIs, which are interfaces th
 LINQ, or Language Integrated Query, is a language that extracts and processes data from XML documents, relational databases and other third-party sources. With LINQ, you can access data through various sources without having to use a separate database language for each one. This ensures consistency among queries for objects, relational databases and XML, allowing you to filter, order and group operations.
 
 ## KEYWORDS
+
 ``DATABASES``, ``SQL``, ``STRUCTURED QUERY LANGUAGE``, ``SQUARE``, ``DATABASE ADMINISTRATION``, ``DATABASE ADMINISTRATOR``, ``RELATIONAL DATABASES``, ``QUERYING``, ``SQL QUERYING``, ``Normalization``, ``Database Character Sets``, ``SQL Server``, ``XQuery``.
-
-
 
 ## Additional Learning Resources
 
@@ -297,3 +296,5 @@ LINQ, or Language Integrated Query, is a language that extracts and processes da
 * [Types of Database Languages and Their Uses](https://sahil-miglani.medium.com/types-of-database-languages-and-their-uses-1a4b84b89e72)
 * [SQL vs. NoSQL: The Most Important Differences](https://blog.udemy.com/nosql-vs-sql/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_535397282064_._kw__._de_c_._dm__._pl__._ti_dsa-393987629421_._li_9076814_._pd__._&matchtype=&gclid=CjwKCAiAxreqBhAxEiwAfGfndIYj8JDvQdOheiaOnsJIcefnvmkjzBjc2waeVjVad-tMmKJjrYXWhxoCNJkQAvD_BwE)
 * [SQL vs. NoSQL Databases: What’s the Difference?](https://www.ibm.com/blog/sql-vs-nosql/)
+* [How to merge two or multiple git repositories into one](https://medium.com/altcampus/how-to-merge-two-or-multiple-git-repositories-into-one-9f8a5209913f)
+* [combining-git-repositories.md](https://gist.github.com/msrose/2feacb303035d11d2d05)
