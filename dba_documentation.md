@@ -274,6 +274,8 @@ LINQ, or Language Integrated Query, is a language that extracts and processes da
 ## KEYWORDS
 ``DATABASES``, ``SQL``, ``STRUCTURED QUERY LANGUAGE``, ``SQUARE``, ``DATABASE ADMINISTRATION``, ``DATABASE ADMINISTRATOR``, ``RELATIONAL DATABASES``, ``QUERYING``, ``SQL QUERYING``, ``Normalization``, ``Database Character Sets``, ``SQL Server``, ``XQuery``.
 
+## Projects
+* [Paakasa](https://github.com/piusnmuhumuza/paakasa)
 
 ## Additional Learning Resources
 
