@@ -161,14 +161,14 @@
 
 **1.Tutorial**
 * [SQLZoo -(It's best)](sqlzoo.net/wiki/SQL_Tutor…)
-* [W3Schools:](w3schools.com/sql/)
+* [W3Schools](w3schools.com/sql/)
 
 **2. YouTube Channel's**
-* [FreeCodeCamp:](rb.gy/pprz73)
-* [Programming with Mosh:](rb.gy/g62hpe)
+* [FreeCodeCamp](rb.gy/pprz73)
+* [Programming with Mosh](rb.gy/g62hpe)
 
 **3. Books**
-* [SQL in a Nutshell:](rb.gy/1o3rd)
+* [SQL in a Nutshell](rb.gy/1o3rd)
 
 ## Conclusion
 
