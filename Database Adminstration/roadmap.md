@@ -172,15 +172,7 @@
 
 ## Conclusion
 
-This roadmap list was inspired from 
-
-tweet by 
-
-
-
-
-
-
-
+This roadmap list was inspired from [tweet](https://x.com/harsa_dash/status/1726090696233468275?s=46) 
+by [Harsa Dash](https://x.com/harsa_dash?s=21)
 
 
