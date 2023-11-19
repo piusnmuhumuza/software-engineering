@@ -160,8 +160,8 @@
 Some good resources to learn SQL 
 
 1.Tutorial
-• [SQLZoo -(It's best)](sqlzoo.net/wiki/SQL_Tutor…)
-• [W3Schools:](w3schools.com/sql/)
+* [SQLZoo -(It's best)](sqlzoo.net/wiki/SQL_Tutor…)
+* [W3Schools:](w3schools.com/sql/)
 
 2. YouTube Channel's 
 • [FreeCodeCamp:](rb.gy/pprz73)
