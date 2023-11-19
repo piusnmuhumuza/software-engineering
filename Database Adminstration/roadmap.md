@@ -169,3 +169,18 @@
 
 **3. Books**
 * [SQL in a Nutshell:](rb.gy/1o3rd)
+
+## Conclusion
+
+This roadmap list was inspired from 
+
+tweet by 
+
+
+
+
+
+
+
+
+
