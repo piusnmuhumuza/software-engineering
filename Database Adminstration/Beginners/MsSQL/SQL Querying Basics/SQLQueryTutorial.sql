@@ -2,23 +2,9 @@
 
 /****** Script for SelectTopNRows command from SSMS  ******/
 SELECT TOP (1000) [EmployeeID]
-      ,[LastName]
-      ,[FirstName]
-      ,[Title]
-      ,[TitleOfCourtesy]
-      ,[BirthDate]
-      ,[HireDate]
-      ,[Address]
-      ,[City]
-      ,[Region]
-      ,[PostalCode]
-      ,[Country]
-      ,[HomePhone]
-      ,[Extension]
-      ,[Photo]
-      ,[Notes]
-      ,[ReportsTo]
-      ,[PhotoPath]
+,[LastName],[FirstName],[Title],[TitleOfCourtesy],[BirthDate]
+,[HireDate],[Address],[City],[Region],[PostalCode],[Country]
+,[HomePhone],[Extension],[Photo],[Notes],[ReportsTo],[PhotoPath]
   FROM [master].[dbo].[Employees]
   --- System defined query.
 
@@ -68,96 +54,41 @@ SELECT
  ----------------------------------------------------------------------
 
 --NULL, NOT NULL
- SELECT TOP (1000) [OrderID]
-      ,[CustomerID],[EmployeeID]
-      ,[OrderDate]
-      ,[RequiredDate]
-      ,[ShippedDate]
-      ,[ShipVia]
-      ,[Freight]
-      ,[ShipName]
-      ,[ShipAddress]
-      ,[ShipCity]
-      ,[ShipRegion]
-      ,[ShipPostalCode]
-      ,[ShipCountry]
-  FROM [master].[dbo].[Orders]
-  WHERE [ShipRegion] IS NULL
+ SELECT [OrderID]
+,[CustomerID],[EmployeeID],[OrderDate],[RequiredDate],[ShippedDate]
+,[ShipVia],[Freight],[ShipName],[ShipAddress]
+,[ShipCity],[ShipRegion],[ShipPostalCode],[ShipCountry]
+FROM [master].[dbo].[Orders] WHERE [ShipRegion] IS NULL
 --------
- SELECT TOP (1000) [OrderID]
-      ,[CustomerID]
-      ,[EmployeeID]
-      ,[OrderDate]
-      ,[RequiredDate]
-      ,[ShippedDate]
-      ,[ShipVia]
-      ,[Freight]
-      ,[ShipName]
-      ,[ShipAddress]
-      ,[ShipCity]
-      ,[ShipRegion]
-      ,[ShipPostalCode]
-      ,[ShipCountry]
-  FROM [master].[dbo].[Orders]
-  WHERE [ShipRegion] IS NOT NULL
+ SELECT [OrderID]
+,[CustomerID],[EmployeeID],[OrderDate],[RequiredDate],[ShippedDate]
+,[ShipVia],[Freight],[ShipName],[ShipAddress],[ShipCity]
+,[ShipRegion],[ShipPostalCode],[ShipCountry]
+FROM [master].[dbo].[Orders] WHERE [ShipRegion] IS NOT NULL
 
 --BETWEEN, IN
-SELECT TOP (1000) [ProductID]
-      ,[ProductName]
-      ,[SupplierID]
-      ,[CategoryID]
-      ,[QuantityPerUnit]
-      ,[UnitPrice]
-      ,[UnitsInStock]
-      ,[UnitsOnOrder]
-      ,[ReorderLevel]
-      ,[Discontinued]
+SELECT 
+[ProductID],[ProductName],[SupplierID],[CategoryID]
+,[QuantityPerUnit],[UnitPrice],[UnitsInStock],[UnitsOnOrder]
+,[ReorderLevel],[Discontinued]
   FROM [master].[dbo].[Products] WHERE UnitPrice BETWEEN '18.00' AND '22.00'--BETWEEN
 
-SELECT TOP (1000) [ProductID]
-      ,[ProductName]
-      ,[SupplierID]
-      ,[CategoryID]
-      ,[QuantityPerUnit]
-      ,[UnitPrice]
-      ,[UnitsInStock]
-      ,[UnitsOnOrder]
-      ,[ReorderLevel]
-      ,[Discontinued]
+SELECT [ProductID]
+,[ProductName],[SupplierID],[CategoryID],[QuantityPerUnit]
+,[UnitPrice],[UnitsInStock],[UnitsOnOrder],[ReorderLevel],[Discontinued]
   FROM [master].[dbo].[Products] WHERE SupplierID IN (1,2,5)--IN
 
 --WILDCARD CHARACTERS
 ---------------------------------
-SELECT TOP (1000) [OrderID]
-      ,[CustomerID]
-      ,[EmployeeID]
-      ,[OrderDate]
-      ,[RequiredDate]
-      ,[ShippedDate]
-      ,[ShipVia]
-      ,[Freight]
-      ,[ShipName]
-      ,[ShipAddress]
-      ,[ShipCity]
-      ,[ShipRegion]
-      ,[ShipPostalCode]
-      ,[ShipCountry]
+SELECT 
+[OrderID],[CustomerID],[EmployeeID],[OrderDate],[RequiredDate],[ShippedDate]
+,[ShipVia],[Freight],[ShipName],[ShipAddress]
+,[ShipCity],[ShipRegion],[ShipPostalCode],[ShipCountry]
   FROM [master].[dbo].[Orders] WHERE [CustomerID] LIKE 'VIN%'--Return customers that start with VIN.
 ----------------------------------------------
-  SELECT TOP (1000) [OrderID]
-      ,[CustomerID]
-      ,[EmployeeID]
-      ,[OrderDate]
-      ,[RequiredDate]
-      ,[ShippedDate]
-      ,[ShipVia]
-      ,[Freight]
-      ,[ShipName]
-      ,[ShipAddress]
-      ,[ShipCity]
-      ,[ShipRegion]
-      ,[ShipPostalCode]
-      ,[ShipCountry]
+  SELECT [OrderID]
+,[CustomerID],[EmployeeID],[OrderDate],[RequiredDate],[ShippedDate],[ShipVia]
+,[Freight],[ShipName],[ShipAddress],[ShipCity],[ShipRegion],[ShipPostalCode],[ShipCountry]
   FROM [master].[dbo].[Orders] WHERE [CustomerID] LIKE '%VIN%'--Return customers that have letters VIN.
 --------------------------------------------------------
 
@@ -170,19 +101,11 @@ SELECT TOP (1000)
 
 --,FORMAT(OrderDate, 'MM/dd/yyyy') AS "Order Date
 SELECT TOP (1000) [OrderID]
-      ,[CustomerID]
-      ,[EmployeeID]
-      ,FORMAT(OrderDate, 'MM/dd/yyyy') AS "Order Date"
-      ,FORMAT(RequiredDate, 'MM-dd-yyyy') AS "Required Date"
-      ,FORMAT(ShippedDate, 'MM-dd-yyyy') AS "Shipped Date"
-      ,[ShipVia]
-      ,[Freight]
-      ,[ShipName]
-      ,[ShipAddress]
-      ,[ShipCity]
-      ,[ShipRegion]
-      ,[ShipPostalCode]
-      ,[ShipCountry]
+,[CustomerID],[EmployeeID]
+,FORMAT(OrderDate, 'MM/dd/yyyy') AS "Order Date"
+,FORMAT(RequiredDate, 'MM-dd-yyyy') AS "Required Date"
+,FORMAT(ShippedDate, 'MM-dd-yyyy') AS "Shipped Date"
+      ,[ShipVia],[Freight],[ShipName],[ShipAddress],[ShipCity],[ShipRegion],[ShipPostalCode],[ShipCountry]
   FROM [master].[dbo].[Orders]
 
 
@@ -192,22 +115,10 @@ SELECT TOP (1000) [OrderID]
 --DATEDD(Unit of Time, Ammount of time, Date to add to)
 /**/
 
-SELECT TOP (1000) [OrderID]
-      ,[CustomerID]
-      ,[EmployeeID]
-	  ,[OrderDate]
-      ,[RequiredDate]
+SELECT [OrderID],[CustomerID],[EmployeeID],[OrderDate],[RequiredDate]
 	  ,DATEDIFF(dd, [OrderDate], [RequiredDate] ) AS DIFFOfDates
 	  ,DATEADD(ww, 4, [OrderDate] ) AS OrderDatesFuture
-      ,[ShippedDate]
-      ,[ShipVia]
-      ,[Freight]
-      ,[ShipName]
-      ,[ShipAddress]
-      ,[ShipCity]
-      ,[ShipRegion]
-      ,[ShipPostalCode]
-      ,[ShipCountry]
+      ,[ShippedDate],[ShipVia],[Freight],[ShipName],[ShipAddress],[ShipCity],[ShipRegion],[ShipPostalCode],[ShipCountry]
   FROM [master].[dbo].[Orders]
 
 
