@@ -125,3 +125,38 @@ SELECT TOP (1000) [ProductID]
       ,[ReorderLevel]
       ,[Discontinued]
   FROM [master].[dbo].[Products] WHERE SupplierID IN (1,2,5)--IN
+
+--WILDCARD CHARACTERS
+---------------------------------
+SELECT TOP (1000) [OrderID]
+      ,[CustomerID]
+      ,[EmployeeID]
+      ,[OrderDate]
+      ,[RequiredDate]
+      ,[ShippedDate]
+      ,[ShipVia]
+      ,[Freight]
+      ,[ShipName]
+      ,[ShipAddress]
+      ,[ShipCity]
+      ,[ShipRegion]
+      ,[ShipPostalCode]
+      ,[ShipCountry]
+  FROM [master].[dbo].[Orders] WHERE [CustomerID] LIKE 'VIN%'--Return customers that start with VIN.
+----------------------------------------------
+  SELECT TOP (1000) [OrderID]
+      ,[CustomerID]
+      ,[EmployeeID]
+      ,[OrderDate]
+      ,[RequiredDate]
+      ,[ShippedDate]
+      ,[ShipVia]
+      ,[Freight]
+      ,[ShipName]
+      ,[ShipAddress]
+      ,[ShipCity]
+      ,[ShipRegion]
+      ,[ShipPostalCode]
+      ,[ShipCountry]
+  FROM [master].[dbo].[Orders] WHERE [CustomerID] LIKE '%VIN%'--Return customers that have letters VIN.
+--------------------------------------------------------
