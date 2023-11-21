@@ -160,3 +160,52 @@ SELECT TOP (1000) [OrderID]
       ,[ShipCountry]
   FROM [master].[dbo].[Orders] WHERE [CustomerID] LIKE '%VIN%'--Return customers that have letters VIN.
 --------------------------------------------------------
+
+--Column Aliases
+SELECT TOP (1000) 
+[CustomerID],[CompanyName] AS "COMPANY",[ContactName] AS "CONTACT",[ContactTitle] AS "TITLE",
+[Address],[City],[Region],[PostalCode] AS "ZIP CODE",[Country],[Phone],[Fax]
+  FROM [master].[dbo].[Customers]
+------------------------------------------------------------------------------------
+
+--,FORMAT(OrderDate, 'MM/dd/yyyy') AS "Order Date
+SELECT TOP (1000) [OrderID]
+      ,[CustomerID]
+      ,[EmployeeID]
+      ,FORMAT(OrderDate, 'MM/dd/yyyy') AS "Order Date"
+      ,FORMAT(RequiredDate, 'MM-dd-yyyy') AS "Required Date"
+      ,FORMAT(ShippedDate, 'MM-dd-yyyy') AS "Shipped Date"
+      ,[ShipVia]
+      ,[Freight]
+      ,[ShipName]
+      ,[ShipAddress]
+      ,[ShipCity]
+      ,[ShipRegion]
+      ,[ShipPostalCode]
+      ,[ShipCountry]
+  FROM [master].[dbo].[Orders]
+
+
+--DATEDIFF(Unit of Time, Start date, End date)
+/* Calculates the difference between two dates based on specified unit of time.*/
+-------------///
+--DATEDD(Unit of Time, Ammount of time, Date to add to)
+/**/
+
+SELECT TOP (1000) [OrderID]
+      ,[CustomerID]
+      ,[EmployeeID]
+	  ,[OrderDate]
+      ,[RequiredDate]
+	  ,DATEDIFF(dd, [OrderDate], [RequiredDate] ) AS DIFFOfDates
+	  ,DATEADD(ww, 4, [OrderDate] ) AS OrderDatesFuture
+      ,[ShippedDate]
+      ,[ShipVia]
+      ,[Freight]
+      ,[ShipName]
+      ,[ShipAddress]
+      ,[ShipCity]
+      ,[ShipRegion]
+      ,[ShipPostalCode]
+      ,[ShipCountry]
+  FROM [master].[dbo].[Orders]
