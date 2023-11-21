@@ -281,6 +281,31 @@ SELECT
   FROM [master].[dbo].[Order Details] 
   GROUP BY ProductID
   HAVING SUM(UnitPrice) > 400
+-----------------------------------------
+
+--Markup 20%
+--UnitPrice + Markup = SalesPrice
+SELECT
+[ProductID],[ProductName],[SupplierID],[CategoryID],[QuantityPerUnit]
+      ,([UnitPrice] *  .20) as Markup
+	  ,[UnitPrice] + ([UnitPrice] *  .20) as SalesPrice
+      ,[UnitsInStock]
+	  ,([UnitPrice] - [UnitsInStock]) as TotalUnitValue
+      ,[UnitsOnOrder]
+	  ,[UnitsInStock]-[UnitsOnOrder] as StockVSOrder
+      ,[ReorderLevel],[Discontinued]
+  FROM [master].[dbo].[Products]
 
 
+--PIVOT
+
+SELECT * FROM
+(SELECT 
+       [ProductID]
+      ,[CategoryID]
+  FROM [master].[dbo].[Products]) T
+  PIVOT (
+  COUNT([ProductID])
+  FOR [CategoryID] IN ([1], [2], [3], [4], [5], [6], [7], [8])
+  )AS pivot_result
 
