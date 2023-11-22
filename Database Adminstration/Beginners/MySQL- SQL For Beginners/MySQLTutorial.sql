@@ -47,4 +47,14 @@ SELECT
      last_name, 
      points, 
      (points + 10) * 100 as "Discount factor"
-FROM customers
+FROM customers;
+
+SELECT state FROM Customers;
+SELECT distinct state FROM Customers; -- DISTINCT removes duplicates.
+
+-- Return all the products
+-- name
+-- unit price
+-- new price (unit price * 1.1)
+SELECT name AS Name, unit_price AS Price, unit_price * 1.1 AS 'New Price'
+FROM Products;
