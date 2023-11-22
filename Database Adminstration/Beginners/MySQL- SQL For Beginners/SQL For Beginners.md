@@ -8,3 +8,7 @@ SQL, short for Structured Query Language, is a language used by software develop
 
 There are various database management systems (DBMS) that support SQL but each product has its own implementation of SQL. This Tutorial focuses on MySQL to learn SQL, the most popular free and open-source database management system in the world.
 If you use a different DBMS (eg [SQL Server](https://github.com/piusnmuhumuza/bootcamp/tree/master/Database%20Adminstration/Beginners/MsSQL-SQL%20Querying%20Basics)), you can still benefit from this tutorial as 90% of the skills learnt from this tutorial can be transferred to other database management systems.
+
+## Databases
+
+A database is a collection of data stored in a format that can easily be accessed.
