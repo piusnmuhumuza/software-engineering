@@ -22,5 +22,29 @@ SELECT 1,2
 -- ORDER BY first_name
 ;
 
-SELECT first_name, last_name, points + 10
-FROM customers 
+SELECT first_name, last_name, points, points + 10
+FROM customers;
+
+SELECT first_name, last_name, points, points * 10 +100
+FROM customers; 
+
+SELECT 
+     first_name, 
+     last_name, 
+     points, 
+     (points + 10) * 100
+FROM customers ;
+
+SELECT 
+     first_name, 
+     last_name, 
+     points, 
+     (points + 10) * 100 as Discount_factor
+FROM customers;
+
+SELECT 
+     first_name, 
+     last_name, 
+     points, 
+     (points + 10) * 100 as "Discount factor"
+FROM customers
