@@ -63,3 +63,48 @@ FROM Products;
 SELECT * 
 FROM Customers
 WHERE points > 3000;
+
+-- The WHERE Clause with = Operator
+SELECT * 
+FROM Customers
+WHERE state = 'VA';
+
+-- The WHERE Clause with != Operator
+SELECT * 
+FROM Customers
+WHERE state != 'VA';
+
+--
+SELECT * 
+FROM Customers
+WHERE birth_date > '1990-01-01';
+
+-- Get the orders placed this year
+SELECT * FROM Orders
+WHERE order_date >= '2019-01-01';
+
+-- The AND, OR and NOT Operators
+
+SELECT * 
+FROM Customers
+WHERE birth_date > '1990-01-01' AND points > 1000;
+
+--
+SELECT * 
+FROM Customers
+WHERE birth_date > '1990-01-01' OR points > 1000;
+
+--
+SELECT * 
+FROM Customers
+WHERE birth_date > '1990-01-01' OR points > 1000 AND state = 'VA';
+
+--
+SELECT * 
+FROM Customers
+WHERE birth_date > '1990-01-01' OR (points > 1000 AND state = 'VA');
+
+--
+SELECT * 
+FROM Customers
+WHERE NOT (birth_date > '1990-01-01' OR points > 1000);
