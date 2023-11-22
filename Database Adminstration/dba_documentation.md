@@ -226,7 +226,7 @@ Atomicity, Consistency, Isolation, Durability.
 
 ## Projects
 
-* [Paakasa](https://github.com/piusnmuhumuza/paakasa) / [DUMP FILE](https://github.com/piusnmuhumuza/bootcamp/blob/master/Database%20Adminstration/db-backups/DumpPaakasa.sql)
+* [Paakasa](https://github.com/piusnmuhumuza/paakasa) / [dumpFile](https://github.com/piusnmuhumuza/bootcamp/blob/master/Database%20Adminstration/db-backups/DumpPaakasa.sql)
 
 ## Glossary
 
