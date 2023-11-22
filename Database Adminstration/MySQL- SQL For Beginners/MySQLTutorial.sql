@@ -122,11 +122,53 @@ WHERE order_id = 6 AND unit_price * quantity > 30;
 --                    between 1/1/1990 and 1/1/2000
 SELECT *
 FROM customers 
-WHERE birth_date BETWEEN '1990-01-01' AND '2000-01-01'
+WHERE birth_date BETWEEN '1990-01-01' AND '2000-01-01';
 
 --
--- LIKE OPERATOR
+-- LIKE OPERATOR with Wildcards
+ SELECT * 
+ FROM customers
+ WHERE last_name LIKE '%B%';
+--
+ SELECT * 
+ FROM customers
+ WHERE last_name LIKE '%y'; 
  
+SELECT * 
+ FROM customers
+ WHERE last_name LIKE 'B%';
+ 
+-- Get the customers whose 
+--    address contains TRAIL or AVENUE
+ SELECT * 
+ FROM customers
+ WHERE address LIKE '%trail%'OR '%Avenue%';
+ 
+SELECT * 
+ FROM customers
+ WHERE address LIKE '%trail%'OR 
+       address LIKE '%Avenue%';
+       
+-- Phone numbers end with 9
+ SELECT * 
+ FROM customers
+ WHERE phone LIKE '%9';
+ 
+ -- Regular Expressions | powerful when searching for strings
+SELECT * 
+ FROM customers
+ WHERE last_name LIKE '%field%';
+
+-- 
+ SELECT * 
+ FROM customers
+ WHERE last_name regexp 'field';
+ 
+--
+ SELECT * 
+ FROM customers
+ WHERE last_name regexp 'field|mac';
+
 
 
 
