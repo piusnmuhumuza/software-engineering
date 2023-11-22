@@ -116,3 +116,24 @@ WHERE NOT (birth_date > '1990-01-01' OR points > 1000);
 SELECT * 
 FROM order_items
 WHERE order_id = 6 AND unit_price * quantity > 30;
+
+--
+-- Return customers born 
+--                    between 1/1/1990 and 1/1/2000
+SELECT *
+FROM customers 
+WHERE birth_date BETWEEN '1990-01-01' AND '2000-01-01'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
