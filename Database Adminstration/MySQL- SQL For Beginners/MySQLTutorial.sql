@@ -167,7 +167,7 @@ SELECT *
 --
  SELECT * 
  FROM customers
- WHERE last_name regexp 'field|mac';
+ WHERE last_name regexp 'field|mac|rose';
 
 
 
