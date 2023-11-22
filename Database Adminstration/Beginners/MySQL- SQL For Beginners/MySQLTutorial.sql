@@ -58,3 +58,8 @@ SELECT distinct state FROM Customers; -- DISTINCT removes duplicates.
 -- new price (unit price * 1.1)
 SELECT name AS Name, unit_price AS Price, unit_price * 1.1 AS 'New Price'
 FROM Products;
+
+-- The WHERE Clause
+SELECT * 
+FROM Customers
+WHERE points > 3000;
