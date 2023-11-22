@@ -172,7 +172,51 @@ SELECT *
 SELECT * 
  FROM customers
  LIMIT 5;
+ 
+ -- JOINS
+ -- WITHIN A DATABASES
 
+ 
+ SELECT *
+ FROM orders
+ JOIN customers ON orders.customer_id = customers.customer_id;
+ 
+SELECT order_id, first_name, last_name
+ FROM orders
+ JOIN customers ON orders.customer_id = customers.customer_id;
+ 
+ SELECT order_id, orders.customer_id, first_name, last_name
+ FROM orders
+ JOIN customers ON orders.customer_id = customers.customer_id;
+
+ SELECT order_id, o.customer_id, first_name, last_name 
+ FROM orders o
+ JOIN customers c 
+ ON o.customer_id = c.customer_id;
+ 
+-- SELECT * FROM sql_store.orders;
+SELECT order_id, p.product_id, p.name, quantity, o.unit_price
+FROM order_items o
+JOIN products p
+ON o.product_id = p.product_id;
+
+-- JOINING TABLES ACCROSS DATABASES
+SELECT *
+FROM order_items o
+JOIN sql_inventory.products p
+ON o.product_id = p.product_id;
+
+SELECT 
+o.order_id,
+o.order_date,
+c.first_name,
+c.last_name,
+os.name
+FROM orders o
+JOIN customers c
+   on o.customer_id = c.customer_id
+JOIN order_statuses os
+   on o.status  = os.order_status_id 
 
 
 
