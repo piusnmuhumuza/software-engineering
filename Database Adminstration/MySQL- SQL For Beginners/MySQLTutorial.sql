@@ -169,6 +169,9 @@ SELECT *
  FROM customers
  WHERE last_name regexp 'field|mac|rose';
 
+SELECT * 
+ FROM customers
+ LIMIT 5;
 
 
 
