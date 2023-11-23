@@ -74,7 +74,9 @@ Originally based upon relational algebra and tuple relational calculus, SQL cons
 
 SQL These sub-languages are mainly categorized into four categories: **a Data Query Language(DQL)**, **a Data Definition Language (DDL)**, **a Data Control Language (DCL)**, and **a Data Manipulation Language (DML)**. But there is another one called;- the **Transaction Control Language (TCL)** & **XML Query Language (XQuery)**.
 
-[![SQL Commands](/images/sql-commands.jpg "SQL commands")](https://www.geeksforgeeks.org/sql-ddl-dml-tcl-dcl/)*The common Structured Query Language(SQL)  Commands organised by their sub-languages.*
+![SQL Commands](https://github.com/piusnmuhumuza/bootcamp/blob/master/Database%20Adminstration/images/sql-commands.jpg "SQL Commands") *The common Structured Query Language(SQL)  Commands organised by their sub-languages.*
+
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 #### DDL | Data Definition Language
 
