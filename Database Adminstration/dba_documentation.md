@@ -76,8 +76,6 @@ SQL These sub-languages are mainly categorized into four categories: **a Data Qu
 
 ![SQL Commands](https://github.com/piusnmuhumuza/bootcamp/blob/master/Database%20Adminstration/images/sql-commands.jpg "SQL Commands") *The common Structured Query Language(SQL)  Commands organised by their sub-languages.*
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
-
 #### DDL | Data Definition Language
 
 DDL,a set of SQL commands, mainly dealing with database schema descriptions is used to describe/define the database schema.
@@ -183,7 +181,7 @@ check out [TCL Full Form](https://www.geeksforgeeks.org/tcl-full-form/) for more
 |WITH     | `WITH temporary_name AS (SELECT *FROM table_name)SELECT *FROM temporary_nameWHERE column_name operator value;`      | It is used to utilize an alias to store the result of a certain query in a transient table.   |
 |    |       | |
 
-[!SQL Chart]()
+![!SQL Chart](https://github.com/piusnmuhumuza/bootcamp/blob/master/Database%20Adminstration/images/sql-chart.jpg "SQL Chart") *The SQL Chart [source from Tech Kage](https://x.com/TheTechKage/status/1727321992494514252?s=20).*
 
 ### Normalisation
 
