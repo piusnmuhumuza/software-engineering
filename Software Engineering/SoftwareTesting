@@ -1,0 +1,41 @@
+# Software Testing
+
+## Introduction
+
+Software testing is the process of evaluating and verifying that a computer program or system functions as intended. 
+It involves executing a program or system to identify any errors or gaps between the expected and actual outcomes. 
+The goal is to ensure the software meets specified requirements, is free of defects, and works reliably in different scenarios.
+
+## Why is Software Testing Needed?
+
+Software testing plays a crucial role in delivering reliable and high-quality software as well as mitigating risks, enhances user satisfaction, and ensuring a smooth user experience.
+
+It's essential to have robust testing processes to succeed in order to;-
+
+* Identifying Bugs and Defects
+* Ensuring Quality
+* Meeting Requirements
+* Enhancing Reliability
+* Preventing Future Issues and many more.
+
+## - Levels of Testing
+
+### Unit Testing:
+
+Testing individual parts or components (units) of a software to ensure they work as intended.
+Why? To make sure each piece of the software functions correctly on its own.
+
+### Integration Testing:
+
+Testing how different units or components work together when integrated into a larger system.
+Why? To check if the combined units cooperate as expected and don't cause issues when connected.
+
+### System Testing:
+
+Testing the entire system as a whole to verify that it meets the specified requirements.
+Why? To ensure that the complete software system functions correctly and satisfies user needs.
+
+### Acceptance Testing:
+
+Checking if the software meets the requirements and specifications set by the end-users or clients.
+Why? To confirm that the software is ready for release and satisfies the user's expectations and needs.
