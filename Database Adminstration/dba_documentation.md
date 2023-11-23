@@ -1,5 +1,9 @@
 
-# LEARNING DATABASE ADMINISTRATION
+# THE COMPLETE DATABASE ADMINISTRATION
+
+A complete learning resource documentation for database administration. I put it together while teaching myself, curating and researching Data Management, databases and Databases Administration.
+
+In an era where good information is hard to come by, my hope, is that whoever reads this can find it resourceful, make suggestions for improvement just like i did from all the resources i came across.
 
 ## Databases
 
@@ -281,7 +285,8 @@ LINQ, or Language Integrated Query, is a language that extracts and processes da
 
 * [SQL Roadmap](https://roadmap.sh/sql)
 * [History of SQL](https://medium.com/@yidigeng95_64319/history-of-sql-bc92a4981d60)
-* [A Relational Model of Data for Large Shared Data Banks]()
+* [We Learn SQL](https://www.youtube.com/playlist?list=PLVaK3MTZWeZCW__qXkqlV0FesBi9lCPiF)
+* [A Relational Model of Data for Large Shared Data Banks](https://github.com/piusnmuhumuza/bootcamp/blob/master/Database%20Adminstration/docs/A%20Relational%20Model%20of%20Data%20for%20Large%20Shared%20Data%20Banks-codd.pdf)
 * [Understanding Database Character Sets and Collations”](https://blog.fourninecloud.com/database-character-set-charset-collation-and-their-relationship-explained-227bd5155c48)
 * [Data Normalization: Definition, Importance, and Advantages](https://coresignal.com/blog/data-normalization/)
 * [SQL Querying for Beginners Tutorial](https://www.youtube.com/watch?v=AFY3z4FwRg0&t=1568s&ab_channel=LearnitTraining)
