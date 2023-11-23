@@ -1,5 +1,9 @@
 
-# THE COMPLETE DATABASE ADMINISTRATION
+# DATABASE ADMINISTRATION
+
+The Complete Database Administration Documentation
+
+## Introduction
 
 A complete learning resource documentation for database administration. I put it together while teaching myself, curating and researching Data Management, databases and Databases Administration.
 
@@ -181,7 +185,7 @@ check out [TCL Full Form](https://www.geeksforgeeks.org/tcl-full-form/) for more
 |WITH     | `WITH temporary_name AS (SELECT *FROM table_name)SELECT *FROM temporary_nameWHERE column_name operator value;`      | It is used to utilize an alias to store the result of a certain query in a transient table.   |
 |    |       | |
 
-![!SQL Chart](https://github.com/piusnmuhumuza/bootcamp/blob/master/Database%20Adminstration/images/sql-chart.jpg "SQL Chart") *The SQL Chart [source from Tech Kage](https://x.com/TheTechKage/status/1727321992494514252?s=20).*
+![!SQL Chart](https://github.com/piusnmuhumuza/bootcamp/blob/master/Database%20Adminstration/images/sql-chart.jpg "SQL Chart") *The SQL Chart [sourced from Tech Kage](https://x.com/TheTechKage/status/1727321992494514252?s=20).*
 
 ### Normalisation
 
