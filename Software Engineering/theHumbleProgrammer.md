@@ -95,7 +95,9 @@ It has already taught us a few lessons, and the one I have chosen to stress in t
 * [A copy of the EWD 340: The humble programmer](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/EWD340.pdf) for easy access incase.
 * [Communications of the ACM Volume 15, Issue 10-Oct.1972. pp 859–866](https://dl.acm.org/doi/10.1145/355604.361591) & [PDF](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/355604.361591.pdf)
 * [An episode of The Eric Normand Podcast-The Humble Programmer Recorded by Eric Normand](https://ericnormand.me/podcast/the-humble-programmer)
-* [P. Naur and B. Randell, (Eds.). Software Engineering: Report of a conference sponsored by the NATO Science Committee, Garmisch, Germany, 7-11 Oct. 1968, Brussels, Scientific Affairs Division, NATO (1969) 231pp.]()
+* [P. Naur and B. Randell, (Eds.). Software Engineering: Report of a conference sponsored by the NATO Science Committee, Garmisch, Germany, 7-11 Oct. 1968, Brussels, Scientific Affairs Division, NATO (1969) 231pp.](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/The%20NATO%20Software%20Engineering%20Conferences/software-engineering_nato1968.pdf)
+* [B. Randell and J.N. Buxton, (Eds.). Software Engineering Techniques: Report of a conference sponsored by the NATO Science Committee, Rome, Italy, 27-31 Oct. 1969, Brussels, Scientific Affairs Division, NATO (1970) 164pp.](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/The%20NATO%20Software%20Engineering%20Conferences/Software-Engineering-techniques_nato1969.pdf)
+* []
 
 ## Glossary
 
