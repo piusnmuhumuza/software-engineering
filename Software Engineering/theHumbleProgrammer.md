@@ -3,7 +3,7 @@
 Found The Humble programmer while reading about software Engineering when i decide to research the history which led me to the [Software Crisis of 1960-80s]() and somewhere in the noted, [the Humble Programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html).
 I figured, curating it here might be resourceful for any other software Engineering enthuthiast as it was for me.
 
-EWD 340: The humble programmer was published in Commun. ACM 15 (1972), 10: 859–866. 
+[EWD 340: The humble programmer]((https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/EWD340.pdf)) was published in Commun. ACM 15 (1972), 10: 859–866. 
 
 ## ACM Turing Lecture 1972.
 
@@ -93,4 +93,5 @@ It has already taught us a few lessons, and the one I have chosen to stress in t
 
 * [The Humble Programmer (Text-to-Speech) | Edsger W. Dijkstra | ACM Turing Lecture 1972](https://www.youtube.com/watch?v=4VVAzRFHWvA&ab_channel=RenTristandelaCruz "The Humble Programmer Audio on Youtube")
 * [A copy of the EWD 340: The humble programmer](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/EWD340.pdf) for easy access incase.
+* [Communications of the ACM Volume 15, Issue 10-Oct.1972. pp 859–866](https://dl.acm.org/doi/10.1145/355604.361591) & [PDF]()
 * 
