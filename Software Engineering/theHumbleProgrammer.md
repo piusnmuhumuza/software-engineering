@@ -89,6 +89,13 @@ Let me conclude. Automatic computers have now been with us for a quarter of a ce
 
 It has already taught us a few lessons, and the one I have chosen to stress in this talk is the following. We shall do a much better programming job, provided that we approach the task with a full appreciation of its tremendous difficulty, provided that we stick to modest and elegant programming languages, provided that we respect the intrinsic limitations of the human mind and approach the task as Very Humble Programmers.
 
+### Sources
+
+* [The Humble Programmer (Text-to-Speech) | Edsger W. Dijkstra | ACM Turing Lecture 1972](https://www.youtube.com/watch?v=4VVAzRFHWvA&ab_channel=RenTristandelaCruz "The Humble Programmer Audio on Youtube")
+* [A copy of the EWD 340: The humble programmer](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/EWD340.pdf) for easy access incase.
+* [Communications of the ACM Volume 15, Issue 10-Oct.1972. pp 859–866](https://dl.acm.org/doi/10.1145/355604.361591) & [PDF](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/355604.361591.pdf)
+* [An episode of The Eric Normand Podcast-The Humble Programmer Recorded by Eric Normand](https://ericnormand.me/podcast/the-humble-programmer)
+
 ## Glossary
 
 * [The Electronic Delay Storage Automatic Calculator (EDSAC)](https://www.tnmoc.org/edsac): the first full-size stored-program computer, built at the University of Cambridge, Eng., by Maurice Wilkes and others to provide a formal computing service for users. [Read more here](https://www.britannica.com/technology/EDSAC).
@@ -97,10 +104,3 @@ It has already taught us a few lessons, and the one I have chosen to stress in t
 * [FORTRAN computer language](https://www.britannica.com/technology/FORTRAN): is a general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing. check out [Fortran 77 Basics](https://web.stanford.edu/class/me200c/tutorial_77/03_basics.html) or [Read here](https://en.wikipedia.org/wiki/Fortran) for more.
 * [Lisp (programming language)](https://www.britannica.com/technology/LISP-computer-language) (historically **LISP**, an acronym for _"list processing"_) is a family of programming languages with a long history and a distinctive, fully parenthesized prefix notation. [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) was originally created as a practical mathematical notation for computer programs, influenced by (though not originally derived from) the notation of [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)'s [lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus).
 * [ALGOL 60](https://www.britannica.com/technology/ALGOL-60) (short for Algorithmic Language 1960) is a member of the ALGOL family of computer programming languages. It followed on from ALGOL 58 which had introduced code blocks and the begin and end pairs for delimiting them, representing a key advance in the rise of structured programming.
-
-### Sources
-
-* [The Humble Programmer (Text-to-Speech) | Edsger W. Dijkstra | ACM Turing Lecture 1972](https://www.youtube.com/watch?v=4VVAzRFHWvA&ab_channel=RenTristandelaCruz "The Humble Programmer Audio on Youtube")
-* [A copy of the EWD 340: The humble programmer](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/EWD340.pdf) for easy access incase.
-* [Communications of the ACM Volume 15, Issue 10-Oct.1972. pp 859–866](https://dl.acm.org/doi/10.1145/355604.361591) & [PDF](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/355604.361591.pdf)
-* [An episode of The Eric Normand Podcast-The Humble Programmer Recorded by Eric Normand](https://ericnormand.me/podcast/the-humble-programmer)
