@@ -93,5 +93,5 @@ It has already taught us a few lessons, and the one I have chosen to stress in t
 
 * [The Humble Programmer (Text-to-Speech) | Edsger W. Dijkstra | ACM Turing Lecture 1972](https://www.youtube.com/watch?v=4VVAzRFHWvA&ab_channel=RenTristandelaCruz "The Humble Programmer Audio on Youtube")
 * [A copy of the EWD 340: The humble programmer](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/EWD340.pdf) for easy access incase.
-* [Communications of the ACM Volume 15, Issue 10-Oct.1972. pp 859–866](https://dl.acm.org/doi/10.1145/355604.361591) & [PDF]()
+* [Communications of the ACM Volume 15, Issue 10-Oct.1972. pp 859–866](https://dl.acm.org/doi/10.1145/355604.361591) & [PDF](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/355604.361591.pdf)
 * 
