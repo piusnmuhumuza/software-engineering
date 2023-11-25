@@ -1,4 +1,4 @@
-# The software crisis
+# THE SOFTWARE CRISIS
 
 ## A period in the 1960s and 1970s, when many large-scale software development projects failed.
 
@@ -31,7 +31,7 @@ By identifying the many problems of software development It was thus, proposed t
 The term ‘software engineering’ first was used in the late 1950s and early 1960s, where the concept of software engineering was first suggested at the 1968 NATO Science Committee in (Garmisch) Germany, while discussing the '[software crisis](https://en.wikipedia.org/wiki/Software_crisis)'. It is generally believed these conferences marked the official start of the profession as the term 'software engineering'.
 The NATO Science Committee sponsored two conferences ( [The NATO Software Engineering Conferences]( http://homepages.cs.ncl.ac.uk/brian.randell/NATO/)  ) on software engineering in 1968 and 1969, which gave the field its initial boost.
 
-Software engineering emphasizes a systematic, disciplined approach to the development of software that typically applies to the construction of large software systems (or products) involving numerous Software Development and engineering teams. 
+Software engineering emphasizes a systematic, disciplined approach to the development of software that typically applies to the construction of large software systems (or products) involving numerous Software Development and engineering teams.
 High-quality software was and is evolvingly characterized with being highly dependable, safe, secure, reliability, efficient, usable, accessible, and maintainable. It is not feasible to achieve all these in any one software product but many them is expected to be achievable.
 
 ### Resources
