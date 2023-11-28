@@ -2,11 +2,11 @@
 
 ## A Business Technology Enthusiast’s Guide to Software Engineering
 
-Basic Software Engineering definitions, concepts, and practices for busy Business Technologists & Thought Leaders.
+Basic [Software Engineering](https://piusnmuhumuza.hashnode.dev/a-business-technology-enthusiasts-guide-to-software-engineering) definitions, concepts, and practices for busy Business Technologists & Thought Leaders.
 
 ### Introduction
 
-Back in the 1950s, when the dependency on computers increased, the software needed to manage them also grew and thus Software Engineering/Development became a necessity for businesses and users all over the world.
+Back in the 1950s, when the dependency on computers increased, the software needed to manage them also grew and thus [Software Engineering/Development](https://piusnmuhumuza.hashnode.dev/a-business-technology-enthusiasts-guide-to-software-engineering) became a necessity for businesses and users all over the world.
 
 > [“Our civilization depends critically on software, and we have a dangerously low degree of professionalism in the computer fields.” — Bjarne Stroustrup]( https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/BjarneStroustrup.pdf)
 
@@ -56,7 +56,7 @@ By identifying the many of the problems of [software development](https://en.wik
 
 ### Breaking Down Software Engineering
 
-Software Engineering is a body of knowledge whose concepts and principles can be approached in parallel with the software development life cycle beginning with a general introduction to software engineering, which essentially defines this body of knowledge, as well as the main methodologies of software engineering.
+[Software Engineering](https://piusnmuhumuza.hashnode.dev/a-business-technology-enthusiasts-guide-to-software-engineering) is a body of knowledge whose concepts and principles can be approached in parallel with the software development life cycle beginning with a general introduction to software engineering, which essentially defines this body of knowledge, as well as the main methodologies of software engineering.
 
 **Engineering:** Mostly involves applying science, conventional methods, and applicable tools to find cost-effective and sustainable/scalable solutions to developing problems. This can be in any industry where engineering is applicable.
 
@@ -104,7 +104,7 @@ While starting out, most _Developers_ will be Trainees/Apprentices or referred t
 
 You will work on a team where you either pair, work with or have your code reviewed by another Developer probably a mid-level developer before it gets to the Senior developer or Lead Developer.
 
-Read my Article; — [The Struggles of a Junior Software Developer]() to get a feel of the experience a typical Junior Developer goes through.
+Read my Article; — [The Struggles of a Junior Software Developer](https://piusnmuhumuza.medium.com/the-struggles-of-a-junior-software-developer-20856d57150e) to get a feel of the experience a typical Junior Developer goes through.
 
 **Mid-Level Developer:**
 
