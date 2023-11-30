@@ -98,7 +98,7 @@ Interest rate is one of the most commonly used phrases in fixed-income investmen
 
 Every time we make a decision involving multiple choices we are making an opportunity cost based decisions. Since most of the time, these costs in the future and are uncertainty, we need to estimate those opportunity costs as well as the probability that our choice is the right choice to produce the desired beneficial outcomes.
 
-## Understanding uncertainty in Software Project management
+## Understanding risk and uncertainty in Software Project management
 
 In the presence of uncertainty, making a decision about actions today that impact outcomes in the future require some mechanism for determining those outcomes in the absence of perfect information and this absence of information creates risk.
 
@@ -114,13 +114,64 @@ In the presence of uncertainty, making a decision about actions today that impac
 
 * **Diversity of Stakeholders** — Attention is warranted to clarify objectives and formulate performance measures when the set of stakeholders reflects a diversity of values, preferences, and perspectives.
 
-## Reducible and Irreducible Uncertainty
+### Event Risks and Non-Event Risks
 
-All project work is driven by underlying processes that create a certain probability of uncertainty. There are two types of uncertainty on all projects, called Reducible (Epistemic) and Irreducible (Aleatory) probability.
+If you limit your risk identification to event risks only, you will not proactively manage all risks that could affect the success of your project – and you will end up taking risks without knowing it. When most people talk about uncertainty and risk in projects, they are thinking only about uncertain future events that could have a negative (or positive) effect on achievement of their project objectives. However, risk includes much more than threats or opportunities to deliverables, the project schedule or budget.
+
+**Event Risk:** refers to situations where you know WHAT could happen with a certain probability while **Non-Event Risks:** refers to situations where you know there is uncertainty in an area, but you don’t know exactly what it is, what could happen, or to what extent something will occur.
+
+Most projects focus only on risks that are uncertain future events that may or may not occur. Examples of these Event-Risks include:
+
+* We may lose a key resource at a critical time in the project
+* A key supplier may go out of business during the project
+* The customer may change the requirements after the design is complete
+* A subcontractor may propose enhancements to the standard operating processes
+
+There is an increasing recognition that also **Non-Event Risks** need to be identified and managed. The following list and figure shows you an overview of Event Risks and Non-Event Risks with their underlying uncertainty.
+
+Event risk (Stochastic Uncertainty)
+Ambiguity risk (Epistemic Uncertainty)
+Variability risk (Aleatoric Uncertainty)
+Emergent risk (Ontological Uncertainty)
+
+### Reducible and Irreducible Uncertainty
+
+There is pervasive confusion between these two types of uncertainties when discussing the impacts on these uncertainties on project outcomes, including the estimates of cost, schedule, and technical performance.
+
+All project work is driven by underlying processes that create a certain probability of uncertainty. There are two types of uncertainty on all projects, called Reducible (Epistemic) and Irreducible (Aleatory) uncertainty.
+
+#### Reducible Uncertainty
+
+A reducible uncertainty is called an epistemic uncertainty which refers to the deficiencies by a lack of knowledge or information while Irreducible uncertainty refers to a situation in which actors are uncertain about whether well-defined propositions (statements about future consequences which can be measured on a probability scale) are true or not.
+
+**Event Risk** (is the result of “Stochastic Uncertainty): ”Uncertainty exist about possible events in the future, An event risk is something that has not yet happened and it may not happen at all, but if it does happen then it has an impact on one or more objectives. Most risks identified in the project risk register are event risks.
+
+You can define actions to reduce the probability of occurrence or the impact of event risks or you can eliminate the risk completely.
+
+**Ambiguity Risk** (is the result of “Epistemic Uncertainty”): The term epistêmê means knowledge in Greek. There are things that we are uncertain about simply because of the lack of knowledge, and the uncertainty might be reduced by gathering more information.
+
+With ambiguous risks there is uncertainty about what might happen in the future. Areas of the project where imperfect knowledge might affect the project’s ability to achieve its objectives include: elements of the requirements or technical solution, future developments in regulatory frameworks, or inherent systemic complexity in the project.
+
+You can reduce ambiguous risks by defining those areas where there is a deficit of knowledge or understanding, then filling the gap by obtaining expert knowledge or benchmarking against best practices. You can also reduce ambiguity, for example, through incremental development, prototyping, or simulation.
+
+#### Irreducible Uncertainty
+
+Aleatoric uncertainty refers to the data's inherent randomness that cannot be explained away  while Epistemic uncertainty refers to the uncertainty of the model (epistemology is the study of knowledge) and is often due to a lack of training data.
 
 Aleatory uncertainty arises from the random variability related to natural processes on the project - the statistical processes. Work durations, productivity, variance in quality. Epistemic uncertainty arises from the incomplete or imprecise nature of available information - the probabilistic assessment of when an event may occur.
 
-There is pervasive confusion between these two types of uncertainties when discussing the impacts on these uncertainties on project outcomes, including the estimates of cost, schedule, and technical performance.
+**Variability Risk** (is the result of  “aleatoric uncertainty”): Alea in Aleatory is Latin and means dice. Aleatoric uncertainty comes from an inherent randomness, natural stochasticity, environmental or structural variation across space and time in the properties or behavior of the system under study. Here you know that something will definitely happen, but the uncertainty is in what the result will be. The accumulation of more data or additional information cannot reduce aleatory uncertainty.
+
+Aleatory uncertainties can often be singled out from other uncertainties by their representation as distributed quantities that take on values in an established or known range. The exact values will vary by chance from unit to unit or time to time.
+
+Typical examples of aleatory uncertainty include the outcomes of tossing dice and drawing cards from a shuffled pack. Aleatory uncertainty in projects may include: Unseasonal weather conditions may occur during the construction phase. The exchange rate could be much higher or lower when the material is delivered.
+For variability risks, we cannot buy more information nor take specific risk reduction actions to reduce the uncertainty and resulting risk. The objective of identifying and managing variability risks is to be prepared to handle the impacts when risk is realized. The method for handling these impacts is to provide margin for this type of risk, including cost, schedule, and technical margin. Aleatoric uncertainty can be modeled in a Monte Carlo simulation tool. Here the range of variation is reflected in the probability distribution.
+
+**Emergent Risk** (is the result of “Ontological Uncertainty): Uncertainty exist from what we don’t know—from our blind-spots. They arise from limitations in our conceptual frameworks or worldview. These are risks which we are unable to see because they are outside our experience or mindset, so we don’t know that we should be looking for them.
+Another popular term for emergent risks is “the unknown unknowns,” which are things that we do not know but where we are unaware of our ignorance. In fact “unknown unknowns” can be divided into two types, one of which is a true emergent risk (“Black Swan”) and the other is not. These are:
+
+The “unknown-but-knowable unknowns.” There are some uncertainties that we currently do not know, but which we could find out about. This is where the risk process can help, through creative risk identification, exploration, and education.
+The “unknown-and-unknowable unknowns.” These are much more difficult to deal with, since by definition we can never discover them unless and until they happen. They are genuine emergent risks, which we could not predict with even the best risk process.
 
 ## Software Economics In Software Project Management
 
