@@ -58,12 +58,39 @@ Interest rate is one of the most commonly used phrases in fixed-income investmen
 
 The development of software in the presence of uncertainty is a well-developed discipline, a well developed academic topic, and a well-developed practice with numerous tools, database, and models in many different SW domains.
 
-
 > Economics is the study of how resources (people, time, facilities, money) are used to produce and distribute commodities and how services are provided in society. [Engineering economics](https://en.wikipedia.org/wiki/Engineering_economics) is a branch of microeconomics dealing with engineering related economic decisions.
 
 Software Economics in Software Engineering is a research area focusing on the challenges and issues associated with valuing software and determining or estimation costs usually involved in its production(_design, development, Implementation, testing and Maintenance among other things_). 
-[Boehm and Sullivan]() outline these difficulties and challenges and also presented how software economics principles can be applied to improve software design, development, and evolution.
+[Barry Boehm & Kevin J.Sullivan in Software Economics: A Roadmap](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/softwareEconomics_ARoadMap-Boehm%20and%20Sullivan.pdf) outline these difficulties and challenges and also presented how software economics principles can be applied to improve software design, development, and evolution.
+
+Software economics is basically situated at intersection of information economics and Software Engineering. 
+
+Most of software cost models are generally abstracted into function of five basic parameters being;-
+
+* **Size –**
+Size is generally measured or qualified in term of number of source instructions or in SLOC (Source line of code) or number of function points required to realize desired capabilities. The size of end product or result is required to develop or create required functionality.
+
+* **Process –**
+The process is steps that are used to guide all of activities and produce end products, in particular ability and capability of process to avoid or ignore activities that are not adding any value. It also supports heading towards the target or goal and eliminate activities that are not essential or important.
+
+* **Personnel –**
+The capabilities of personnel of software engineering in general, and particularly their experience with issues or problems regarding computer science and issues regarding application domain of project. It emphasizes on team and responsibilities of team.
+
+* **Environment –**
+It is simply made of various tools and techniques and automated procedures that are available and used to support software development and effort in an efficient way.
+
+* **Quality –**
+The required quality along with its features, performance, reliability, scalability, portability, usability, user interface utility, adaptability, and many more.
+
+Between these parameters, relationship and estimated cost can be written in following way :
+
+```code
+Effort = (Personnel) (Environment) (Quality) (Size Process) 
+```
+
+
+
 
 ## Keywords
 
-``Software Engineering``, ``Software Economics``, ``Engineering Economics``, ``Software Development``, ``Software Engineering economics``
+``Software Engineering``, ``Software Economics``, ``Engineering Economics``, ``Software Development``, ``Software Engineering economics``, ``software cost models``
