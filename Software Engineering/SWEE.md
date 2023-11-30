@@ -38,7 +38,7 @@ Engineering economics quantifies the benefits and costs associating with enginee
 
 The time value of money draws from the idea that rational investors prefer to receive money today rather than the same amount of money in the future because of money’s potential to grow in value over a given period of time. For example, money deposited into a savings account earns a certain interest rate and is therefore said to be compounding in value.
 
-## Simple and compound interest
+### Simple and compound interest
 
 Interest is defined as the cost of borrowing money as in the case of interest charged on a loan balance. Interest can be calculated in two ways, simple interest or compound interest.
 
@@ -46,7 +46,7 @@ Interest is defined as the cost of borrowing money as in the case of interest ch
 
 **Compound interest** is calculated on the principal amount and also on the accumulated interest of previous periods, and can thus be regarded as “interest on interest.” Formula: Compound interest= [P(1+i)^n]−P & Compound interest = P[(1+i)^n−1]; P = principle, i = interest rate in percentage terms and n = number of compounding periods of year.
 
-## Nominal and effective interest rate
+### Nominal and effective interest rate
 
 Interest rate is one of the most commonly used phrases in fixed-income investment lexicon. The different types of interest rates, including real, nominal, effective and annual, are distinguished by key economic factors, that can help individuals become smarter consumers and shrewder investors.
 
@@ -61,3 +61,9 @@ The development of software in the presence of uncertainty is a well-developed d
 
 > Economics is the study of how resources (people, time, facilities, money) are used to produce and distribute commodities and how services are provided in society. [Engineering economics](https://en.wikipedia.org/wiki/Engineering_economics) is a branch of microeconomics dealing with engineering related economic decisions.
 
+Software Economics in Software Engineering is a research area focusing on the challenges and issues associated with valuing software and determining or estimation costs usually involved in its production(_design, development, Implementation, testing and Maintenance among other things_). 
+[Boehm and Sullivan]() outline these difficulties and challenges and also presented how software economics principles can be applied to improve software design, development, and evolution.
+
+## Keywords
+
+``Software Engineering``, ``Software Economics``, ``Engineering Economics``, ``Software Development``, ``Software Engineering economics``
