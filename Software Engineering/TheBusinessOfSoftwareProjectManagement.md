@@ -250,6 +250,28 @@ Interest rate is one of the most commonly used phrases in fixed-income investmen
 
 * **Software Engineering economics** is the application of economic techniques to the evaluation of Software design, development and engineering alternatives. It facilitates assessment of the appropriateness of a given software project, estimating its value, and justifying it from an business & engineering standpoint.
 
+## Cost Estimation Models in Software Engineering
+
+Cost estimation is a technique used to find out the cost estimates(_the financial spend that is done on the efforts to develop and test software_) of developing software.
+
+Cost estimation models in Software Engineering are mathematical algorithms or parametric equations used to estimate the cost of a product or a project.
+
+Most software cost models can be abstracted into a function of five basic parameters: size, process, personnel, environment, and required quality.
+
+1. The size of the end product typically quantified in terms of the number of source instructions or the number of function points required to develop the required functionality.
+2. The process used to produce the end product, in particular the ability of the process to avoid non-value-adding activities (rework, bureaucratic delays, communications overhead)
+3. The capabilities of software engineering personnel, and particularly their experience with the computer science issues and the applications domain issues of the project
+4. The environment, which is made up of the tools and techniques available to support efficient software development and to automate the process
+5. The required quality of the product, including its features, performance, reliability, and adaptability
+
+The relationships among these parameters and the estimated cost can be written as follows:
+
+```code
+Effort = (Personnel) (Environment) (Quality)(SizeProcess)
+```
+
+Several parametric models have been developed to estimate software costs; all of them can be generally abstracted into this form. One important aspect of software economics (as represented within today's software cost models) is that the relationship between effort and size exhibits a diseconomy of scale. The diseconomy of scale of software development is a result of the process exponent being greater than 1.0. Contrary to most manufacturing processes, the more software you build, the more expensive it is per unit item.
+
 ## Learning objectives for the Software Engineering Economics.
 
 1. Understand and be able to apply the key software engineering economic fundamentals to real-world software economic issues.
@@ -260,8 +282,12 @@ Interest rate is one of the most commonly used phrases in fixed-income investmen
 
 ## Keywords
 
-``Software``, ``Projects``, ``Project Management``, ``Software Engineering``, ``Software Economics``, ``Engineering Economics``, ``Software Development``, ``Software Projects``, ``Software Engineering economics``, ``software cost models``, ``Software Product Line Engineering``, ``Product Management``, ``Software Architecture``, ``Computer programming costs``, ``cost models``, ``management decision aids``, ``Software Implementation``, ``software cost estimation``, ``software management``,  ``Software Project Management``
+``Software``, ``Projects``, ``Project Management``, ``Software Engineering``, ``Software Economics``, ``Engineering Economics``, ``Software Development``, ``Software Projects``, ``Software Engineering economics``, ``software cost models``, ``Software Product Line Engineering``, ``Product Management``, ``Software Architecture``, ``Computer programming costs``, ``cost models``, ``management decision aids``, ``Software Implementation``, ``software management``,  ``Software Project Management``, ``Project Estimation``, ``Software Cost Estimation``, ``Software Estimation``
 
 ## Resources
 
 * [The Economics of Software Development: Beyond Cost](https://www.linkedin.com/pulse/economics-software-development-beyond-cost-laura-hughes/)
+* [Software Cost Estimation](https://www.geeksforgeeks.org/software-cost-estimation/)
+* [Cost Estimation Models in Software Engineering](https://www.tutorialspoint.com/cost-estimation-models-in-software-engineering)
+* [Software Cost Estimation Models in Software Planning](https://www.geeksforgeeks.org/software-cost-estimation-models-in-software-planning/)
+* 
