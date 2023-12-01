@@ -272,7 +272,7 @@ Effort = (Personnel) (Environment) (Quality)(SizeProcess)
 
 Several parametric models have been developed to estimate software costs; all of them can be generally abstracted into this form. One important aspect of software economics (as represented within today's software cost models) is that the relationship between effort and size exhibits a diseconomy of scale. The diseconomy of scale of software development is a result of the process exponent being greater than 1.0. Contrary to most manufacturing processes, the more software you build, the more expensive it is per unit item.
 
-## Learning objectives for the Software Engineering Economics.
+## Software Engineering Economics Learning objectives to explore
 
 1. Understand and be able to apply the key software engineering economic fundamentals to real-world software economic issues.
 2. Illustrate through example the key software life cycle economics, including product and process life cycles; portfolios; proposals; investment decisions; pricing and costing, and earned value management (EVM).
