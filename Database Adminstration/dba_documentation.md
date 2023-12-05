@@ -284,9 +284,9 @@ LINQ, or Language Integrated Query, is a language that extracts and processes da
 
 ## KEYWORDS
 
-``DATABASES``, ``SQL``, ``STRUCTURED QUERY LANGUAGE``, ``SQUARE``, ``DATABASE ADMINISTRATION``, ``DATABASE ADMINISTRATOR``, ``RELATIONAL DATABASES``, ``QUERYING``, ``SQL QUERYING``, ``Normalization``, ``Database Character Sets``, ``SQL Server``, ``XQuery``.
+``DATABASES``, ``SQL``, ``STRUCTURED QUERY LANGUAGE``, ``SQUARE``, ``DATABASE ADMINISTRATION``, ``DATABASE ADMINISTRATOR``, ``RELATIONAL DATABASES``, ``QUERYING``, ``SQL QUERYING``, ``Normalization``, ``Database Character Sets``, ``SQL Server``, ``XQuery``, ``PostgreSQL``, ``MySQL``, ``RDBMS``, ``Indexes``, ``Transactions``
 
-## Additional Learning Resources
+## References & Additional Resources
 
 * [SQL Roadmap](https://roadmap.sh/sql)
 * [History of SQL](https://medium.com/@yidigeng95_64319/history-of-sql-bc92a4981d60)
@@ -309,3 +309,5 @@ LINQ, or Language Integrated Query, is a language that extracts and processes da
 * [SQL vs. NoSQL Databases: What’s the Difference?](https://www.ibm.com/blog/sql-vs-nosql/)
 * [How to merge two or multiple git repositories into one](https://medium.com/altcampus/how-to-merge-two-or-multiple-git-repositories-into-one-9f8a5209913f)
 * [combining-git-repositories.md](https://gist.github.com/msrose/2feacb303035d11d2d05)
+* [Relational Databases Explained](https://architecturenotes.co/things-you-should-know-about-databases/)
+* [Database Sharding Explained](https://architecturenotes.co/database-sharding-explained/)
