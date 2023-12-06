@@ -311,3 +311,4 @@ LINQ, or Language Integrated Query, is a language that extracts and processes da
 * [combining-git-repositories.md](https://gist.github.com/msrose/2feacb303035d11d2d05)
 * [Relational Databases Explained](https://architecturenotes.co/things-you-should-know-about-databases/)
 * [Database Sharding Explained](https://architecturenotes.co/database-sharding-explained/)
+* [What is a relational database?](https://www.ibm.com/topics/relational-databases)
