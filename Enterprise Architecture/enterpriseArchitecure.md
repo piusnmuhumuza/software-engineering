@@ -4,6 +4,8 @@ Enterprise Architecture(EA) is an important discipline, as organizations need to
 
 With Enterprise Architecture(EA) you learn how to model an Enterprise using TOGAF, including working with the Architecture Development Method (ADM) and metamodel attributes.
 
+![!Architecture Development Method](https://github.com/piusnmuhumuza/bootcamp/blob/master/Enterprise%20Architecture/resources/togaf.png "Architecture Development Method") *The eight phases of the Architectural Development Model. [Source: The Open Group](https://www.opengroup.org/togaf).*
+
 ## The Open Group Architecture Framework (TOGAF)
 
 [The Open Group Architecture Framework (TOGAF)](https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework) is a framework in enterprise architecture that provides an approach for designing, planning, implementing, and governing an enterprise information technology architecture.
