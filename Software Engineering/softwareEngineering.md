@@ -195,6 +195,7 @@ These can be different or categorized differently depending on the information s
 * [History of software engineering]( https://en.wikipedia.org/wiki/History_of_software_engineering)
 * [The History of Software Engineering]( https://www.lingq.com/en/learn-english-online/courses/10892/the-history-of-software-engineering-10892/)
 * [9 Steps to Software Project Handovers]( https://betterprogramming.pub/9-steps-to-software-project-handovers-9325fbb72cfc)
+* [𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗮𝘁 𝗚𝗼𝗼𝗴𝗹𝗲](https://abseil.io/resources/swe-book/html/toc.html)
 
 ### Tags
 
