@@ -304,7 +304,8 @@ These can be different or categorized differently depending on the information s
 * [Test Types and Maintenance Testing](https://testingtraveler.com/2021/02/05/test-types-and-maintenance-testing/)
 * [The 4 Levels of Testing in Software Engineering Explained](https://fellow.app/blog/engineering/the-levels-of-testing-in-software-engineering-explained/)
 * [The different types of software testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
+* [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 
 ### Tags
 
-``Software``, ``Software Crisis``, ``The Humble Programmer``, ``Computer Science``, ``Software Engineering``, ``Software Quality``, ``Software Developer``, ``Software Engineer``, ``Software Development``, ``Software Crisis``, ``Software Quality Assurance``, ``Software Testing``,``Software Development Life Cycle``, ``SDLC``, ``NATO Science Committee``, ``The NATO Software Engineering Conferences``
+``Software``, ``Software Crisis``, ``The Humble Programmer``, ``Computer Science``, ``Software Engineering``, ``Software Quality``, ``Software Developer``, ``Software Engineer``, ``Software Development``, ``Software Crisis``, ``Software Quality Assurance``, ``Software Testing``,``Software Development Life Cycle``, ``SDLC``, ``NATO Science Committee``, ``The NATO Software Engineering Conferences``, ``SWEBOK``
