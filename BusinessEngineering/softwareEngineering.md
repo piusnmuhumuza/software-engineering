@@ -1,12 +1,8 @@
 # Software Engineering | A Learning Guide
 
-The Complete Software Engineering Summary Notes Guide
+This is a Complete Software Engineering Summary Notes Guide i put together with basic [Software Engineering](https://piusnmuhumuza.hashnode.dev/a-business-technology-enthusiasts-guide-to-software-engineering) definitions, concepts, and practices for busy business technologists & thought leaders.
 
-## A Business Technology Enthusiast’s Guide to Software Engineering
-
-Basic [Software Engineering](https://piusnmuhumuza.hashnode.dev/a-business-technology-enthusiasts-guide-to-software-engineering) definitions, concepts, and practices for busy Business Technologists & Thought Leaders.
-
-### Introduction
+## Introduction
 
 Back in the 1950s, when the dependency on computers increased, the software needed to manage them also grew and thus [Software Engineering/Development](https://piusnmuhumuza.hashnode.dev/a-business-technology-enthusiasts-guide-to-software-engineering) became a necessity for businesses and users all over the world.
 
@@ -18,13 +14,11 @@ Today, it is hard to imagine an area of human activity or business endeavour whe
 
 This publication tries to break down most of the software-related concepts, practices, and topics that anyone in the business of [Software Engineering](https://piusnmuhumuza.medium.com/software-engineering-a-business-tech-enthusiast-beginners-guide-1961aa73d76) as well as enthusiasts should know about.
 
-### What is Software
+## What is Software
 
-**Software** is a set of _computer programs_ that enable a computer system (_hardware_) to perform specific tasks.
+Software is a set of _computer programs_ that enable a computer system (_hardware_) to perform specific tasks. Software runs on **hardware** which are the tangible components, or delivery systems that store and run the written instructions provided by the software to perform the actual work.
 
-Software runs on **hardware** which are the tangible components, or delivery systems that store and run the written instructions provided by the software to perform the actual work.
-
-**Computer programs** are a set of instructions/algorithms applied to various types of data that is used as a process of creating the software program with the help of a programming language.
+High-quality software was and is characterized with being highly dependable, safe, secure, reliability, efficient, usable, accessible, and maintainable. It is not feasible to achieve all these in any one software product but achieving some is possible.
 
 ### Characteristics of Software
 
@@ -34,17 +28,15 @@ Software runs on **hardware** which are the tangible components, or delivery sys
 * Software and especially good software is operational, transitional, and maintainable.
 * Software can also have some restrictions e.g., legal compliances, industry standards, Cost, talent hiring, and time to market among others that need to be considered.
 
-### What is Software Engineering
+## What is Software Engineering
 
 Software Engineering is a technical discipline or approach that applies **computer science** and **engineering** concepts in the design, development, testing and maintenance of quality reliable, usable, and dependable software.
-
-During Software Engineering in the business environment, vendors or Software Developers will be subcontracted to develop all, or some components, of the software systems and/or develop the hardware that the software will run on. In this case, the vendors will make a bid by providing proposals (_technical and financial capability_) in response to a _request for proposals (RFP)_ which are evaluated before the contract is offered.
 
 The professional practice of Software Engineering requires technical proficiency and a high code of ethics, which all enthusiasts of Software Engineering should embody. The [10 commandments of Egoless programming]( https://medium.com/@piusnmuhumuza/reflecting-on-the-10-commandments-of-egoless-programming-1bc4189e32f) by inspired by the book, [The Psychology of Computer Programming]( https://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming) , first released in the 1970s, where Jerry Weinberg coined the term “egoless programming” partly speaks to this effect.
 
 > [“When a Princeton neighbour of Albert Einstein’s discovered to her horror that her little girl had been going to Einstein for help with her arithmetic homework, she apologized profusely. Think nothing of it, Einstein replied — I have learned more from her than she has from me.”](https://x.com/JerryWeinberg/status/1022591845430452224?s=20) -Tweet by [Gerald Weinberg](https://x.com/JerryWeinberg)
 
-### A brief History of Software Engineering
+## A brief History of Software Engineering
 
 The term **‘Software Engineering’** first was used in the late 1950s and early 1960s, where ‘The Concept of Software Engineering was first discussed at the 1968 NATO Science Committee in (Garmisch) Germany.
 
@@ -52,19 +44,13 @@ The NATO Science Committee sponsored two conferences ([The NATO Software Enginee
 
 Around this period, a lot of software projects ran over budget and schedule, some causing property damage while a few led to the loss of life.
 
-[The software crisis](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/theSoftwareCrisis.md) was originally defined in terms of productivity, with the term _‘software crisis’_ used in reference to the inability to find and hire qualified programmers, but over time evolved to emphasize quality which is how we now use terms like **Software Quality** and practices like [Software Quality Assurance](https://piusnmuhumuza.medium.com/a-basic-understanding-of-software-quality-assurance-307317b82867) came to life.
+## The Software Crisis (1960)
 
-By identifying the many of the problems of [software development](https://en.wikipedia.org/wiki/Software_development) It was thus, proposed that the adoption of an engineering approach to developing software would reduce the costs of [software development]( https://en.wikipedia.org/wiki/Software_development) and lead to more reliable software.
-
-### The Software Crisis (1960)
-
-[Software Crisis](https://en.wikipedia.org/wiki/Software_crisis) was a term that came to be used in the early days of computing science referring to the difficulty of writing useful and efficient computer programs (Software) by software Engineers and Developers within the required time due to the rapid increase in computer power and the failure to tackle the complexity of the problems arising.
-
-[Software Crisis](https://en.wikipedia.org/wiki/Software_crisis),was the name given to the difficulties encountered in developing large, complex systems in the 1960s (through the 1970s -80s). During this period, the increasing complexity of the software, and inadequacy of the existing methods, lead to many software problems arising which caused many large-scale software development projects to fail.
+[Software Crisis](https://en.wikipedia.org/wiki/Software_crisis) was a term that came to be used in the early days of computing science referring to the difficulty of developing large, complex systems in the 1960s (through the 1970s -80s) as well as writing useful and efficient computer programs (Software) by Software Engineers and Developers within the required time due to the rapid increase in computer power. During this period, the increasing complexity of the software, and inadequacy of the existing methods, lead to many software problems arising which caused many large-scale software development projects to fail.
 
 This ended up costing more money and taking more time to develop Software than was estimated, with the final product often being inefficient and low quality, if, and when, finished at all.
 
-As computers became larger and more powerful, the task of creating equally large and powerful software (computer programs) also became gigantic, and the field struggled to keep up leading to the situation referred to today as [_“The Software Crisis”_](https://en.wikipedia.org/wiki/Software_crisis)
+As computers became larger and more powerful, the task of creating equally large and powerful software (computer programs) also became gigantic, and the field struggled to keep up, leading to the situation referred to today as [_“The Software Crisis”_](https://en.wikipedia.org/wiki/Software_crisis)
 
 In his 1972 [Turing Award](https://en.wikipedia.org/wiki/Turing_Award) lecture, [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) made a reference to this same problem.
 
@@ -72,38 +58,22 @@ In his 1972 [Turing Award](https://en.wikipedia.org/wiki/Turing_Award) lecture, 
 
 The term ["Software Crisis"]( https://en.wikipedia.org/wiki/Software_crisis) was coined together by attendees at the first [NATO Software Engineering Conference](https://en.wikipedia.org/wiki/NATO_Software_Engineering_Conferences) in 1968 at Garmisch, Germany.
 
-### The Beginning of Software Engineering
+## The Beginning of Software Engineering
 
 In the wake of the [Software crisis](https://en.wikipedia.org/wiki/Software_crisis), [Software Engineering](https://piusnmuhumuza.medium.com/software-engineering-a-business-tech-enthusiast-beginners-guide-1961aa73d76) emerged as a new engineering discipline concerned with all aspects pertaining to software production that encompassed the theories, concepts, principles, techniques, standards, and tools that could be used for developing high-quality and reliable professional software.
-
-At the time, Software Engineers & Software Developers couldn’t keep up with complexity of the projects they were being asked to work on, therefore the [software crisis](https://en.wikipedia.org/wiki/Software_crisis), originally defined in terms of productivity, was used in reference to the inability to find and hire qualified programmers but has over time evolved to emphasize quality which is how we now use terms like [Software Quality](https://en.wikipedia.org/wiki/Software_quality) and [Software Quality Assurance](https://medium.com/@piusnmuhumuza/a-basic-understanding-of-software-quality-assurance-307317b82867).
 
 By identifying the many problems of software development It was thus, proposed that the adoption of an engineering approach to developing software which is how [Software Engineering](https://piusnmuhumuza.medium.com/software-engineering-a-business-tech-enthusiast-beginners-guide-1961aa73d76) was conceptualized.
 
 The term [‘Software Engineering’](https://piusnmuhumuza.medium.com/software-engineering-a-business-tech-enthusiast-beginners-guide-1961aa73d76) first was used in the late 1950s and early 1960s, where the concept of software engineering was first suggested at the 1968 NATO Science Committee in (Garmisch) Germany, while discussing the '[Software Crisis](https://en.wikipedia.org/wiki/Software_crisis)'. It is generally believed these conferences marked the official start of the profession as the term ['Software Engineering'](https://piusnmuhumuza.medium.com/software-engineering-a-business-tech-enthusiast-beginners-guide-1961aa73d76).
 The NATO Science Committee sponsored two conferences ( [The NATO Software Engineering Conferences]( http://homepages.cs.ncl.ac.uk/brian.randell/NATO/)  ) on [Software Engineering](https://piusnmuhumuza.medium.com/software-engineering-a-business-tech-enthusiast-beginners-guide-1961aa73d76) in 1968 and 1969, which gave the field its initial boost.
 
-[Software Engineering](https://piusnmuhumuza.medium.com/software-engineering-a-business-tech-enthusiast-beginners-guide-1961aa73d76) emphasizes a systematic, disciplined approach to the development of software that typically applies to the construction of large software systems (or products) involving numerous Software Development and engineering teams.
-High-quality software was and is evolvingly characterized with being highly dependable, safe, secure, reliability, efficient, usable, accessible, and maintainable. It is not feasible to achieve all these in any one software product but many them is expected to be achievable.
-
-
-
-
-### Breaking Down Software Engineering
+## Breaking Down Software Engineering
 
 [Software Engineering](https://piusnmuhumuza.hashnode.dev/a-business-technology-enthusiasts-guide-to-software-engineering) is a body of knowledge whose concepts and principles can be approached in parallel with the software development life cycle beginning with a general introduction to software engineering, which essentially defines this body of knowledge, as well as the main methodologies of software engineering.
 
-**Engineering:** Mostly involves applying science, conventional methods, and applicable tools to find cost-effective and sustainable/scalable solutions to developing problems. This can be in any industry where engineering is applicable.
+It emphasizes a systematic, disciplined approach to the development of software that typically applies to the construction of large software systems (or products) involving numerous Software Development and engineering teams.
 
-**Development:** Is the process of developing, being developed, or the result of developing.
-
-**Software Architecture:** Refers to the fundamental structures or building blocks of a software system. The way software components (subroutines, classes, functions) are arranged and interact or integrate with each other.
-
-**Software Engineering:** Is a systematic, disciplined & more so quantifiable approach to the development, operation, and maintenance of software or software projects.
-
-**Software Development:** Is a set of activities _conceiving, specifying, designing, programming, deploying, documenting, and testing (bug fixing)_ involved in the process of creating and maintaining software applications, frameworks, or other software components.
-
-#### Front-end Vs Back-end Vs Full-stack Development
+## Front-end Vs Back-end Vs Full-stack Development
 
 Front-ends work on what the user can see while Back-ends build the infrastructure that supports it and Full-stacks are both in one. Both Front-ends & Back-ends are necessary components for high-functioning software or applications.
 
@@ -113,7 +83,7 @@ Front-ends work on what the user can see while Back-ends build the infrastructur
 
 * **Full-stack —** usually comes with experience of working both as a Front-end and Back-end. Often referred to as “jack-of-all-trades”, Full-stacks have skills in a wide variety of coding niches, databases, graphic design, and UI/UX that enables them do their job well working both the client and server ends.
 
-#### The case of a Software Engineer Vs a Software Developer
+## The case of a Software Engineer Vs a Software Developer
 
 While _Developers_ and _Engineers_ apply advanced technical skills to create computer programs, and their roles overlap in many ways depending on the team one is working on, _Software Developers_ and _Software Engineers_ typically handle different steps when creating applications.
 
@@ -125,7 +95,7 @@ _Software Developers_ and _Software Engineers_ typically handle different steps 
 
 Also, **Software Engineers** tend to be in more collaborative roles, while **Software Developers** often and may work in a more independent environment.
 
-#### Developer expertise Levels
+### Developer expertise Levels
 
 They are basically 3 levels but, in some places, or companies, you will find 5 or 7 levels depending on the breakdown and classifications of the expertise levels.
 
@@ -225,6 +195,14 @@ These can be different or categorized differently depending on the information s
 
 ### Glossary
 
+* **Computer programs** are a set of instructions/algorithms applied to various types of data that is used as a process of creating the software program with the help of a programming language.
+* **Development:** Is the process of developing, being developed, or the result of developing.
+* **Engineering:** Mostly involves applying science, conventional methods, and applicable tools to find cost-effective and sustainable/scalable solutions to developing problems. This can be in any industry where engineering is applicable.
+* **Software** is a set of _computer programs_ that enable a computer system (_hardware_) to perform specific tasks.
+* **Software Architecture:** Refers to the fundamental structures or building blocks of a software system. The way software components (subroutines, classes, functions) are arranged and interact or integrate with each other.
+* **Software Engineering:** Is a systematic, disciplined & more so quantifiable approach to the development, operation, and maintenance of software or software projects.
+
+* **Software Development:** Is a set of activities _conceiving, specifying, designing, programming, deploying, documenting, and testing (bug fixing)_ involved in the process of creating and maintaining software applications, frameworks, or other software components.
 
 ### Reading Resources
 
@@ -247,13 +225,4 @@ These can be different or categorized differently depending on the information s
 
 ### Tags
 
-``Software``, ``Software Crisis``, ``The Humble Programmer``, ``Software Development``, ``Computer Science``, ``Software Engineering``, ``Software Quality``, ``Software Quality Assurance``
-
-
-
-
-
-### Tags
-
-``Software Engineering``, ``Software Developer``, ``Software Engineer``, ``Software Development``, ``Software Crisis``, ``Software Quality Assurance``, ``Software Testing``,``Software Development Life Cycle (SDLC)``, ``NATO Science Committee``, ``The NATO Software Engineering Conferences``
-
+``Software``, ``Software Crisis``, ``The Humble Programmer``, ``Computer Science``, ``Software Engineering``, ``Software Quality``, ``Software Developer``, ``Software Engineer``, ``Software Development``, ``Software Crisis``, ``Software Quality Assurance``, ``Software Testing``,``Software Development Life Cycle``, ``SDLC``, ``NATO Science Committee``, ``The NATO Software Engineering Conferences``

@@ -6,6 +6,8 @@ The business of Software Project Management and the Economics of Software Engine
 
 The Success of any software engineering project is partly dependent on effective business management. And Developing good software also relies on understanding the underlying economics of Software Engineering.
 
+During Software Engineering in the business environment, vendors or Software Developers will be subcontracted to develop all, or some components, of the software systems and/or develop the hardware that the software will run on. In this case, the vendors will make a bid by providing proposals (_technical and financial capability_) in response to a _request for proposals (RFP)_ which are evaluated before the contract is offered.
+
 **Economics** is a social science concerned chiefly with description and analysis of the production, distribution, and consumption of goods and services. It's the study of how people make decisions in resource-limited situations.
 
 **Macroeconomics** is the study of how people make decisions in resource-limited situations on a national or global scale. It deals with the effects of decisions that national leaders make on such issues "as tax rates, interest rates, foreign and trade policy.
