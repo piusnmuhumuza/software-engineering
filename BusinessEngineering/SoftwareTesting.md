@@ -2,48 +2,27 @@
 
 ## Introduction
 
-Software testing is the process of evaluating and verifying that a computer program or system functions as intended. 
-It involves executing a program or system to identify any errors or gaps between the expected and actual outcomes. 
-The goal is to ensure the software meets specified requirements, is free of defects, and works reliably in different scenarios.
-
-Software testing is a process of using various industry-standard techniques to show and verify that a software, meets requirements, industry standards and is fit for use.
-
-During software testing, you validate the software requirements analysis, software design, during software implementation to make sure everything comes together correctly to deliver a software system that performs as expected, functionally and non-functionally.
-
-At a granual level, the purpose of software testing is to identify errors, gaps, or missing requirements and check whether the said software product is defect-free and matches the expected client requirements.
-
-Sometimes testing can happen early in the development lifecycle depending on the team workflow, methodology or client requirements but it mostly ensures that the quality of the overall software from varying levels of granularity is as per expectations before sign off or software project handover.
+In the software business, a software product is tested thoroughly like before being shipped to the client. During Software Testing, you validate if the finished product meets set software, requirements, industry standards and passes user acceptance to make sure everything comes together correctly to deliver a software system that performs as expected, functionally and non-functionally.
+At a granular level, the purpose of software testing is to identify errors, gaps, or missing requirements and check whether the said software product is defect-free and matches the expected client requirements.
 
 ## What is Software Testing
 
-Software testing is the process of evaluating and verifying that a software product being developed does what it is supposed to do. It checks whether the actual software product matches expected requirements and ensures that the software product is defect/bug-free prior to release/launch.
-
-## Is Software Quality Assurance and Software Testing the same?
-
-While Software Quality Assurance and Software Testing are used interchangeably in the Software Engineering/Development space, and both aim to provide software that meets the necessary requirements and quality standards, they aren’t exactly the same. In fact, they’re actually quite different.
-Software testing concentrates on finding the bugs, defects, and errors within the software, while software quality assurance aims to assure that the overall quality of the software product being engineered/developed meets the requirements and expectations of the client.
+Software Testing is a process of using various industry-standard techniques to evaluating, show and verify that a software product being developed does what it is supposed to do, meets clients requirements and is fit for use. It’s is part of Software Quality Assurance.
+It checks whether the actual software product matches expected requirements and ensures that the software product is defect/bug-free prior to release/launch.
+Sometimes testing can happen early in the development lifecycle depending on the team workflow, methodology or client requirements but it mostly ensures that the quality of the overall software from varying levels of granularity is as per expectations before sign off or software project handover.
+There are different levels of testing, from functional to acceptance, and each one checks specific things to make sure everything is up to standard.
+While Software Quality Assurance and Software Testing are used interchangeably in the Software Engineering/Development space, and both aim to provide software that meets the necessary requirements and quality standards, they are not exactly the same. In fact, they are quite different.
+Software testing concentrates on finding the bugs, defects, and errors within the software, while Software Quality Assurance aims to assure that the overall quality of the software product being engineered/developed meets the requirements and expectations of the client.
 
 **Note:** Software testing is a part of the general quality control process within Software Quality Assurance, but its focus is exclusively on product-oriented tasks rather than the big picture.
 
-## Why is Software Testing Needed?
-
-Software testing plays a crucial role in delivering reliable and high-quality software as well as mitigating risks, enhances user satisfaction, and ensuring a smooth user experience.
-
-It's essential to have robust testing processes to succeed in order to;-
-
-* Identifying Bugs and Defects
-* Ensuring Quality
-* Meeting Requirements
-* Enhancing Reliability
-* Preventing Future Issues and many more.
-
 ## Who does software testing?!
 
-•	Software Tester
-•	Software Developer/Engineer.
-•	Software Quality Assurance Engineers can also test.
-•	Project Lead/Manager
-•	End User/Client.
+* Software Tester
+* Software Developer/Engineer.
+* Software Quality Assurance Engineers can also test.
+* Project Lead/Manager
+* End User/Client.
 
 ## The Seven testing principles are; —
 
@@ -70,29 +49,45 @@ There is no one-strategy-fits-all in software testing rather testing approach de
 7. **Absence of errors-fallacy**
 It is a common belief in the software engineering space that a low defect rate implies the software product is okay and the software project is a success which is an absence-of-errors delusion. Zero defects do not mean the software solves end-user problems successfully. In fact, even bug-free software can fail to address the business needs of a client if wrong inputs were incorporated into the software.
 
-## Some types of software testing include; -
+## Why is Software Testing Needed?
 
-* **Functional Testing** (_Unit testing, Integration testing, System testing, Interface testing, Regression testing, Beta/acceptance testing_)
-* **Non-Functional Testing** (_Performance testing, Load testing, Stress testing, Volume testing, Security testing, Compatibility testing, Install testing, Recovery testing, Reliability testing, Usability testing, Compliance testing_).
+Software testing plays a crucial role in delivering reliable and high-quality software as well as mitigating risks, enhances user satisfaction, and ensuring a smooth user experience. It's essential to have robust testing processes to succeed in order to;-
 
-## - Levels of Testing
+* Identifying Bugs and Defects
+* Ensuring Quality
+* Meeting Requirements
+* Enhancing Reliability
+* Preventing Future Issues and many more.
 
-### Unit Testing:
+## Breakdown Software Testing
 
-Testing individual parts or components (units) of a software to ensure they work as intended.
-Why? To make sure each piece of the software functions correctly on its own.
+As an Engineer, Developer, Product Manager or Project Manager, it’s important to know the levels of software testing and why going through each level is so crucial for software Quality Assurance and a software project’s success.
+There are so many ways of approaching software testing based on the project type, the Software product the client expectations, the budget or the Engineering Team available during the software Life cycle.
+I will document the simple approach I followed to avoid getting confused and I believe it can be built on by anyone reading this documentation.
 
-### Integration Testing:
+### Software Testing Typically falls under 3 categories; -
 
-Testing how different units or components work together when integrated into a larger system.
-Why? To check if the combined units cooperate as expected and don't cause issues when connected.
+Functional Testing: A type of software testing that validates the software against a list of requirements or specifications. These tests aim to assess each application function and mainly involve black box testing. Functional testing analyses details like user interface, database, security, application programming interfaces (APIs), and client/server communication. Functional Testing will usually have _Unit testing, Integration testing, System testing, Interface testing, Regression testing, Beta/acceptance testing_
+Non-Functional Testing: Sometimes called performance testing, this method focuses on testing an application for its non-functional elements and requirements. Non-functional elements encompass things like performance, reliability, and usability. An example of a test would be checking how many users can be logged into a tool simultaneously without the tool lagging or glitching. Test carried out here often include _Performance testing, Load testing, Stress testing, Volume testing, Security testing, Compatibility testing, Install testing, Recovery testing, Reliability testing, Usability testing, Compliance testing_.
+Maintenance Testing: A method of software testing that aims to uncover software errors or bugs within a program after changes have been made. It retests the program to ensure that after the changes are complete, the changes don’t negatively impact the features within the code or conflict with necessary requirements. Test carried out in Maintenance Testing include Regression testing, confirmation testing.
 
-### System Testing:
+## Levels of Testing
 
-Testing the entire system as a whole to verify that it meets the specified requirements.
-Why? To ensure that the complete software system functions correctly and satisfies user needs.
+The different levels of software testing explore the four software testing levels that take place during the development lifecycle with each level conducted thoroughly, checking for something different—nothing should be rushed or skipped.
+These are; —
 
-### Acceptance Testing:
+### Unit Testing
 
-Checking if the software meets the requirements and specifications set by the end-users or clients.
-Why? To confirm that the software is ready for release and satisfies the user's expectations and needs.
+This is usually done at the code level, testing individual parts or components (units) of a software to analyse their functionality and ensure each piece of the software functions correctly on its own and works as intended.
+
+### Integration Testing
+
+Is the process of testing how different units or components work together when integrated into a larger system to check if the combined units cooperate as expected and don't cause issues when connected. It enables software testers to test units of software when integrated into a whole system to identify any bugs or issues arising from integrations between modules. It is possible to automate integration testing.
+
+### System Testing
+
+This is the process of testing the entire system (an integrated environment comprising the whole application), where all components are assessed against specific business requirements to verify that it meets the specified requirements, and ensure the complete software system functions correctly and satisfies user needs. Automation tools can be used for System Testing.
+
+### Acceptance Testing
+
+This is where a team checks if the software meets the requirements and specifications set by the end-users or clients to confirm that the software is ready for release and satisfies the user's expectations and needs. Acceptance testing involves testing the system’s Functional and Non-functional aspects, such as performance, security, usability, accessibility, compatibility, and reliability. Depending on the system’s complexity, it can be done manually or through automation tools.

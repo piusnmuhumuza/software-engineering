@@ -73,7 +73,9 @@ The NATO Science Committee sponsored two conferences ( [The NATO Software Engine
 
 It emphasizes a systematic, disciplined approach to the development of software that typically applies to the construction of large software systems (or products) involving numerous Software Development and engineering teams.
 
-## Front-end Vs Back-end Vs Full-stack Development
+Today, Software Development and engineering teams will typically fall under Front-end, Back-end or full-stack development, as is with Developers, Engineers and sometimes Programmers.
+
+### Front-end Vs Back-end Vs Full-stack Development
 
 Front-ends work on what the user can see while Back-ends build the infrastructure that supports it and Full-stacks are both in one. Both Front-ends & Back-ends are necessary components for high-functioning software or applications.
 
@@ -83,7 +85,7 @@ Front-ends work on what the user can see while Back-ends build the infrastructur
 
 * **Full-stack —** usually comes with experience of working both as a Front-end and Back-end. Often referred to as “jack-of-all-trades”, Full-stacks have skills in a wide variety of coding niches, databases, graphic design, and UI/UX that enables them do their job well working both the client and server ends.
 
-## The case of a Software Engineer Vs a Software Developer
+### The case of a Software Engineer Vs a Software Developer
 
 While _Developers_ and _Engineers_ apply advanced technical skills to create computer programs, and their roles overlap in many ways depending on the team one is working on, _Software Developers_ and _Software Engineers_ typically handle different steps when creating applications.
 
@@ -103,7 +105,7 @@ As you grow your experience in the Software Engineering industry you will go thr
 
 The 3 common basic levels are;-
 
-**Junior Developer:**
+* **Junior Developer:**
 
 While starting out, most _Developers_ will be Trainees/Apprentices or referred to as Junior Developer most as commonly known in the software industry. At this level, you probably have 0 to 1.5 years of experience tops and everything you know about Software Engineering is basic at best.
 
@@ -111,29 +113,26 @@ You will work on a team where you either pair, work with or have your code revie
 
 Read my Article; — [The Struggles of a Junior Software Developer](https://piusnmuhumuza.medium.com/the-struggles-of-a-junior-software-developer-20856d57150e) to get a feel of the experience a typical Junior Developer goes through.
 
-**Mid-Level Developer:**
+* **Mid-Level Developer:**
 
 Mostly referred to as _Intermediate Developer_ on some Job descriptions (JDs) put out by hiring companies or recruiter, _a mid-level Developer_ is any developer with 2–3 years under their belt and has developed a substantial level of technical skills in the software engineering industry.
 
 At this level, a developer has worked on some projects and can work unsupervised on a team among other things or under limited supervision which is typically code/tasks review from the Senior Developer who will act as a guide, mentor, and advisor for the most part.
 
-**Senior Developer:**
+* **Senior Developer:**
 
 This developer is also known as the **Developer Lead** or **Team Lead** and is often referred to as a problem solver, because of their deep, specialized knowledge and exhaustive experience in the software engineering industry, knowledge of programming languages, tech stack, or even a specific product they are working or worked on.
 
 At this level, a Developer has somewhere 5 to 8 years+ of experience and able to handle complex problems, comfortably review other developers’ codes, solve their problems, be a trendsetter when working on projects, and most importantly mentor Junior & Mid-level Developers.
 
-Typically, a software will have functional and non-functional requirements among other client needs to be specified from which an analysis/planning is made to ascertain a scope.
 
-It will have a life-cycle, which is a software process, during its development that involves engineering phases, consisting of concept creation, requirements specification, design, implementation, integration, testing, and deployment.
+### Key Activities in Software Engineering when managing Software Projects
 
-This process of developing or engineering software is known as the [Software Development Life Cycle (SDLC);](https://en.wikipedia.org/wiki/Systems_development_life_cycle) — “the overall process of developing software from start to finish.”
+Good software is characterised by functional and non-functional requirements among other client needs often specified from which an analysis/planning is made to ascertain a scope. It will also undergo a life-cycle(software process), that involves engineering phases, consisting of concept creation, requirements specification, design, implementation, integration, testing, and deployment.
 
 The Software Development Life Cycle (SDLC) is the process for planning, creating, testing, deploying and post improvement (where required) of a software product. — It consists of stages (Analysis/ Planning, Design, Development/Implementation, Testing, Deployment, and then maintenance.) which are sometimes unchangeable at certain levels depending on the industry, client requirements and team. 
 
 As software evolves, it will undergo monitoring, maintenance and continuous improvement cycles and each software development lifecycle model provides specific guidance to the sequencing and repetition of life cycle activities to deliver high-quality software systems.
-
-### Key Activities in Software Engineering when managing Software Projects
 
 Project management in a software engineering environment is unique because of the technical aspects of a software project. While software engineers are generally accountable for the technical aspects of a project, the project manager is accountable for organizational aspects. Sometimes a project manager can be the Software Developer on a project.
 
@@ -203,6 +202,7 @@ These can be different or categorized differently depending on the information s
 * **Software Engineering:** Is a systematic, disciplined & more so quantifiable approach to the development, operation, and maintenance of software or software projects.
 
 * **Software Development:** Is a set of activities _conceiving, specifying, designing, programming, deploying, documenting, and testing (bug fixing)_ involved in the process of creating and maintaining software applications, frameworks, or other software components.
+* **[Software Development Life Cycle (SDLC);](https://en.wikipedia.org/wiki/Systems_development_life_cycle)** is the process of developing or engineering software. — “the overall process of developing software from start to finish.”
 
 ### Reading Resources
 
@@ -222,6 +222,9 @@ These can be different or categorized differently depending on the information s
 * [Software Quality Assurance: Beyond the Basics.](https://piusnmuhumuza.medium.com/software-quality-assurance-beyond-the-basics-f159780bc55f)
 * [Being a good Software Quality Assurance Engineer](https://piusnmuhumuza.medium.com/being-a-good-software-quality-assurance-engineer-9e229eba89d6)
 * [Software Engineering: A Business Tech Enthusiast Beginner’s Guide](https://piusnmuhumuza.medium.com/software-engineering-a-business-tech-enthusiast-beginners-guide-1961aa73d76)
+* [Test Types and Maintenance Testing](https://testingtraveler.com/2021/02/05/test-types-and-maintenance-testing/)
+* [The 4 Levels of Testing in Software Engineering Explained](https://fellow.app/blog/engineering/the-levels-of-testing-in-software-engineering-explained/)
+* [The different types of software testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 
 ### Tags
 
