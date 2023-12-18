@@ -204,3 +204,48 @@
 
 This roadmap list was inspired from [tweet](https://x.com/harsa_dash/status/1726090696233468275?s=46)
 by [Harsa Dash](https://x.com/harsa_dash?s=21)
+
+
+* Introduction
+* DBMS and RDBMS
+* Introduction to SQL
+
+## Data Constraint, Keys and Datatypes
+
+* Constraints
+* Keys
+* Data types
+
+## Normalisation
+
+* What is Normalisation?
+* Types of normalisation
+Module 4: Creating Databases and Tables
+* Types of SQL Commands
+•	DDL Statements
+•	DML Statements
+•	TCL Statements
+Module 5: Clauses and Aggregate Functions
+•	Group by Clause
+•	Aggregate Functions
+•	Where Clause
+•	Having and Order by Clause
+•	Distinct Clause
+Module 6: Joins
+•	Aliases
+•	Joins
+•	Inner Join
+•	Outer Join
+•	Right Outer Join
+Module 7: Views
+•	Introduction to Views
+•	Advantages
+•	Types of Views
+•	Simple View
+•	Complex View
+•	Operations
+Module 8: Triggers
+•	Introduction to Triggers
+•	Advantages
+•	Disadvantages
+•	Hands-on
