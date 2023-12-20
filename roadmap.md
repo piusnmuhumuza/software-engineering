@@ -1,9 +1,9 @@
 # ROADMAP
 
-1. **Web Development** _(HTML5, CSS3, JavaScript, Fullstack WordPress, Django)_ and **Design** _(Figma & illustrator)_.
-2. **Database Design** and **Administration** with SQL(_MySQL, MsSQL_).
-3. **IT Automation** and **Data Science**(_Python_).
-4. **APIs**(_Postman_)
+1. Web Design & Development.
+2. Database Design and Administration.
+3. IT Automation and Data Analysis/Science.
+4. APIs
 
 ## Resources
 
