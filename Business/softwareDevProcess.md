@@ -19,3 +19,6 @@
 9. Monitoring and Incident Response: Continuous monitoring of the production environment, with immediate response to any incidents or issues.
 
 10. Post-Production Iteration and Scaling: Making improvements to the software based on user feedback and scaling the system to handle increased load or demand.
+
+
+## Resources
