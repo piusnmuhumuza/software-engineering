@@ -312,6 +312,9 @@ These can be different or categorized differently depending on the information s
 * [A Guide to Understanding ISO Standards](https://www.jamasoftware.com/blog/a-guide-to-understanding-iso-standards/)
 * [Project Management: An Agile Approach to Projects.](https://piusnmuhumuza.medium.com/project-management-an-agile-approach-to-projects-27e11098ce10)
 * [Book Review: Scrum by Jeff Sutherland.](https://piusnmuhumuza.medium.com/book-review-scrum-by-jeff-sutherland-55221a14c232)
+* [Agile 101](https://www.agilealliance.org/agile101/)
+* [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+* [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
 
 ### Tags
 
