@@ -125,7 +125,6 @@ This developer is also known as the **Developer Lead** or **Team Lead** and is o
 
 At this level, a Developer has somewhere 5 to 8 years+ of experience and able to handle complex problems, comfortably review other developers’ codes, solve their problems, be a trendsetter when working on projects, and most importantly mentor Junior & Mid-level Developers.
 
-
 ### Key Activities in Software Engineering when managing Software Projects
 
 Good software is characterised by functional and non-functional requirements among other client needs often specified from which an analysis/planning is made to ascertain a scope. It will also undergo a life-cycle(software process), that involves engineering phases, consisting of concept creation, requirements specification, design, implementation, integration, testing, and deployment.
@@ -171,7 +170,7 @@ Software testing concentrates on finding the bugs, defects, and errors within th
 
 **Note:** Software testing is a part of the general quality control process within Software Quality Assurance, but its focus is exclusively on product-oriented tasks rather than the big picture.
 
-### Who does software testing?!
+### Who does software testing?
 
 * Software Tester
 * Software Developer/Engineer.
@@ -259,7 +258,11 @@ Even though project handover is an important part of the software product lifecy
 
 Typically, all stakeholders of the software project are present if possible for the hand over where final sign off take place and the Software product is handed of signaling the end of the project and making way for any post-project activities like support, maintenance and continuous improvement
 
-### Conclusion
+## Agile and Scrum
+
+Because most organizations use Agile for software or IT projects.
+
+## Conclusion
 
 Software Engineering/Development outside in the business environment is a very complex process, mostly because real-world software is much larger, more complex and run on big budgets with a lot of uncertainties, timelines and often unreasonable expectations from the various stakeholders.
 
@@ -271,7 +274,7 @@ There are several areas to focus on within **Software Engineering**, such as _Pr
 
 These can be different or categorized differently depending on the information source, learning center or mode of research on your part.
 
-### Glossary
+## Glossary
 
 * **Computer programs** are a set of instructions/algorithms applied to various types of data that is used as a process of creating the software program with the help of a programming language.
 * **Development:** Is the process of developing, being developed, or the result of developing.
@@ -283,7 +286,7 @@ These can be different or categorized differently depending on the information s
 * **Software Development:** Is a set of activities _conceiving, specifying, designing, programming, deploying, documenting, and testing (bug fixing)_ involved in the process of creating and maintaining software applications, frameworks, or other software components.
 * **[Software Development Life Cycle (SDLC);](https://en.wikipedia.org/wiki/Systems_development_life_cycle)** is the process of developing or engineering software. — “the overall process of developing software from start to finish.”
 
-### Reading Resources
+## Reading Resources
 
 * [Software engineering history](https://ifs.host.cs.st-andrews.ac.uk/Books/SE9/Web/History/#:~:text=The%20term%20'software%20engineering'%20was,complex%20systems%20in%20the%201960s.)
 * [Software Engineering](https://piusnmuhumuza.medium.com/software-engineering-a-business-tech-enthusiast-beginners-guide-1961aa73d76)
@@ -307,6 +310,8 @@ These can be different or categorized differently depending on the information s
 * [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 * [ISO (International Organization for Standardization)](https://www.techtarget.com/searchdatacenter/definition/ISO)
 * [A Guide to Understanding ISO Standards](https://www.jamasoftware.com/blog/a-guide-to-understanding-iso-standards/)
+* [Project Management: An Agile Approach to Projects.](https://piusnmuhumuza.medium.com/project-management-an-agile-approach-to-projects-27e11098ce10)
+* [Book Review: Scrum by Jeff Sutherland.](https://piusnmuhumuza.medium.com/book-review-scrum-by-jeff-sutherland-55221a14c232)
 
 ### Tags
 
