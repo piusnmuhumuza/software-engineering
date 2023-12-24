@@ -306,7 +306,7 @@ These can be different or categorized differently depending on the information s
 * [The different types of software testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 * [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 * [ISO (International Organization for Standardization)](https://www.techtarget.com/searchdatacenter/definition/ISO)
-* 
+* [A Guide to Understanding ISO Standards](https://www.jamasoftware.com/blog/a-guide-to-understanding-iso-standards/)
 
 ### Tags
 
