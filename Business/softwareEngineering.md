@@ -125,6 +125,9 @@ This developer is also known as the **Developer Lead** or **Team Lead** and is o
 
 At this level, a Developer has somewhere 5 to 8 years+ of experience and able to handle complex problems, comfortably review other developers’ codes, solve their problems, be a trendsetter when working on projects, and most importantly mentor Junior & Mid-level Developers.
 
+## Software Project Management
+
+
 ### Key Activities in Software Engineering when managing Software Projects
 
 Good software is characterised by functional and non-functional requirements among other client needs often specified from which an analysis/planning is made to ascertain a scope. It will also undergo a life-cycle(software process), that involves engineering phases, consisting of concept creation, requirements specification, design, implementation, integration, testing, and deployment.
@@ -162,10 +165,14 @@ At a granular level, the purpose of software testing is to identify errors, gaps
 ### What is Software Testing
 
 Software Testing is a process of using various industry-standard techniques to evaluating, show and verify that a software product being developed does what it is supposed to do, meets clients requirements and is fit for use. It’s is part of Software Quality Assurance.
+
 It checks whether the actual software product matches expected requirements and ensures that the software product is defect/bug-free prior to release/launch.
 Sometimes testing can happen early in the development lifecycle depending on the team workflow, methodology or client requirements but it mostly ensures that the quality of the overall software from varying levels of granularity is as per expectations before sign off or software project handover.
+
 There are different levels of testing, from functional to acceptance, and each one checks specific things to make sure everything is up to standard.
+
 While Software Quality Assurance and Software Testing are used interchangeably in the Software Engineering/Development space, and both aim to provide software that meets the necessary requirements and quality standards, they are not exactly the same. In fact, they are quite different.
+
 Software testing concentrates on finding the bugs, defects, and errors within the software, while Software Quality Assurance aims to assure that the overall quality of the software product being engineered/developed meets the requirements and expectations of the client.
 
 **Note:** Software testing is a part of the general quality control process within Software Quality Assurance, but its focus is exclusively on product-oriented tasks rather than the big picture.
@@ -279,6 +286,7 @@ These can be different or categorized differently depending on the information s
 * **Computer programs** are a set of instructions/algorithms applied to various types of data that is used as a process of creating the software program with the help of a programming language.
 * **Development:** Is the process of developing, being developed, or the result of developing.
 * **Engineering:** Mostly involves applying science, conventional methods, and applicable tools to find cost-effective and sustainable/scalable solutions to developing problems. This can be in any industry where engineering is applicable.
+* **Project management** is the process of planning and executing a project while balancing the time, cost, and scope constraints. Time, cost, and scope are known as the _triple constraint_.
 * **Software** is a set of _computer programs_ that enable a computer system (_hardware_) to perform specific tasks.
 * **Software Architecture:** Refers to the fundamental structures or building blocks of a software system. The way software components (subroutines, classes, functions) are arranged and interact or integrate with each other.
 * **Software Engineering:** Is a systematic, disciplined & more so quantifiable approach to the development, operation, and maintenance of software or software projects.
@@ -318,4 +326,4 @@ These can be different or categorized differently depending on the information s
 
 ### Tags
 
-``Software``, ``Software Crisis``, ``The Humble Programmer``, ``Computer Science``, ``Software Engineering``, ``Software Quality``, ``Software Developer``, ``Software Engineer``, ``Software Development``, ``Software Crisis``, ``Software Quality Assurance``, ``Software Testing``,``Software Development Life Cycle``, ``SDLC``, ``NATO Science Committee``, ``The NATO Software Engineering Conferences``, ``SWEBOK``
+``Software``, ``Software Crisis``, ``The Humble Programmer``, ``Computer Science``, ``Software Engineering``, ``Software Quality``, ``Software Developer``, ``Software Engineer``, ``Software Development``, ``Software Crisis``, ``Software Quality Assurance``, ``Software Testing``,``Software Development Life Cycle``, ``SDLC``, ``NATO Science Committee``, ``The NATO Software Engineering Conferences``, ``SWEBOK``,``Software Project Management``
