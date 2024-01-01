@@ -48,4 +48,15 @@
 
 #----------------------------------------------
 ## Strings
+### course = "Python's Course for Beginners"
+### course = 'Python Course for "Beginners"'
+course = '''
+Hi Wilson,
 
+Happy New Year 2024. Do have an amazing year ahead.
+
+Best Regards,
+
+'''
+print(course)
+print(course[0])
