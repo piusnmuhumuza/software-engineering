@@ -1,10 +1,13 @@
 # Python Development
 
 ## Python & Django
+
 Python is a high-level object-oriented programming language used to develop various desktop and mobile applications, websites, and software interfaces. Python developers use their programming and coding skills to combine software components and enhance features, data privacy, and security.
 
 ## Learning python
+
 Python is a simple yet great programming language whose developers' versatility enables them to work on many tasks like;-
+
 * Web Development
 * Scripting
 * Design Web Frameworks for new codes
@@ -17,6 +20,15 @@ Although Python developers will typically do back-end/server-side development, w
 
 Python developers can now perform a wide range of tasks with the work scope varying, depending on the needs of a company, employer or task at hand. Some Python developers are freelancers doing various tasks for different organizations and clients.
 
+### Covers
+
+* The universal concepts of computer programming;
+* The syntax and semantics of the Python language;
+* practical skills in resolving typical implementation challenges;
+* how to use the most important elements of the Python Standard Library;
+* how to install your runtime environment;
+* how to design, develop, test, and debug simple Python programs.
+
 ## Python Fundamentals to master when starting out.
 
 1. Variables And Data Types.
@@ -28,11 +40,12 @@ Python developers can now perform a wide range of tasks with the work scope vary
 
 Python fundamentals are like a foundation for any programming language whose basic concepts developers starting out should master.
 
-## Learn Supporting Frameworks and Technologies
+All in all, key focus areas when starting out are;-
 
-one of the things to learn in Python after the fundamentals are **Python Frameworks** — toolkits developers can use to create software products quickly and efficiently. Using frameworks, python developers can focus on implementing application business logic without reinventing many common functions, including data storage, security layers, application routing, and many more. The two main types of frameworks are full-stack and microframeworks([reference](https://www.knowledgehut.com/blog/programming/how-to-become-a-python-developer)).
-
-A link to a good Python roadmap;- [Step by step guide to becoming a Python developer](https://roadmap.sh/python).
+* Introduction to Python and computer programming
+* Data types, variables, basic input-output operations, and basic operators;
+* Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operations;
+* Functions, tuples, dictionaries, exceptions, and data processing.
 
 ## Technical skills needed to become a competent Python developer;-
 
@@ -41,9 +54,18 @@ A link to a good Python roadmap;- [Step by step guide to becoming a Python devel
 * A proper understanding of the automation framework for debugging errors, using different tools proficiently and managing other routine tasks thus managing toll and enhancing your speed and accuracy.
 * A good grasp of Data Algorithms and Structures
 
-
-
-
 ## python frameworks
+
+One of the things to learn in Python after the fundamentals are **Python Frameworks** — toolkits developers can use to create software products quickly and efficiently. Using frameworks, python developers can focus on implementing application business logic without reinventing many common functions, including data storage, security layers, application routing, and many more. The two main types of frameworks are full-stack and micro-frameworks([reference](https://www.knowledgehut.com/blog/programming/how-to-become-a-python-developer)).
+
+A link to a good Python roadmap;- [Step by step guide to becoming a Python developer](https://roadmap.sh/python).
+
 ## Python Libraries
+
 ## Developing with Django
+
+## Conclusion
+
+This course has been designed and developed by the OpenEDG Python Institute in partnership with the Cisco Networking Academy for anyone and everyone who wants to learn Python and modern programming techniques.
+
+## Learning Resources
