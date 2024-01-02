@@ -60,3 +60,14 @@
 #### '''
 ### print(course)
 ### print(course[0])
+
+#------------------------------
+# Formatted Strings
+### first = 'John'
+### last = 'Smith'
+### msg = f'{first} [{last}] is a coder'
+### print(msg)
+
+#------------------------------
+# String Methods
+
