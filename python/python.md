@@ -70,9 +70,9 @@ This course has been designed and developed by the OpenEDG Python Institute in p
 
 ## Learning Resources
 
+* [Kaggle's Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)
+* [Kaggle's Python](https://www.kaggle.com/learn/python)
 * [Python](https://www.python.org/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html#tutorial-index)
 * [The Python Standard Library](https://docs.python.org/3/library/index.html)
 * [The Python Language Reference](https://docs.python.org/3/reference/index.html#reference-index)
-* [Kaggle's Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)
-* [Kaggle's Python](https://www.kaggle.com/learn/python)
