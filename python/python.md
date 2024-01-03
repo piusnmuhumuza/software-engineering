@@ -66,13 +66,15 @@ A link to a good Python roadmap;- [Step by step guide to becoming a Python devel
 
 ## Conclusion
 
-This course has been designed and developed by the OpenEDG Python Institute in partnership with the Cisco Networking Academy for anyone and everyone who wants to learn Python and modern programming techniques.
+This learning guide is for anyone and everyone learning Python and modern programming techniques just as i did.
 
 ## Learning Resources
 
+* [Python Developer](https://roadmap.sh/python)
 * [Kaggle's Intro to Programming](https://www.kaggle.com/learn/intro-to-programming)
 * [Kaggle's Python](https://www.kaggle.com/learn/python)
 * [Python](https://www.python.org/)
+* [Real Python Tutorials](https://realpython.com/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html#tutorial-index)
 * [The Python Standard Library](https://docs.python.org/3/library/index.html)
 * [The Python Language Reference](https://docs.python.org/3/reference/index.html#reference-index)
