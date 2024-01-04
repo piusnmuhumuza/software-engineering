@@ -32,6 +32,7 @@ Python developers can now perform a wide range of tasks with the work scope vary
 ## Python Fundamentals to master when starting out.
 
 1. Variables And Data Types.
+   * Python Data types include _(Numeric[Integer,Float, Complex Number], Sequence[String, List, Tuples], Dictionary, Boolean, Set, )_ .
 2. Data Structures and Algorithms.
 3. Loops, Conditional and Control Statements.
 4. I/O Operations and Exception Handling.
