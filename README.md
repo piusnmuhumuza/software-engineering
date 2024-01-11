@@ -1,4 +1,4 @@
-# BOOTCAMP | Learning Collection
+# LEARNING CENTER | Business IT Engineering Collection
 
 ## Disclaimer
 
