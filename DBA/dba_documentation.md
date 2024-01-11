@@ -3,7 +3,6 @@
 
 The Complete Database Administration Documentation
 
-
 ## Introduction
 
 A complete learning resource documentation for database administration. I put it together while teaching myself, curating and researching Data Management, databases and Databases Administration.
