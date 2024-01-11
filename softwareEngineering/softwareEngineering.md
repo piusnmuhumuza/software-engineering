@@ -737,66 +737,6 @@ A few of them:
 * Encourages diversity of ideas which increases improves collaboration and the frequency of feedback.
 
 
-## Glossary
-
-* **Software**
-
-* **Projects**
-
-* **Projects Management**
-
-* **Demand versus supply.**  Demands and supplies are the fundamental behaviors of dynamic market systems, which form the context of economics.
-
-* **Demand** is the required quantities for a product or service. It is also the demand for labor and materials needed to produce those products and services. Demand is a fundamental driving force of market systems and the predominant reason for most economic phenomena. The market response to a demand is called supply.  
-
-* **Supply** is the required quantities for a product or service that producers are willing and able to sell at a given range of prices. This also extends to the labor and materials needed to produce the product and services to meet the demand.
-
-* **Efficiency:** Efficiency of a system is generally defined as the ratio of its output to input. The efficiency can be classified into technical efficiency and economic efficiency.
-
-* **Technical efficiency:** It is the ratio of the output to input of a physical system. The physical system may be a diesel engine, a machine working in a shop floor, a furnace, etc. (Technical efficiency (%) =  Output/ Input × 100)
-
-* **Economic efficiency:** Economic efficiency is the ratio of output to input of a business system. (Economic efficiency (%) = Output/Input  × 100 = Worth/Cost × 100)
-
-* **Investment:** Is an asset or item acquired with the goal of generating income or appreciation. (Interest = Current Value – Original Amount)
-
-* **Loan:** Is money, property, or other material goods given to another party in exchange for future repayment of the loan value or principal amount, along with interest or finance charges. (Interest = Current Total Owed – Original Amount)
-
-* **Rate of Return (ROR):** Interest accumulated per unit time. (ROR = Interest accumulated per unit time / Original Amount)
-
-* **Time Value of Money (TVM):** Is the money available at the present time is worth more than the identical sum in the future due to its potential earning capacity.
-
-* **Present Value (PV):** Is the current value of a future sum of money or stream of cash flows given a specified rate of return.
-
-* **Future Value (FV):** Is the value of a current asset at a future date based on an assumed rate of growth.
-
-* * **Money value throughout time:** The time value of money draws from the idea that rational investors prefer to receive money today rather than the same amount of money in the future because of money’s potential to grow in value over a given period of time. For example, money deposited into a savings account earns a certain interest rate and is therefore said to be compounding in value.
-
-* **Cash Flow:** Is the net amount of cash and cash-equivalents being transferred into and out of a business.
-
-* **Interest:** is defined as the cost of borrowing money as in the case of interest charged on a loan balance.(Money paid for the use of money.) Interest can be calculated in two ways, simple interest or compound interest.
-
-* **Simple interest** is calculated on the principal, or original, amount of a loan. Formula: Simple interest = P x i x n; P = principle, i = interest rate and n = term of the load
-
-**Compound interest** is calculated on the principal amount and also on the accumulated interest of previous periods, and can thus be regarded as “interest on interest.” Formula: Compound interest= [P(1+i)^n]−P & Compound interest = P[(1+i)^n−1]; P = principle, i = interest rate in percentage terms and n = number of compounding periods of year.
-
-* **Interest Rate:** Interest paid per unit time. (Interest Rate = Interest paid per unit time / Original Amount)
-Interest rate is one of the most commonly used phrases in fixed-income investment lexicon. The different types of interest rates, including real, nominal, effective and annual, are distinguished by key economic factors, that can help individuals become smarter consumers and shrewder investors.
-
-* **Nominal Interest Rate:** Is the stated interest rate of a bond or loan, which signifies the actual monetary price borrowers pay lenders to use their money.
-
-**Effective Interest Rate:** Investors and borrowers should also be aware of the effective interest rate, which takes the concept of compounding into account. «Compounding is the process in which an asset’s earnings.
-
-* **Opportunity Costs** are those cost resulting from the loss of potential gain from the other alternatives then the one alternative chosen by the decision maker. which is where making decisions in the Presence of Uncertainty comes in because making decision is about Opportunity Costs.
-
-* **Software economics** deals with the application of economic principles to software development by focusing on the ever challenging issue of valuing software and estimating the costs involved in its production.
-
-* **Software Engineering** is a technical discipline or approach that applies **computer science** and **engineering** concepts in the design, development, testing and maintenance of quality reliable, usable, and dependable software. Simply put, it's an engineering-based approach to software development.
-
-* **Economics** is the study of how resources (people, time, facilities, money) are used to produce and distribute commodities and how services are provided in society. Economics is classified into microeconomics  and macroeconomics. — Microeconomics is the study of behaviors of individual agents and markets. Macroeconomics is the study of the broad aspects of the economy, for example employment, export, and prices on a national or global scope.
-
-* **[Engineering Economics](https://en.wikipedia.org/wiki/Engineering_economics)** is a branch of microeconomics dealing with engineering related economic decisions and the application of economic principles and methods to engineering problems and decisions. It helps in evaluating the costs and benefits of different alternatives, such as projects, products, processes, or policies,in to make the best choice for your team, business or organization.
-
-* **Software Engineering economics** is the application of economic techniques to the evaluation of Software design, development and engineering alternatives. It facilitates assessment of the appropriateness of a given software project, estimating its value, and justifying it from an business & engineering standpoint.
 
 
 
@@ -813,6 +753,8 @@ There are several areas to focus on within **Software Engineering**, such as _Pr
 
 These can be different or categorized differently depending on the information source, learning center or mode of research on your part.
 
+Today, software development teams run lean processes to focus on end-user feedback and increased value, as noted in the Lean Startup, by Eric Ries, who advocates for rapid prototyping, end-user feedback and early and rapid product delivery.
+
 ## Glossary
 
 * **Computer programs** are a set of instructions/algorithms applied to various types of data that is used as a process of creating the software program with the help of a programming language.
@@ -822,9 +764,35 @@ These can be different or categorized differently depending on the information s
 * **Software** is a set of _computer programs_ that enable a computer system (_hardware_) to perform specific tasks.
 * **Software Architecture:** Refers to the fundamental structures or building blocks of a software system. The way software components (subroutines, classes, functions) are arranged and interact or integrate with each other.
 * **Software Engineering:** Is a systematic, disciplined & more so quantifiable approach to the development, operation, and maintenance of software or software projects.
-
 * **Software Development:** Is a set of activities _conceiving, specifying, designing, programming, deploying, documenting, and testing (bug fixing)_ involved in the process of creating and maintaining software applications, frameworks, or other software components.
 * **[Software Development Life Cycle (SDLC);](https://en.wikipedia.org/wiki/Systems_development_life_cycle)** is the process of developing or engineering software. — “the overall process of developing software from start to finish.”
+* **Demand versus supply.**  Demands and supplies are the fundamental behaviors of dynamic market systems, which form the context of economics.
+* **Demand** is the required quantities for a product or service. It is also the demand for labor and materials needed to produce those products and services. Demand is a fundamental driving force of market systems and the predominant reason for most economic phenomena. The market response to a demand is called supply.  
+* **Supply** is the required quantities for a product or service that producers are willing and able to sell at a given range of prices. This also extends to the labor and materials needed to produce the product and services to meet the demand.
+* **Efficiency:** Efficiency of a system is generally defined as the ratio of its output to input. The efficiency can be classified into technical efficiency and economic efficiency.
+* **Technical efficiency:** It is the ratio of the output to input of a physical system. The physical system may be a diesel engine, a machine working in a shop floor, a furnace, etc. (Technical efficiency (%) =  Output/ Input × 100)
+* **Economic efficiency:** Economic efficiency is the ratio of output to input of a business system. (Economic efficiency (%) = Output/Input  × 100 = Worth/Cost × 100)
+* **Investment:** Is an asset or item acquired with the goal of generating income or appreciation. (Interest = Current Value – Original Amount)
+* **Loan:** Is money, property, or other material goods given to another party in exchange for future repayment of the loan value or principal amount, along with interest or finance charges. (Interest = Current Total Owed – Original Amount)
+* **Rate of Return (ROR):** Interest accumulated per unit time. (ROR = Interest accumulated per unit time / Original Amount)
+* **Time Value of Money (TVM):** Is the money available at the present time is worth more than the identical sum in the future due to its potential earning capacity.
+* **Present Value (PV):** Is the current value of a future sum of money or stream of cash flows given a specified rate of return.
+* **Future Value (FV):** Is the value of a current asset at a future date based on an assumed rate of growth.
+* * **Money value throughout time:** The time value of money draws from the idea that rational investors prefer to receive money today rather than the same amount of money in the future because of money’s potential to grow in value over a given period of time. For example, money deposited into a savings account earns a certain interest rate and is therefore said to be compounding in value.
+* **Cash Flow:** Is the net amount of cash and cash-equivalents being transferred into and out of a business.
+* **Interest:** is defined as the cost of borrowing money as in the case of interest charged on a loan balance.(Money paid for the use of money.) Interest can be calculated in two ways, simple interest or compound interest.
+* **Simple interest** is calculated on the principal, or original, amount of a loan. Formula: Simple interest = P x i x n; P = principle, i = interest rate and n = term of the load
+**Compound interest** is calculated on the principal amount and also on the accumulated interest of previous periods, and can thus be regarded as “interest on interest.” Formula: Compound interest= [P(1+i)^n]−P & Compound interest = P[(1+i)^n−1]; P = principle, i = interest rate in percentage terms and n = number of compounding periods of year.
+* **Interest Rate:** Interest paid per unit time. (Interest Rate = Interest paid per unit time / Original Amount)
+Interest rate is one of the most commonly used phrases in fixed-income investment lexicon. The different types of interest rates, including real, nominal, effective and annual, are distinguished by key economic factors, that can help individuals become smarter consumers and shrewder investors.
+* **Nominal Interest Rate:** Is the stated interest rate of a bond or loan, which signifies the actual monetary price borrowers pay lenders to use their money.
+**Effective Interest Rate:** Investors and borrowers should also be aware of the effective interest rate, which takes the concept of compounding into account. «Compounding is the process in which an asset’s earnings.
+* **Opportunity Costs** are those cost resulting from the loss of potential gain from the other alternatives then the one alternative chosen by the decision maker. which is where making decisions in the Presence of Uncertainty comes in because making decision is about Opportunity Costs.
+* **Software economics** deals with the application of economic principles to software development by focusing on the ever challenging issue of valuing software and estimating the costs involved in its production.
+* **Software Engineering** is a technical discipline or approach that applies **computer science** and **engineering** concepts in the design, development, testing and maintenance of quality reliable, usable, and dependable software. Simply put, it's an engineering-based approach to software development.
+* **Economics** is the study of how resources (people, time, facilities, money) are used to produce and distribute commodities and how services are provided in society. Economics is classified into microeconomics  and macroeconomics. — Microeconomics is the study of behaviors of individual agents and markets. Macroeconomics is the study of the broad aspects of the economy, for example employment, export, and prices on a national or global scope.
+* **[Engineering Economics](https://en.wikipedia.org/wiki/Engineering_economics)** is a branch of microeconomics dealing with engineering related economic decisions and the application of economic principles and methods to engineering problems and decisions. It helps in evaluating the costs and benefits of different alternatives, such as projects, products, processes, or policies,in to make the best choice for your team, business or organization.
+* **Software Engineering economics** is the application of economic techniques to the evaluation of Software design, development and engineering alternatives. It facilitates assessment of the appropriateness of a given software project, estimating its value, and justifying it from an business & engineering standpoint.
 
 ## Reading Resources
 
@@ -868,6 +836,12 @@ These can be different or categorized differently depending on the information s
 * [Software Cost Estimation](https://www.geeksforgeeks.org/software-cost-estimation/)
 * [Cost Estimation Models in Software Engineering](https://www.tutorialspoint.com/cost-estimation-models-in-software-engineering)
 * [Software Cost Estimation Models in Software Planning](https://www.geeksforgeeks.org/software-cost-estimation-models-in-software-planning/)
+* [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+* [History: The Agile Manifesto](https://agilemanifesto.org/history.html)
+* [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
+* [Authors: The Agile Manifesto](https://agilemanifesto.org/authors.html)
+* [Scrum Guides](https://scrumguides.org/index.html)
+* [The Agile Coach]( https://www.atlassian.com/agile)
 
 ### Tags
 
