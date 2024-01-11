@@ -146,7 +146,7 @@ Even though everyone in a software development team is responsible for software 
 
 **Who is a Software Quality Assurance Engineer?**
 
-A **S**** oftware Quality Assurance **** (SQA) **** Engineer** or [SQA Engineer](https://piusmwilson.medium.com/being-a-good-software-quality-assurance-engineer-9e229eba89d6) is a professional within a software engineering team who with the application of standard software quality assurance tools, practices and methods collaborates with developers, end users, and other involved stakeholders on finding and fixing bugs in a software product during development, before its launch and sometimes even after launch among other process.
+A **S**oftware Quality Assurance **** (SQA) **** Engineer** or [SQA Engineer](https://piusmwilson.medium.com/being-a-good-software-quality-assurance-engineer-9e229eba89d6) is a professional within a software engineering team who with the application of standard software quality assurance tools, practices and methods collaborates with developers, end users, and other involved stakeholders on finding and fixing bugs in a software product during development, before its launch and sometimes even after launch among other process.
 
 SQA Engineers are needed across many industries and typically; -
 
