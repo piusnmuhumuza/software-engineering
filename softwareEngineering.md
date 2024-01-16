@@ -2,6 +2,10 @@
 
 This is a Complete Software Engineering Summary Notes Guide i put together with basic [Software Engineering](https://piusnmuhumuza.hashnode.dev/a-business-technology-enthusiasts-guide-to-software-engineering) definitions, concepts, and practices for busy business technologists & thought leaders.
 
+## Table Of Contents
+
+- [Introduction](#introduction)
+
 ## Introduction
 
 Back in the 1950s, when the dependency on computers increased, the software needed to manage them also grew and thus [Software Engineering/Development](https://piusnmuhumuza.hashnode.dev/a-business-technology-enthusiasts-guide-to-software-engineering) became a necessity for businesses and users all over the world.
