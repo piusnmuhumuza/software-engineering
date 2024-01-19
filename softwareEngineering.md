@@ -5,6 +5,9 @@ This is a Complete Software Engineering Summary Notes Guide i put together with 
 ## Table Of Contents
 
 - [Introduction](#introduction)
+- [What is Software](#what-is-software)
+   -[Characteristics of Software](#characteristics-of-software)
+- [What is Software Engineering](#what-is-software-engineering)
 
 ## Introduction
 
@@ -26,11 +29,11 @@ High-quality software was and is characterized with being highly dependable, saf
 
 ### Characteristics of Software
 
-* Software is developed or engineered and not manufactured.
-* Software doesn’t wear out but it does require enhancements or scaling depending on how, where, and for whom it’s being developed.
-* Software should be applicable, maintainable, scalable, reliable, efficient, and well documented at the very least to be considered quality when handing it over to the client.
-* Software and especially good software is operational, transitional, and maintainable.
-* Software can also have some restrictions e.g., legal compliances, industry standards, Cost, talent hiring, and time to market among others that need to be considered.
+- Software is developed or engineered and not manufactured.
+- Software doesn’t wear out but it does require enhancements or scaling depending on how, where, and for whom it’s being developed.
+- Software should be applicable, maintainable, scalable, reliable, efficient, and well documented at the very least to be considered quality when handing it over to the client.
+- Software and especially good software is operational, transitional, and maintainable.
+- Software can also have some restrictions e.g., legal compliances, industry standards, Cost, talent hiring, and time to market among others that need to be considered.
 
 ## What is Software Engineering
 
