@@ -3,14 +3,14 @@
 ## Disclaimer
 
 All material in this repository is attributed to a lot of research and curating while trying to improve my collective Technical skill set as both an Information and business Technology practitioner aiming to be a knowledgeable Technology Thought Leader.
-Over the years, I've realised some of this information is not free in some places, hard to find quickly and hard to understand immediately and my own experiences have championed the creation of this repository.
+Over the years, I've realized some of this information is not free in some places, hard to find quickly and hard to understand immediately and my own experiences have championed the creation of this repository.
 I feel that my sharing can enable someone else to quickly gain insightful knowledge and also do the same for someone else.
 
 Please read, use as a reference for further research, share, recommend and importantly suggest insights and resources for future improvements.
 
 ## Brief
 
-I've tried to curate as much useful research information as possible in this repository which can either be a one-stop learning point, reference point or launch pad for more deep insightful research in the endeavours of whoever is reading from this repository.
+I've tried to curate as much useful research information as possible in this repository which can either be a one-stop learning point, reference point or launch pad for more deep insightful research in the endeavors of whoever is reading from this repository.
 
 ## Roadmap
 
@@ -34,6 +34,11 @@ I've tried to curate as much useful research information as possible in this rep
 * [Steve Krug’s Don’t Make Me Think](https://github.com/intellusug/designstudio/blob/main/resources/Don%E2%80%99t%20Make%20Me%20Think%20by%20Steve%20Krug.pdf)
 * [The Ten Timeless Principles of Good Design](https://github.com/intellusug/designstudio/blob/main/resources/10PrinciplesofGoodDesign%20By%20Dieter%20Rams.pdf)
 * [Book Review: A Philosophy of Software Design by John Ousterhout.](https://medium.com/@piusnmuhumuza/book-review-a-philosophy-of-software-design-by-john-ousterhout-dad8a3dbc6ea)
+* [Collaborate on research papers with GitHu](https://dev.to/azure/collaborate-on-research-papers-with-github-76e)
+* [Use Github for Scientific Writing](https://paulklemm.com/blog/2014-07-16-use-github-for-scientific-writing/#:~:text=GIT%20is%20a%20good%20tool,for%20storing%20LaTeX%20source%20there.)
+* [Using GitHub for academic research](https://medium.com/illumination/using-github-for-academic-research-bfb5c41b7360)
+* [Using GitHub for academic research](https://hackmd.io/@vivek-blog/github_article)
+
 
 ## Tags
 
