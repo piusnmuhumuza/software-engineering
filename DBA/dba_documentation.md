@@ -268,20 +268,28 @@ Consistency, Availability and partition Tolerance.
 
 Atomicity, Consistency, Isolation, Durability.
 
-## Projects
+## Database Administrator (DBA)
 
-* [Paakasa](https://github.com/piusnmuhumuza/paakasa) / [dumpFile](https://github.com/piusnmuhumuza/bootcamp/blob/master/Database%20Adminstration/db-backups/DumpPaakasa.sql)
+A Database Administrator is a person who is responsible for executing different set of activities which help in managing a database.
+He/She ; -
 
-## Glossary
+* creates and administers databases to make sure they operate efficiently and without error.
+* Make modifications to the database structure.
+* Maintain databases and update permissions.
+* Merge old databases into new ones as and when required.
+* Backing up and restoring data to prevent data loss.
 
-* **Sublanguages:** A sublanguage is a subset of a language. Sublanguages occur in natural language, computer programming language, and relational databases.
-* **IBM System R:** is a database system built as a research project at IBM's San Jose Research Laboratory beginning in 1974. [System R](https://en.wikipedia.org/wiki/IBM_System_R) was a seminal project: it was the first implementation of SQL, which has since become the standard relational data query language.
-* **Edgar F. Codd (19 August 1923 – 18 April 2003):** was an English computer scientist who, while working for IBM, invented the relational model for database management, the theoretical basis for relational databases and relational database management systems. He made other valuable contributions to computer science, but the relational model, a very influential general theory of data management, remains his most mentioned, analyzed and celebrated achievement.
-* **Raymond F. Boyce (1946–1974):** was an American computer scientist who was known for his research in relational databases. He is best known for his work co-developing the SQL database language and [Boyce-Codd normal form](https://en.wikipedia.org/wiki/Boyce%E2%80%93Codd_normal_form).
-* **Donald D. Chamberlin:** is an American computer scientist who is one of the principal designers of the original SQL language specification with Raymond Boyce. He also made significant contributions to the development of [XQuery](https://en.wikipedia.org/wiki/XQuery). Chamberlin was elected a member of the [National Academy of Engineering](https://www.nae.edu/) in 1997 for contributions to the SQL database query language.
-* **SQUARE (Specifying Queries in A Relational Environment):**, *but it was difficult to use due to subscript/superscript notation.-- SQUARE is a set-oriented data sublanguage for expressing queries to a database consisting of a collection of time-varying relations that mimics how people use relations or tables to obtain information.*
-* **XQuery (XML Query):** is a query and functional programming language that queries and transforms collections of structured and unstructured data, usually in the form of XML, text and with vendor-specific extensions for other data formats (JSON, binary, etc.).
+to mention but a few.
+Often times DBA can also specialize depending on the company, industry or just the nature of work.
 
+Types of DBA include but not limited to;-
+
+* **Administrative DBA** - Maintains databases, backups, security, patching, replications etc.
+* **Development DBA** - Builds SQL queries, procedures, functions. Same as programmer.
+* **Database Architect** - Builds database structures with clients and implements.
+* **Data warehouse DBA** - Responsible for merging data from multiple sources into one warehouse.
+
+and many more.
 
 ## Other Notable Database Languages
 
@@ -317,11 +325,21 @@ GraphQL is an open-source language that works with APIs, which are interfaces th
 
 LINQ, or Language Integrated Query, is a language that extracts and processes data from XML documents, relational databases and other third-party sources. With LINQ, you can access data through various sources without having to use a separate database language for each one. This ensures consistency among queries for objects, relational databases and XML, allowing you to filter, order and group operations.
 
+## GLOSSARY
+
+* **Sublanguages:** A sublanguage is a subset of a language. Sublanguages occur in natural language, computer programming language, and relational databases.
+* **IBM System R:** is a database system built as a research project at IBM's San Jose Research Laboratory beginning in 1974. [System R](https://en.wikipedia.org/wiki/IBM_System_R) was a seminal project: it was the first implementation of SQL, which has since become the standard relational data query language.
+* **Edgar F. Codd (19 August 1923 – 18 April 2003):** was an English computer scientist who, while working for IBM, invented the relational model for database management, the theoretical basis for relational databases and relational database management systems. He made other valuable contributions to computer science, but the relational model, a very influential general theory of data management, remains his most mentioned, analyzed and celebrated achievement.
+* **Raymond F. Boyce (1946–1974):** was an American computer scientist who was known for his research in relational databases. He is best known for his work co-developing the SQL database language and [Boyce-Codd normal form](https://en.wikipedia.org/wiki/Boyce%E2%80%93Codd_normal_form).
+* **Donald D. Chamberlin:** is an American computer scientist who is one of the principal designers of the original SQL language specification with Raymond Boyce. He also made significant contributions to the development of [XQuery](https://en.wikipedia.org/wiki/XQuery). Chamberlin was elected a member of the [National Academy of Engineering](https://www.nae.edu/) in 1997 for contributions to the SQL database query language.
+* **SQUARE (Specifying Queries in A Relational Environment):**, *but it was difficult to use due to subscript/superscript notation.-- SQUARE is a set-oriented data sublanguage for expressing queries to a database consisting of a collection of time-varying relations that mimics how people use relations or tables to obtain information.*
+* **XQuery (XML Query):** is a query and functional programming language that queries and transforms collections of structured and unstructured data, usually in the form of XML, text and with vendor-specific extensions for other data formats (JSON, binary, etc.).
+
 ## KEYWORDS
 
 ``DATABASES``, ``SQL``, ``STRUCTURED QUERY LANGUAGE``, ``SQUARE``, ``DATABASE ADMINISTRATION``, ``DATABASE ADMINISTRATOR``, ``RELATIONAL DATABASES``, ``QUERYING``, ``SQL QUERYING``, ``Normalization``, ``Database Character Sets``, ``SQL Server``, ``XQuery``, ``PostgreSQL``, ``MySQL``, ``RDBMS``, ``Indexes``, ``Transactions``
 
-## References & Additional Resources
+## REFERENCE & RESOURCES
 
 * [SQL Roadmap](https://roadmap.sh/sql)
 * [History of SQL](https://medium.com/@yidigeng95_64319/history-of-sql-bc92a4981d60)
@@ -347,3 +365,4 @@ LINQ, or Language Integrated Query, is a language that extracts and processes da
 * [Relational Databases Explained](https://architecturenotes.co/things-you-should-know-about-databases/)
 * [Database Sharding Explained](https://architecturenotes.co/database-sharding-explained/)
 * [What is a relational database?](https://www.ibm.com/topics/relational-databases)
+* [Paakasa](https://github.com/piusnmuhumuza/paakasa) / [dumpFile](https://github.com/piusnmuhumuza/bootcamp/blob/master/Database%20Adminstration/db-backups/DumpPaakasa.sql)
