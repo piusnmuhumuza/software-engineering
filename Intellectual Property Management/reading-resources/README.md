@@ -1,2 +1,0 @@
-# intellectualPropertyManagement
-Intellectual Property Management
