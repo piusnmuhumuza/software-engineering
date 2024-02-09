@@ -488,3 +488,8 @@ Reading & Reference Resources
 - [How Google Tests Software by James A. Whittaker,Jason Arbon, Jeff Carollo](https://www.goodreads.com/book/show/13105440-how-google-tests-software)
 - [The 10 Minute Test Plan By James Whittaker](https://testing.googleblog.com/2011/09/10-minute-test-plan.html)
 - [How Much Testing is Enough? By George Pirocanac](https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html)
+- [WHAT IS SOFTWARE QUALITY?](https://asq.org/quality-resources/software-quality)
+- [What are the most common software quality issues and how can you address them?](https://www.linkedin.com/advice/0/what-most-common-software-quality-issues-how)
+- [Understanding Software Quality: A Guide for Non-Technical Founders](https://www.linkedin.com/pulse/understanding-software-quality-guide-non-technical-founders-kvytech-geslc/?trk=article-ssr-frontend-pulse_more-articles_related-content-card)
+- [Introduction Of Software Quality Assurance](https://dev.to/sardarmudassaralikhan/introduction-of-software-quality-assurance-1954)
+- [What is Software Quality?](https://www.computer.org/resources/what-is-software-quality)
