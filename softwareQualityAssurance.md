@@ -485,4 +485,6 @@ Reading & Reference Resources
 - [Quality Assurance, Quality Control, and Testing — the Basics of Software Quality Management](https://www.altexsoft.com/whitepapers/quality-assurance-quality-control-and-testing-the-basics-of-software-quality-management/).
 - [A basic understanding of Software Quality Assurance.](https://piusmwilson.com/a-basic-understanding-of-software-quality-assurance)
 - [Software Quality Assurance: Beyond the Basics.](https://piusmwilson.com/software-quality-assurance-beyond-the-basics)
-- [How Google Tests Software]()
+- [How Google Tests Software by James A. Whittaker,Jason Arbon, Jeff Carollo](https://www.goodreads.com/book/show/13105440-how-google-tests-software)
+- [The 10 Minute Test Plan By James Whittaker](https://testing.googleblog.com/2011/09/10-minute-test-plan.html)
+- [How Much Testing is Enough? By George Pirocanac](https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html)
