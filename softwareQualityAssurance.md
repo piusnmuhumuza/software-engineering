@@ -492,4 +492,4 @@ Reading & Reference Resources
 - [What are the most common software quality issues and how can you address them?](https://www.linkedin.com/advice/0/what-most-common-software-quality-issues-how)
 - [Understanding Software Quality: A Guide for Non-Technical Founders](https://www.linkedin.com/pulse/understanding-software-quality-guide-non-technical-founders-kvytech-geslc/?trk=article-ssr-frontend-pulse_more-articles_related-content-card)
 - [Introduction Of Software Quality Assurance](https://dev.to/sardarmudassaralikhan/introduction-of-software-quality-assurance-1954)
-- [What is Software Quality?](https://www.computer.org/resources/what-is-software-quality)
+- [What is Software Quality?](https://asq.org/quality-resources/software-quality)
