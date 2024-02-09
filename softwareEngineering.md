@@ -132,6 +132,21 @@ This developer is also known as the **Developer Lead** or **Team Lead** and is o
 
 At this level, a Developer has somewhere 5 to 8 years+ of experience and able to handle complex problems, comfortably review other developers’ codes, solve their problems, be a trendsetter when working on projects, and most importantly mentor Junior & Mid-level Developers.
 
+## What is Software Configuration Management?
+
+In Software Engineering, Software Configuration Management(SCM) is a process to systematically manage, organize, and control the changes in the documents, codes, and other entities during the Software Development Life Cycle.
+
+SCM, part of cross-disciplinary field of configuration management is a discipline of applying administrative and technical direction to:
+
+- Support distributed development and parallel work.
+- Identify and document product characteristics and versions.
+- Control and track changes to software artifacts.
+- Maintain integrity and consistency across components.
+- Verify compliance with specifications.
+- Report and audit change details.
+
+SCM provides the process backbone for coordinating work between teams and delivering high quality software products primarily to increase productivity with minimal mistakes while also accurately determining who made which revision.
+
 ## Software Project Management
 
 The Business Of Project Management is about understanding the management of project information, resourcing, costing and budgeting to deliver on-time, on-budget and in-scope project. Project management of software products can be loosely referred to as Software Project management.

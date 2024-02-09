@@ -1,38 +1,27 @@
-# A Systematic guide to understanding of Software Quality Assurance.
+# The Art of Assuring and delivering Quality Software
 
-A Software Engineering approach to Ensure the Quality of Software Products and Why big Software companies have huge budgets for hiring SQA Engineers.
+## A Systematic guide to understanding how Software Quality Assurance contributes to the delivery of quality software
 
-## Background
+## Table Of Contents
+
+- [](#)
+- [](#)
+
+## Introduction
 
 Software engineering teams are the key to good software although its quality isn't always guaranteed right away.
 
 Apart from the expertise of the software engineering team, the quality of software can be assured through a set of dedicated quality management activities such as  **quality assurance** ,  **quality control** , and  **testing**  often done by SQA Teams e.g., testers & software quality Assurance Engineers among others. And this is where Software Quality Assurance comes in.
 
-## Introduction
+This Documentations software Quality and Software Quality Assurance within the realm of Software Engineering.
 
-Software Quality Assurance (SQA) is a broad term in **Software Engineering/Development** that encompasses a wide range of activities and processes designed to ensure that software products meet the desired quality standards and exceed customer expectations. At its core, Software Quality refers to how well a software product conforms to its requirements and meets the needs of its users which involves both the software product as well as the processes used to develop it.
+## Software Quality
 
-These activities can be performed at any stage of the software development lifecycle (SDLC), from requirements gathering to deployment and maintenance.
-
-Software Quality Assurance is all about; — Business value addition, customer satisfaction, reliability, information confidentiality, cost-effectiveness, usability, performance, security,flexibility, improvement and guarantee of service delivery on Software projects as per set requirements and Standards.
-
-SQA is an integral part of the software development lifecycle (SDLC) and is involved in all phases of the development process, from requirements gathering to deployment and maintenance.
-
-## Software Quality and Standards
-
-A Software Engineering or Development standard may be defined as any standard, protocol, or similar document that outlines the rules and processes for the creation of software products.
-
-A typical software development company will have such documents on hand, intended for usage only by that specific business or organization's Software Engineering or Development team.
-
-It's common practise for companies that have been in the software business for a long time to have standards in place as well, although they are or will mostly be applicable to just that company which is where international/industry standards come in.
-
-Numerous businesses will often get certifications to adhere to established standards, with ISO being the most prominent and well-known. There are various ISO certifications applicable to software companies.
-
-**Software Quality**
-
-Software quality is the process of conforming to explicitly stated functional and performance requirements, documented development standards, and implicit characteristics when developing software products.
+[Software quality](https://www.computer.org/resources/what-is-software-quality) is the process of conforming to explicitly stated functional and performance requirements, documented development standards, and implicit characteristics when developing software products.
 
 It measures how well the software is designed (quality of design), and how well the software conforms to that design (quality of conformance). It's often described as the 'fitness for purpose of a piece of software and its desirable attributes.
+
+At its core, Software Quality refers to how well a software product conforms to its requirements and meets the needs of its users which involves both the software product as well as the processes used to develop it.
 
 It's important to note that software requirements are the foundation/benchmark from which quality is measured and specified requirements and set industry standards define the development criteria that guide the manner in which software is developed/engineered.
 
@@ -46,41 +35,57 @@ Look at quality control as being a subset of quality assurance and software test
 
 Is simply the degree of conformance to explicit or implicit requirements and expectations where the explicit and implicit expectations correspond to the two basics levels of software quality; -
 
-- **Functional ** — the product's compliance with functional (explicit) requirements and design specifications. This aspect focuses on the practical use of software, from the point of view of the user: its features, performance, ease of use, and absence of defects.
-- **Non-Functional ** — system's inner characteristics and architecture, i.e., structural (implicit) requirements. This includes code maintainability, understandability, efficiency, and security.
+- **Functional** — the product's compliance with functional (explicit) requirements and design specifications. This aspect focuses on the practical use of software, from the point of view of the user: its features, performance, ease of use, and absence of defects.
+- **Non-Functional** — system's inner characteristics and architecture, i.e., structural (implicit) requirements. This includes code maintainability, understandability, efficiency, and security.
 
-**How is Quality Determined by Software Quality Assurance Teams?**
+## What are the most common software quality issues
+
+The common software quality issues that Software Quality Assurance can help with include;-
+
+### Functional defects
+
+These are errors or bugs that prevent the software from performing its intended functions or meeting its requirements thus causing unexpected behaviors, crashes, incorrect outputs, or failures. 
+
+### Non-functional defects
+
+These are issues that affect the quality attributes of the software, such as performance, reliability, security, usability, and maintainability causing system downtime, slow responses, data breaches, high maintenance costs, or user dissatisfaction.
+
+### Code smells
+
+These are indicators of poor design or implementation choices that can make the software hard to understand, modify, or reuse thus causing excessive complexity, code duplication, low cohesion, high coupling, or technical debt.
+
+### Configuration issues
+
+These are problems that arise from the mismatch or inconsistency between the software and its environment, such as hardware, operating system, network, or dependencies thus causing compatibility, interoperability, or deployment challenges.
+
+### User feedback issues
+
+These are problems that stem from the lack of or inadequate communication with the users or stakeholders of the software product thus causing miscommunication, mismatched expectations, unmet needs, or low satisfaction. 
+
+### Process issues
+
+These are problems that result from the inefficiency or ineffectiveness of the software development processes thus causing delays, cost overruns, scope creep, or quality degradation.
+
+## Software Configuration Management
+
+During the Software Development Life Cycle, **Software Configuration Management(SCM)** helps to systematically manage, organize, and control the changes in the documents, codes, and other entities by providing a process backbone for coordinating work between teams as well as applying administrative and technical direction to delivering high quality software.
+
+## How is Quality Determined by Software Quality Assurance Teams?**
 
 There are two main approaches when it comes to quality assurance: the quality attributes approach and the defect management approach.
 
-Defect management approach in Software quality assurance helps track defects which are assigned categories based on the rank of the severity of each defect.
+The **Quality Attributes Approach** in Software Quality assurance focuses on six main quality attributes as a measure of performance (measurable indicators) to determine the quality of a product. These are; -
 
-The quality attributes approach in Software Quality assurance focuses on six main quality attributes as a measure of performance (measurable indicators) to determine the quality of a product. These are; -
+- **Reliability** — which determines how the software performs under specific conditions to see how often it fails as well as figure out how quickly the system can reach its full operational level post-fail.
+- **Functionality** — QA teams test the software's functions to see if they're appropriate or if they have been implemented correctly. QAs will also try to test the software to see how it interacts with other system components. Assess its data security and if it complies with the required laws and mandatory guidelines.
+- **Efficiency** — should always be considered when designing software architecture which is why the QA team will try to determine if the development team followed good coding practices while developing the software product.
+- **Usability** — It's important that users understand the software product's functions as easily as possible. If it takes too much effort or isn't possible then it doesn't pass the QA.
+- **Portability** — simply ensures that every piece of the software product and the software as a whole has the ability to adapt to changes in its environment, it's easy to install, and system components within a specific environment are easy to replace.
+- **Maintainability** — assess how easy it is to identify defects, root out the main cause of failure within the software product, and go on to fix it. QAs also look at how difficult modifying code will be in the event of a fault and the stability of the system's performance during the application of these changes.
+- **Performance** – speed, response, scalability.
+- **Security** – protected from threats.
 
-- **Reliability ** — which determines how the software performs under specific conditions to see how often it fails as well as figure out how quickly the system can reach its full operational level post-fail.
-- **Functionality ** — QA teams test the software's functions to see if they're appropriate or if they have been implemented correctly. QAs will also try to test the software to see how it interacts with other system components. Assess its data security and if it complies with the required laws and mandatory guidelines.
-- **Efficiency ** — should always be considered when designing software architecture which is why the QA team will try to determine if the development team followed good coding practices while developing the software product.
-- **Usability ** — It's important that users understand the software product's functions as easily as possible. If it takes too much effort or isn't possible then it doesn't pass the QA.
-- **Portability ** — simply ensures that every piece of the software product and the software as a whole has the ability to adapt to changes in its environment, it's easy to install, and system components within a specific environment are easy to replace.
-- **Maintainability ** — assess how easy it is to identify defects, root out the main cause of failure within the software product, and go on to fix it. QAs also look at how difficult modifying code will be in the event of a fault and the stability of the system's performance during the application of these changes.
-
-**Compliance**
-
-Standard compliance frequently requires the drafting of documentation and following it **to the dot**.
-
-For software engineering, [ISO]([https://www.iso.org/home.html](https://www.iso.org/home.html)) advises starting with a quality manual which helps in maintaining and improving the quality of a software life cycle, as well as track Software Engineering team production and client satisfaction.
-
-The next stage would be to put this quality manual that explains the software development process into action often times, with a framework or methodology in place to guide the team.
-
-Creating a hierarchy to aid in the improvement of overall process performance is a good practise to facilitate continuous improvement. All _Software Quality_ processes should be designed, executed, measured, and improved, according to Industry standards e.g. [_ISO Standard](_[_https://www.iso.org/standards.html_](https://www.iso.org/standards.html)_)_ which is how **Software Quality Assurance** comes into the picture. [ISO]([https://www.iso.org/home.html](https://www.iso.org/home.html)) and [IEEE]([https://www.ieee.org/](https://www.ieee.org/)) are two of the most well-known international standards bodies whose standards enable software businesses globally effectively structure their operations by providing well-defined and effective guidelines and frameworks.
-
-An auditing process can also be in place to make sure standards, processes, procedures and set conditions are being followed as required. Engineering teams and even client project teams often carry out audits before, during and even after a Software Project Development Lifecyle.
-
-Auditing is a procedure in which an impartial agent or body examines the operations of the audited party (vendor project team, Software Engineering team, client project team) and issues a formal report on the results. As a requirement for thorough impartial and unbiased results, auditing must be carried out independently and in/or privately.
-
-To further improve Software Quality standards compliance, some software development projects include User Acceptance Tests where an acceptance criteria is followed to ensure software products to be handed off are to standards and follow set requirements before sign off.
-
-"The first standard to be published in the area of software engineering was a US military standard on software quality assurance in 1972."— **[Introduction to Software Engineering Standards,****Francois Coallier,****Prof. Motoei Azuma]()**
+The **Defect management approach** in Software Quality Assurance helps track defects which are assigned categories based on the rank of the severity of each defect.
 
 ## What's the difference between an error, a defect, and a failure?
 
@@ -94,7 +99,35 @@ The terminology around software anomalies can be confusing. It’s important to 
 
 An error leads to the insertion of a defect, which in turn can lead to observable software failures upon execution. Engineers aim to prevent errors and remove defects before they turn into failures.
 
-**Software**  **QA, QC, and Testing.**
+## Measuring software quality?
+
+Software quality measurement provides data to help assess current quality levels and drive improvement initiatives. Common measures include:
+
+- Error density – errors per size of work product (requirements, design, code). Helps find problem areas.
+- Defect density – defects per size of software. Used to gauge release readiness.
+- Failure rate – mean time between failures. Tracks system reliability.
+Reliability models – estimate of future failures based on defect data. Predicts field quality.
+- CoSQ – cost of software quality analysis. Justifies quality spending.
+- Escaped defects – defects missed during development. Assesses testing effectiveness.
+
+Measurements are used to monitor trends, compare benchmarks, predict failures, optimize testing, and prioritize improvements. Statistical analysis like Pareto charts helps interpret the data.
+
+
+## What is software quality management?
+
+Software quality management refers to the oversight, control, and coordination of policies, procedures, activities, and people to achieve quality objectives. Key elements include:
+
+- Quality planning – Defining quality objectives, requirements, targets, and planning of quality assurance activities.
+- Quality control – Techniques to measure quality characteristics, review work products, and find defects.
+- Quality assurance – Processes and audits to ensure compliance with procedures.
+Quality improvement – Defect analysis and process enhancements to improve quality.
+- Resources – Infrastructure, tools, training that enable quality processes.
+- Standards – Regulations, models, certifications that guide quality work.
+- Culture – Values, behaviors that encourage quality mindset.
+
+Quality management spans the entire software lifecycle and involves various roles like project managers, quality engineers, developers, testers, and customers. When done effectively, it provides confidence that software meets critical quality characteristics.
+
+## Software  Quality Assurance(QA), QC, and Testing
 
 Although these three terms are often used interchangeably, they refer to slightly different aspects of software quality management and use different approaches to delivering a software product of the best possible quality, both structurally and functionally.
 
@@ -110,21 +143,78 @@ This activity makes sure that the software product corresponds to the requiremen
 
 This activity aims at detecting and solving software errors/flaws(bugs) focusing on the source code and design of the software product usually done at the testing stage or along with the development process.
 
-**What is Software Quality Assurance**
+## Using Software Quality Control to find issues?
+
+Software quality control techniques systematically find issues in work products. Common techniques include:
+
+Inspections – Formal, disciplined review of requirements, design, code, etc.
+Testing – Executing software to surface failures.
+Static analysis – Analyzing code without executing it.
+Defect tracking – Recording defects and tracking rework.
+Root cause analysis – Finding systematic root causes of defects.
+The data from these techniques helps characterize types of defects and their sources. This enables process changes to prevent recurrence in the future. Quality control provides essential feedback for driving continual improvement.
+
+## Software Quality Standards and Compliance
+
+A Software Engineering or Development standard may be defined as any standard, protocol, or similar document that outlines the rules and processes for the creation of software products.
+
+It's common practise for companies that have been in the software business for a long time to have standards in place as well, although they are or will mostly be applicable to just that company which is where international/industry standards come in.
+
+A typical software development company will have such documents on hand, intended for usage only by that specific business or organization's Software Engineering or Development team.
+
+Numerous businesses will often get certifications to adhere to established standards, with ISO being the most prominent and well-known. There are various ISO certifications applicable to software companies. 
+
+Standard compliance frequently requires the drafting of documentation and following it **to the dot**.
+
+For software engineering, [ISO]([https://www.iso.org/home.html](https://www.iso.org/home.html)) advises starting with a quality manual which helps in maintaining and improving the quality of a software life cycle, as well as track Software Engineering team production and client satisfaction.
+
+The next stage would be to put this quality manual that explains the software development process into action often times, with a framework or methodology in place to guide the team.
+
+Creating a hierarchy to aid in the improvement of overall process performance is a good practise to facilitate continuous improvement. All _Software Quality_ processes should be designed, executed, measured, and improved, according to Industry standards e.g. [_ISO Standard](_[_https://www.iso.org/standards.html_](https://www.iso.org/standards.html)_)_ which is how **Software Quality Assurance** comes into the picture. [ISO]([https://www.iso.org/home.html](https://www.iso.org/home.html)) and [IEEE]([https://www.ieee.org/](https://www.ieee.org/)) are two of the most well-known international standards bodies whose standards enable software businesses globally effectively structure their operations by providing well-defined and effective guidelines and frameworks.
+
+An auditing process can also be in place to make sure standards, processes, procedures and set conditions are being followed as required. Engineering teams and even client project teams often carry out audits before, during and even after a Software Project Development Lifecyle.
+
+Auditing is a procedure in which an impartial agent or body examines the operations of the audited party (vendor project team, Software Engineering team, client project team) and issues a formal report on the results. As a requirement for thorough impartial and unbiased results, auditing must be carried out independently and in/or privately.
+
+To further improve Software Quality standards compliance, some software development projects include User Acceptance Tests where an acceptance criteria is followed to ensure software products to be handed off are to standards and follow set requirements before sign off.
+
+"The first standard to be published in the area of software engineering was a US military standard on software quality assurance in 1972."— **[Introduction to Software Engineering Standards,Francois Coallier,Prof. Motoei Azuma](https://github.com/piusnmuhumuza/software-engineering/blob/master/resources/Introduction%20to%20Software%20Engineering%20Standards_Francois%20Coallier_Prof.%20Motoei%20Azuma.pdf)**
+
+
+
+## What is Software Quality Assurance
 
 **Software Quality Assurance (SQA)** is a set of tools, practices, and processes applied to discover, validate, verify, monitor, and evaluate a piece of software to ensure its quality.This is achieved by incorporating [software development](https://piusmwilson.com/software-engineering-a-business-technology-enthusiast-beginners-guide) processes starting from defining requirements to coding until release/launch.
+
+Software quality assurance (SQA) refers to the set of activities that assess and improve processes and work products to provide confidence that software meets quality requirements and business objectives. Key aspects include:
+
+Evaluating processes and work products against clearly defined standards.
+Ensuring planned quality practices are fully implemented.
+Auditing and reporting on quality issues and risks.
+Working with an independent perspective free from specific project pressures.
+Coordinating quality assurance activities across the organization.
+Verifying that software meets quality objectives.
+SQA goes beyond simple testing to provide broad oversight across the entire software lifecycle. It puts practices and controls in place to build quality software.
+
+SQA is a broad term in **Software Engineering/Development** that encompasses a wide range of activities and processes designed to ensure that software products meet the desired quality standards and exceed customer expectations.
+
+These activities can be performed at any stage of the software development lifecycle (SDLC), from requirements gathering to deployment and maintenance.
+
+Software Quality Assurance is all about; — Business value addition, customer satisfaction, reliability, information confidentiality, cost-effectiveness, usability, performance, security,flexibility, improvement and guarantee of service delivery on Software projects as per set requirements and Standards.
+
+SQA is an integral part of the software development lifecycle (SDLC) and is involved in all phases of the development process, from requirements gathering to deployment and maintenance.
 
 While quality assurance is all about preventive activities and quality control focuses on corrective processes. **Software Quality Assurance** combines both preventative activities and corrective processes to ensure quality software delivery.
 
 [SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) stretches through all [software development](https://piusmwilson.com/software-engineering-a-business-technology-enthusiast-beginners-guide) phases depending on the team, industry, or practices being followed and should not be confused with software testing. -Testing is a big part of [**Software Quality Assurance**](https://piusmwilson.com/a-basic-understanding-of-software-quality-assurance), but it is not, by any means, the only part of it.
 
-SQA encompasses a wide range of activities and processesdesigned to ensure that software meets its intended quality standards and can be conducted on all kinds of software; - web, mobile, and desktop/standalone applications as well as large enterprise systems.
+SQA encompasses a wide range of activities and processes designed to ensure that software meets its intended quality standards and can be conducted on all kinds of software; - web, mobile, and desktop/standalone applications as well as large enterprise systems.
 
 SQA activities can be performed at any stage of the software development lifecycle (SDLC), from requirements planning to deployment and maintenance.
 
 In order to make sure the released software is safe and functions as expected, **the concept of software quality**  was introduced.
 
-**Why Software Quality Assurance**
+## Why Software Quality Assurance
 
 Software Quality Assurance (SQA) is a systematic process used to determine whether a product meets specifications.The purpose of Software Quality Assurance, or SQA, is to make sure your software meets the required quality standards, including functioning, performance, and security. Bad-quality software lowers the efficiency of the users and rises maintenance costs.
 
@@ -158,7 +248,7 @@ Even though everyone in a software development team is responsible for software 
 
 **Who is a Software Quality Assurance Engineer?**
 
-A **S**oftware Quality Assurance **** (SQA) **** Engineer** or [SQA Engineer](https://piusmwilson.medium.com/being-a-good-software-quality-assurance-engineer-9e229eba89d6) is a professional within a software engineering team who with the application of standard software quality assurance tools, practices and methods collaborates with developers, end users, and other involved stakeholders on finding and fixing bugs in a software product during development, before its launch and sometimes even after launch among other process.
+A **Software Quality Assurance(SQA)Engineer** or [SQA Engineer](https://piusmwilson.medium.com/being-a-good-software-quality-assurance-engineer-9e229eba89d6) is a professional within a software engineering team who with the application of standard software quality assurance tools, practices and methods collaborates with developers, end users, and other involved stakeholders on finding and fixing bugs in a software product during development, before its launch and sometimes even after launch among other process.
 
 SQA Engineers are needed across many industries and typically; -
 
@@ -458,7 +548,27 @@ A typical SQA process in [Software Engineering](https://piusmwilson.com/software
 5. **Retesting: ** — Re-testing fixed issues (Bugs & Defects) as well as carrying out regression testing.
 6. **Release Testing; -** alpha and beta tests are the best examples for this phase.
 
-**Conclusion**
+## What is software process improvement?
+
+Software process improvement (SPI) refers to enhancing the processes involved in software development like requirements, design, coding, testing, and project management. The goal is to make these processes more effective, more efficient, and more mature. SPI builds upon the principle that QA processes yield high quality software work products.
+
+Some common SPI approaches include:
+
+- Focus on early defect prevention over late defect detection.
+- Use maturity models like [CMMI](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration) to benchmark and guide improvements.
+Adopt standards like ISO 9001 for process consistency as well as ISO/IEC 25000 series of standards & maybe ISO/IEC 17025 Standards.
+- Embrace frameworks like Lean and Six Sigma.
+- Automate processes for efficiency and repeatability.
+- Measure processes quantitatively to guide enhancements.
+Continually refine processes with PDCA cycles.
+- Improve team collaboration and communication flows.
+- Upgrade tools and environments.
+- Provide training on processes and best practices.
+- Incorporate user feedback into processes.
+
+Effective SPI requires a long-term commitment, not just temporary initiatives. Software organizations must build quality processes that stand the test of time.
+
+## Conclusion
 
 Quality Assurance and testing can make or break a business. No matter the type of company, the business vertical, or its services or products, every organization in the software engineering business has to use some form of quality assurance and testing to ensure that they are offering safe, useful, and quality software products to their clients.
 
@@ -489,7 +599,7 @@ Reading & Reference Resources
 
 - [Software Development Standards: ISO compliance and Agile]([https://www.softkraft.co/software-development-standards/](https://www.softkraft.co/software-development-standards/))
 - [What Software Development Standards Should You Be Aware Of?]([https://www.orientsoftware.com/blog/software-development-standards/](https://www.orientsoftware.com/blog/software-development-standards/))
-
+- [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 - [Software Engineering: A Business Technology Enthusiast beginner's guide](https://piusmwilson.com/software-engineering-a-business-technology-enthusiast-beginners-guide).
 - [Software Quality Assurance: Beyond the Basics](https://piusmwilson.com/software-quality-assurance-beyond-the-basics).
 - [Book Review: How to Manage Projects by Paul J Fielding](https://medium.com/@piusnmuhumuza/book-review-how-to-manage-projects-by-paul-j-fielding-040305b8f7b6).
@@ -508,3 +618,5 @@ Reading & Reference Resources
 - [What Is ISO 25010?](https://www.perforce.com/blog/qac/what-is-iso-25010)
 - [Deliver High-Quality Software: Best Practices and Strategies](https://kvytechnology.com/blog/software/high-quality-software/)
 - [Understanding Functional Requirements in Software Development](https://kvytechnology.com/blog/software/functional-requirements/)
+- [What is CMMI? A model for optimizing development processes](https://www.cio.com/article/274530/process-improvement-capability-maturity-model-integration-cmmi-definition-and-solutions.html)
+- [Software Configuration Management in Software Engineering](https://www.guru99.com/software-configuration-management-tutorial.html)
