@@ -10,11 +10,11 @@ Apart from the expertise of the software engineering team, the quality of softwa
 
 ## Introduction
 
-Software Quality Assurance (SQA) is a broad term in **Software Engineering/Development** that encompasses a wide range of activities and processes designed to ensure that software products meet the desired quality standards and exceed customer expectations.
+Software Quality Assurance (SQA) is a broad term in **Software Engineering/Development** that encompasses a wide range of activities and processes designed to ensure that software products meet the desired quality standards and exceed customer expectations. At its core, Software Quality refers to how well a software product conforms to its requirements and meets the needs of its users which involves both the software product as well as the processes used to develop it.
 
 These activities can be performed at any stage of the software development lifecycle (SDLC), from requirements gathering to deployment and maintenance.
 
-Software Quality Assurance is all about; — Business value addition, customer satisfaction, reliability, information confidentiality, cost-effectiveness, flexibility, improvement and guarantee of service delivery on Software projects as set requirements and Standards.
+Software Quality Assurance is all about; — Business value addition, customer satisfaction, reliability, information confidentiality, cost-effectiveness, usability, performance, security,flexibility, improvement and guarantee of service delivery on Software projects as per set requirements and Standards.
 
 SQA is an integral part of the software development lifecycle (SDLC) and is involved in all phases of the development process, from requirements gathering to deployment and maintenance.
 
@@ -81,6 +81,18 @@ Auditing is a procedure in which an impartial agent or body examines the operati
 To further improve Software Quality standards compliance, some software development projects include User Acceptance Tests where an acceptance criteria is followed to ensure software products to be handed off are to standards and follow set requirements before sign off.
 
 "The first standard to be published in the area of software engineering was a US military standard on software quality assurance in 1972."— **[Introduction to Software Engineering Standards,****Francois Coallier,****Prof. Motoei Azuma]()**
+
+## What's the difference between an error, a defect, and a failure?
+
+The terminology around software anomalies can be confusing. It’s important to distinguish the subtle differences between errors, defects and failures.
+
+- **Error** – This is a human mistake made by a QA engineer, software quality assurance analyst, tester or other stakeholder. An example is misunderstanding a requirement and coding to the wrong specification.
+
+- **Defect** – A defect is a flaw or imperfection inserted into a software work product due to an error. This could be a bug in the code or issues with other artifacts like requirements. Defects get inserted when errors are made.
+
+- **Failure** – A failure represents the termination of the software’s ability to function as intended. Failures occur when the software executing encounters a defect. Failures are user-facing; the user experiences the software failing in some unintended way.
+
+An error leads to the insertion of a defect, which in turn can lead to observable software failures upon execution. Engineers aim to prevent errors and remove defects before they turn into failures.
 
 **Software**  **QA, QC, and Testing.**
 

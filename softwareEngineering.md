@@ -849,6 +849,7 @@ Interest rate is one of the most commonly used phrases in fixed-income investmen
 * [Authors: The Agile Manifesto](https://agilemanifesto.org/authors.html)
 * [Scrum Guides](https://scrumguides.org/index.html)
 * [The Agile Coach]( https://www.atlassian.com/agile)
+* [Understanding Functional Requirements in Software Development](https://kvytechnology.com/blog/software/functional-requirements/)
 
 ### Tags
 
