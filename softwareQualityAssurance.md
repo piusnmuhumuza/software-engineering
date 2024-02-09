@@ -322,7 +322,7 @@ SQA can be a complex process but is an important part of any software developmen
 
 Implementing effective SQA practices and activities throughout the SDLC, organizations can reduce the risk of delivering software that is unreliable, unusable, unmaintainable, or insecure as well as reduce the cost of software development, improve the quality of their software products, and increase customer satisfaction.
 
-**The**** different activities **** performed in Software Quality Assurance **** SQA**
+**The different activities performed in Software Quality Assurance SQA**
 
 There are many different SQA activities that can be performed, but some of the most common include:
 
@@ -485,3 +485,4 @@ Reading & Reference Resources
 - [Quality Assurance, Quality Control, and Testing — the Basics of Software Quality Management](https://www.altexsoft.com/whitepapers/quality-assurance-quality-control-and-testing-the-basics-of-software-quality-management/).
 - [A basic understanding of Software Quality Assurance.](https://piusmwilson.com/a-basic-understanding-of-software-quality-assurance)
 - [Software Quality Assurance: Beyond the Basics.](https://piusmwilson.com/software-quality-assurance-beyond-the-basics)
+- [How Google Tests Software]()
