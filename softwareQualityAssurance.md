@@ -493,3 +493,5 @@ Reading & Reference Resources
 - [Understanding Software Quality: A Guide for Non-Technical Founders](https://www.linkedin.com/pulse/understanding-software-quality-guide-non-technical-founders-kvytech-geslc/?trk=article-ssr-frontend-pulse_more-articles_related-content-card)
 - [Introduction Of Software Quality Assurance](https://dev.to/sardarmudassaralikhan/introduction-of-software-quality-assurance-1954)
 - [What is Software Quality?](https://asq.org/quality-resources/software-quality)
+- [What Is ISO 25010?](https://www.perforce.com/blog/qac/what-is-iso-25010)
+- [Deliver High-Quality Software: Best Practices and Strategies](https://kvytechnology.com/blog/software/high-quality-software/)
