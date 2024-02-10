@@ -180,37 +180,31 @@ To further improve Software Quality standards compliance, some software developm
 
 "The first standard to be published in the area of software engineering was a US military standard on software quality assurance in 1972."— **[Introduction to Software Engineering Standards,Francois Coallier,Prof. Motoei Azuma](https://github.com/piusnmuhumuza/software-engineering/blob/master/resources/Introduction%20to%20Software%20Engineering%20Standards_Francois%20Coallier_Prof.%20Motoei%20Azuma.pdf)**
 
-
+While quality assurance is all about preventive activities and quality control focuses on corrective processes. **Software Quality Assurance** combines both preventative activities and corrective processes to ensure quality software delivery.
 
 ## What is Software Quality Assurance
 
 **Software Quality Assurance (SQA)** is a set of tools, practices, and processes applied to discover, validate, verify, monitor, and evaluate a piece of software to ensure its quality.This is achieved by incorporating [software development](https://piusmwilson.com/software-engineering-a-business-technology-enthusiast-beginners-guide) processes starting from defining requirements to coding until release/launch.
 
-Software quality assurance (SQA) refers to the set of activities that assess and improve processes and work products to provide confidence that software meets quality requirements and business objectives. Key aspects include:
+Software quality assurance (SQA) is a broad term in **Software Engineering/Development** that encompasses a wide range of activities and processes designed to assess and improve processes as well as ensuring that software products meet the desired quality standards, requirements, business objectives and exceed customer expectations.
 
-Evaluating processes and work products against clearly defined standards.
-Ensuring planned quality practices are fully implemented.
-Auditing and reporting on quality issues and risks.
-Working with an independent perspective free from specific project pressures.
-Coordinating quality assurance activities across the organization.
-Verifying that software meets quality objectives.
-SQA goes beyond simple testing to provide broad oversight across the entire software lifecycle. It puts practices and controls in place to build quality software.
+Key aspects include:
 
-SQA is a broad term in **Software Engineering/Development** that encompasses a wide range of activities and processes designed to ensure that software products meet the desired quality standards and exceed customer expectations.
+- Evaluating processes and work products against clearly defined standards.
+- Ensuring planned quality practices are fully implemented.
+- Auditing and reporting on quality issues and risks.
+- Working with an independent perspective free from specific project pressures.
+- Coordinating quality assurance activities across the organization.
+- Verifying that software meets quality objectives.
+- SQA goes beyond simple testing to provide broad oversight across the entire software lifecycle. It puts practices and controls in place to build quality software.
 
-These activities can be performed at any stage of the software development lifecycle (SDLC), from requirements gathering to deployment and maintenance.
+As an Integral part of the the software development lifecycle (SDLC), Software Quality Assurance(SQL)'s primary goal is to establish and maintain high-quality software throughout the software development life cycle (SDLC) and is in fact involved in all phases of the development process, from requirements gathering to deployment and maintenance.
 
-Software Quality Assurance is all about; — Business value addition, customer satisfaction, reliability, information confidentiality, cost-effectiveness, usability, performance, security,flexibility, improvement and guarantee of service delivery on Software projects as per set requirements and Standards.
+It involves a combination of techniques, methodologies, and tools to assess and improve the quality of software products, processes, and resources. SQA is typically implemented by a dedicated team or department within an organization, responsible for overseeing the quality of software projects.
 
-SQA is an integral part of the software development lifecycle (SDLC) and is involved in all phases of the development process, from requirements gathering to deployment and maintenance.
-
-While quality assurance is all about preventive activities and quality control focuses on corrective processes. **Software Quality Assurance** combines both preventative activities and corrective processes to ensure quality software delivery.
+By and large, SQA is all about; — Business value addition, customer satisfaction, reliability, information confidentiality, cost-effectiveness, usability, performance, security,flexibility, improvement and guarantee of service delivery on Software projects as per set requirements and Standards.
 
 [SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) stretches through all [software development](https://piusmwilson.com/software-engineering-a-business-technology-enthusiast-beginners-guide) phases depending on the team, industry, or practices being followed and should not be confused with software testing. -Testing is a big part of [**Software Quality Assurance**](https://piusmwilson.com/a-basic-understanding-of-software-quality-assurance), but it is not, by any means, the only part of it.
-
-SQA encompasses a wide range of activities and processes designed to ensure that software meets its intended quality standards and can be conducted on all kinds of software; - web, mobile, and desktop/standalone applications as well as large enterprise systems.
-
-SQA activities can be performed at any stage of the software development lifecycle (SDLC), from requirements planning to deployment and maintenance.
 
 In order to make sure the released software is safe and functions as expected, **the concept of software quality**  was introduced.
 
