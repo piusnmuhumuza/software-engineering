@@ -59,24 +59,7 @@ These are problems that stem from the lack of or inadequate communication with t
 
 These are problems that result from the inefficiency or ineffectiveness of the software development processes thus causing delays, cost overruns, scope creep, or quality degradation.
 
-**What are the possible software failures that necessitate SQA?**
 
-Although software failures often result from software programming errors, they do not always result from the incompetency or mistakes of the Software Engineer/Developer.
-
-**Sometimes**  **software failures may be as trivial as;-**
-
-- miscommunication within the project team,
-- module integration failures,
-- physical equipment failure,
-- downtimes,
-- poor documentation,
-- sudden updates on APIs or third-party software being used for the project,
-- change in software engineering team availability or skill-set,
-- or changes in the final client's requirements.
-
-Also hiring a team of professional software developers does not guarantee high quality of the software product. But thorough Software Quality Assurance and software testing of the software product among other things can assure its quality and adherence to standards.
-
-It's also important to note that there are many definitions of software failures — errors, bugs, inconsistencies, incidents or defects, etc. Therefore, investing in good, consistent Software Quality Assurance is key.
 
 ## How is Quality Determined by SQA Teams?**
 
@@ -234,12 +217,31 @@ SQA is an important part of the software development process because it helps to
 
 The goals of SQA are to:
 
-- Identify and prevent software defectsfrom being introduced into software.
+- Identify and prevent software defects from being introduced into software.
 - To identify and fix defects as early as possible in the development process.
 - To ensure that software meets its functional and non-functional requirements
 - Improve the overall quality and reliability of software products.
 - Reduce the cost of software development.
 - Increase customer satisfaction.
+
+## What are the possible software failures that necessitate SQA?
+
+Although software failures often result from software programming errors, they do not always result from the incompetency or mistakes of the Software Engineer/Developer.
+
+**Sometimes**  **software failures may be as trivial as;-**
+
+- miscommunication within the project team,
+- module integration failures,
+- physical equipment failure,
+- downtimes,
+- poor documentation,
+- sudden updates on APIs or third-party software being used for the project,
+- change in software engineering team availability or skill-set,
+- or changes in the final client's requirements.
+
+Also hiring a team of professional software developers does not guarantee high quality of the software product. But thorough Software Quality Assurance and software testing of the software product among other things can assure its quality and adherence to standards.
+
+It's also important to note that there are many definitions of software failures — errors, bugs, inconsistencies, incidents or defects, etc. Therefore, investing in good, consistent Software Quality Assurance is key.
 
 **Who Is Responsible for Software Quality Assurance?**
 
@@ -269,32 +271,7 @@ Among many other things.
 
 The role of a **software Quality Assurance(SQA)Engineer**  can differ based on the individual, the team, and the company they are working for as well as what needs to get done. Therefore, it helps to have cross-functional skills like technical aptitude, business knowledge, as well as a good understanding of DevOps principles and processes.
 
-## Responsibilities of SQAs include:
-
-- Design, develop, and execute software test plans, scripts, and testing programs: SQAs are responsible for creating and carrying out tests to identify and prevent software defects.
-- Participate in product design reviews: SQAs provide input on functional requirements, product designs, schedules, and potential problems.
-- Conduct software compatibility tests: SQAs test software for compatibility with different programs, hardware, operating systems, and network environments.
-- Plan test schedules or strategies: SQAs plan test schedules and strategies in accordance with project scope or delivery dates.
-- Test system modifications: SQAs test system modifications to prepare for implementation.
-- Install, maintain, or configure software production, training & UAT environments: SQAs install, maintain, and configure software environments for testing.
-- Evaluate or recommend software for testing: SQAs evaluate software for testing and recommend which tests should be run.
-- Bug tracking: SQAs track software defects and report them to developers.
-- Conduct historical analyses of test results: SQAs analyze test results to identify trends and patterns.
-- Update automated test scripts: SQAs update automated test scripts to ensure testing accuracy.
-- Design or develop automated testing tools: SQAs design or develop automated testing tools to improve the efficiency of testing.
-- Coordinate user or third-party testing: SQAs coordinate user or third-party testing activities.
-- Review software documentation: SQAs review software documentation to ensure technical accuracy, compliance, and completeness.
-- Provide feedback and recommendations to developers: SQAs provide feedback and recommendations to developers on software usability and functionality.
-- Investigate customer problems: SQAs investigate customer problems and recommend possible solutions.
-- Monitor bug resolution efforts: SQAs monitor bug resolution efforts and track successes.
-- Perform initial debugging procedures: SQAs perform initial debugging procedures to identify the source of software defects.
-- Monitor program performance: SQAs monitor program performance and identify program deviance from standards.
-- Develop or specify standards, methods, or procedures for efficiency and problem-free operations: SQAs develop or specify standards, methods, or procedures for efficiency and problem-free operations.
-- Determine product quality or release readiness: SQAs determine product quality or release readiness.
-- Suggest modifications to ensure compliance: SQAs suggest modifications to ensure software compliance with standards.
-- Analyze and document test procedures: SQAs analyze and document test procedures to ensure replicability and compliance with standards.
-
-## Skills & Qualities of Good SQA Engineers
+## Key Skills & Qualities of Good SQA Engineers
 
 ### Attention to detail & Near Vision
 
@@ -336,16 +313,52 @@ It is helpful for [SQA](https://piusmwilson.com/software-quality-assurance-beyon
 
 A good [SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) engineer should understand the full life cycle of [software products](https://piusmwilson.com/on-being-a-great-product-manager) to effectively plan and test them.
 
-## Some SQA Engineer's best practices
 
-- Set testing goals and requirements.
-- Establish a clear workflow.
-- Always check industry standards compliance.
-- Combine automated and manual testing.
-- Implement risk-based testing.
-- Perform frequent regression testing. (Regression cycle)
-- Set up the right environments; -Talk to end-users and simulate their environment, Mimic the developer environment this was [SQAs](https://piusmwilson.com/on-being-a-good-software-quality-assurance-engineer) and [Developers](https://piusmwilson.com/the-struggles-of-a-junior-software-developer) use the same environment for running tests. (Feedback and user acceptance are very critical).
+## The different activities performed in Software Quality Assurance SQA
 
+There are many different SQA activities that can be performed, but some of the most common include:
+
+- Requirements analysis: This involves understanding the needs of the users and stakeholders of the software.
+- Requirements review: This involves reviewing the software requirements to ensure that they are clear, complete, and consistent.
+- Code review: This involves reviewing the software code to identify and fix defects.
+- Testing: This involves executing the software to find and report defects.
+- Defect tracking: This involves tracking defects from the time they are identified to the time they are fixed.
+- Risk management: This involves identifying and assessing potential risks to the software project and developing mitigation plans.
+- Change management: This involves managing changes to the software throughout the SDLC.
+- Requirements verification: This involves verifying that the software requirements are complete, correct, and unambiguous.
+- Test planning and design: This involves developing a plan for testing the software and designing test cases.
+- Test planning: This involves determining the scope and objectives of software testing.
+- Test design: This involves creating test cases that will exercise the software and identify defects.
+- Test execution: This involves running the test cases and reporting any defects that are found.
+- Test execution: This involves executing the test cases and recording the results.
+- Defect tracking: This involves tracking and managing software defects.
+- Defect tracking: This involves recording and managing defects that are found during testing.
+- Risk management: This involves identifying and mitigating risks that could impact the quality of the software.
+- Risk management: This involves identifying and mitigating software risks.
+
+There are many different tools and techniques used in SQA fall in categories of:
+
+- Static analysis tools: These tools analyze the code for potential defects without executing it.
+- Dynamic analysis tools: These tools analyze the code while it is being executed.
+- Testing tools: These tools help to automate the testing process.
+- Defect tracking tools: These tools help to track and manage software defects.
+
+**How to Implement SQA**
+
+There are many different ways to implement SQA, but there are some general principles that can be followed. These principles include:
+
+- Start early: SQA activities should be performed throughout the SDLC, from requirements gathering to deployment and maintenance.
+- Involve all stakeholders: SQA should involve all stakeholders in the software development process, including developers, testers, managers, and customers.
+- Use tools and automation: There are many SQA tools and automation software available that can help to streamline the SQA process.
+- Measure and improve: It is important to measure the effectiveness of SQA activities and to make improvements as needed.
+
+**Here are some of the challenges of SQA:**
+
+- Cost: SQA can be a costly activity, especially if it is not implemented effectively.
+- Time: SQA can take a lot of time, especially if there are a lot of defects in the software.
+- Resource constraints: Organizations may not have the resources to implement effective SQA practices.
+
+Despite the challenges, SQA is an important part of any software development project. By implementing effective SQA practices, organizations can reap a number of benefits, including reduced costs, improved quality, and increased customer satisfaction.
 
 ## Is Software Quality Assurance and Software Testing the same?
 
@@ -401,67 +414,8 @@ There is no one-strategy-fits-all in software testing rather testing approach de
 
 It is a common belief in the software engineering space that a low defect rate implies the software product is okay and the software project is a success which is an absence-of-errors delusion. Zero defects do not mean the software solves end-user problems successfully. In fact, even bug-free software can fail to address the business needs of a client if wrong inputs were incorporated into the software.
 
-**The**  **Benefits of**  **implementing Software Quality Assurance** **(****SQA****).**
 
-SQA can be a complex process but is an important part of any software development project and essential for ensuring that software products meet the needs of their users. Some of the benefits of Implementing SQA include;-
-
-- Increased customer satisfaction: SQA can help to increase customer satisfaction by ensuring that software products delivered to the customer meets its functional and non-functional requirements not to mention high-quality, reliable, usable, and secure.
-- Software Quality Assurance (SQA)can help improve the overall quality and reliability of software products by identifying and fixing defects as early as possible in the development processensuring they meet the desired quality standardsleading to a better reputation for the company.
-- Because of SQA, developed high-quality software can help increase the market share of a company/business or a freelance software developer's business portfolio.
-- SQA can help to reduce the cost of software developmentby preventing defects from being introduced into software or identifying and fixing them early in the development process.
-- SQA can help to reduce the risk of project failure by identifying and mitigating potential risks early in the development process.
-- Reduced software defects: SQA helps to identify and prevent software defects, which can lead to significant cost savings such as reduced maintenance and customer support costs in the long run.
-- Software Quality Assurance helps Improve the process of creating software thus significantly reducing the time to market thus allowing businesses to stay a step ahead of competitors.
-
-Implementing effective SQA practices and activities throughout the SDLC, organizations can reduce the risk of delivering software that is unreliable, unusable, unmaintainable, or insecure as well as reduce the cost of software development, improve the quality of their software products, and increase customer satisfaction.
-
-**The different activities performed in Software Quality Assurance SQA**
-
-There are many different SQA activities that can be performed, but some of the most common include:
-
-- Requirements analysis: This involves understanding the needs of the users and stakeholders of the software.
-- Requirements review: This involves reviewing the software requirements to ensure that they are clear, complete, and consistent.
-- Code review: This involves reviewing the software code to identify and fix defects.
-- Testing: This involves executing the software to find and report defects.
-- Defect tracking: This involves tracking defects from the time they are identified to the time they are fixed.
-- Risk management: This involves identifying and assessing potential risks to the software project and developing mitigation plans.
-- Change management: This involves managing changes to the software throughout the SDLC.
-- Requirements verification: This involves verifying that the software requirements are complete, correct, and unambiguous.
-- Test planning and design: This involves developing a plan for testing the software and designing test cases.
-- Test planning: This involves determining the scope and objectives of software testing.
-- Test design: This involves creating test cases that will exercise the software and identify defects.
-- Test execution: This involves running the test cases and reporting any defects that are found.
-- Test execution: This involves executing the test cases and recording the results.
-- Defect tracking: This involves tracking and managing software defects.
-- Defect tracking: This involves recording and managing defects that are found during testing.
-- Risk management: This involves identifying and mitigating risks that could impact the quality of the software.
-- Risk management: This involves identifying and mitigating software risks.
-
-There are many different tools and techniques used in SQA fall in categories of:
-
-- Static analysis tools: These tools analyze the code for potential defects without executing it.
-- Dynamic analysis tools: These tools analyze the code while it is being executed.
-- Testing tools: These tools help to automate the testing process.
-- Defect tracking tools: These tools help to track and manage software defects.
-
-**How to Implement SQA**
-
-There are many different ways to implement SQA, but there are some general principles that can be followed. These principles include:
-
-- Start early: SQA activities should be performed throughout the SDLC, from requirements gathering to deployment and maintenance.
-- Involve all stakeholders: SQA should involve all stakeholders in the software development process, including developers, testers, managers, and customers.
-- Use tools and automation: There are many SQA tools and automation software available that can help to streamline the SQA process.
-- Measure and improve: It is important to measure the effectiveness of SQA activities and to make improvements as needed.
-
-**Here are some of the challenges of SQA:**
-
-- Cost: SQA can be a costly activity, especially if it is not implemented effectively.
-- Time: SQA can take a lot of time, especially if there are a lot of defects in the software.
-- Resource constraints: Organizations may not have the resources to implement effective SQA practices.
-
-Despite the challenges, SQA is an important part of any software development project. By implementing effective SQA practices, organizations can reap a number of benefits, including reduced costs, improved quality, and increased customer satisfaction.
-
-**Software Quality Assurance best practices, processes, and techniques for successful software delivery.**
+## Software Quality Assurance best practices, processes, and techniques for successful software delivery.
 
 **Software Quality Assurance Activities**
 
@@ -558,6 +512,20 @@ Continually refine processes with PDCA cycles.
 - Incorporate user feedback into processes.
 
 Effective SPI requires a long-term commitment, not just temporary initiatives. Software organizations must build quality processes that stand the test of time.
+
+**The**  **Benefits of**  **implementing Software Quality Assurance** **(****SQA****).**
+
+SQA can be a complex process but is an important part of any software development project and essential for ensuring that software products meet the needs of their users. Some of the benefits of Implementing SQA include;-
+
+- Increased customer satisfaction: SQA can help to increase customer satisfaction by ensuring that software products delivered to the customer meets its functional and non-functional requirements not to mention high-quality, reliable, usable, and secure.
+- Software Quality Assurance (SQA)can help improve the overall quality and reliability of software products by identifying and fixing defects as early as possible in the development processensuring they meet the desired quality standardsleading to a better reputation for the company.
+- Because of SQA, developed high-quality software can help increase the market share of a company/business or a freelance software developer's business portfolio.
+- SQA can help to reduce the cost of software developmentby preventing defects from being introduced into software or identifying and fixing them early in the development process.
+- SQA can help to reduce the risk of project failure by identifying and mitigating potential risks early in the development process.
+- Reduced software defects: SQA helps to identify and prevent software defects, which can lead to significant cost savings such as reduced maintenance and customer support costs in the long run.
+- Software Quality Assurance helps Improve the process of creating software thus significantly reducing the time to market thus allowing businesses to stay a step ahead of competitors.
+
+Implementing effective SQA practices and activities throughout the SDLC, organizations can reduce the risk of delivering software that is unreliable, unusable, unmaintainable, or insecure as well as reduce the cost of software development, improve the quality of their software products, and increase customer satisfaction.
 
 ## Conclusion
 
