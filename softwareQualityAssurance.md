@@ -63,7 +63,7 @@ These are problems that result from the inefficiency or ineffectiveness of the s
 
 During the Software Development Life Cycle, **Software Configuration Management(SCM)** helps to systematically manage, organize, and control the changes in the documents, codes, and other entities by providing a process backbone for coordinating work between teams as well as applying administrative and technical direction to delivering high quality software.
 
-## How is Quality Determined by Software Quality Assurance Teams?**
+## How is Quality Determined by SQA Teams?**
 
 There are two main approaches when it comes to quality assurance: the quality attributes approach and the defect management approach.
 
@@ -242,7 +242,7 @@ A **Software Quality Assurance(SQA)Engineer** or [SQA Engineer](https://piusmwil
 
 SQA Engineers are needed across many industries and typically; -
 
-- Identifies business requirements.
+- Identify business requirements.
 - Determine product & performance specs.
 - Understand user needs through functional testing.
 - Develop real-world testing scenarios.
@@ -250,9 +250,9 @@ SQA Engineers are needed across many industries and typically; -
 
 Among many other things.
 
-The role of a  **software Quality Assurance** **(SQA)**  **Engineer**  can differ based on the individual, the team, and the company they are working for as well as what needs to get done. Therefore, it helps to have cross-functional skills like technical aptitude, business knowledge, as well as a good understanding of DevOps principles and processes.
+The role of a **software Quality Assurance(SQA)Engineer**  can differ based on the individual, the team, and the company they are working for as well as what needs to get done. Therefore, it helps to have cross-functional skills like technical aptitude, business knowledge, as well as a good understanding of DevOps principles and processes.
 
-**R**** esponsibilities of a Software Quality Assurance Engineer (SQA **** include****):**
+## Responsibilities of SQAs include:
 
 - Design, develop, and execute software test plans, scripts, and testing programs: SQAs are responsible for creating and carrying out tests to identify and prevent software defects.
 - Participate in product design reviews: SQAs provide input on functional requirements, product designs, schedules, and potential problems.
@@ -277,49 +277,49 @@ The role of a  **software Quality Assurance** **(SQA)**  **Engineer**  can diffe
 - Suggest modifications to ensure compliance: SQAs suggest modifications to ensure software compliance with standards.
 - Analyze and document test procedures: SQAs analyze and document test procedures to ensure replicability and compliance with standards.
 
-**Skills & Qualities of Good SQA Engineers**
+## Skills & Qualities of Good SQA Engineers
 
-**Attention to detail & Near Vision**
+### Attention to detail & Near Vision
 
-The role of an [SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) Engineer involves being thorough and detail-oriented (the ability to see details at close range) in order to spot issues or discrepancies in quality standards set for the product.
+The role of an SQA Engineer involves being thorough and detail-oriented (the ability to see details at close range) in order to spot issues or discrepancies in quality standards set for the product.
 
-**Information Ordering**
+### Information Ordering
 
-[SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) Engineers should be able to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, or mathematical operations).
+SQA Engineers should be able to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, or mathematical operations).
 
-**Inductive & Deductive Reasoning**
+### Inductive & Deductive Reasoning
 
 [SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) Engineers should be able to combine pieces of information to form general rules or conclusions (including finding a relationship among seemingly unrelated events) as well as apply general rules to specific problems to produce answers that make sense.
 
-**Problem Sensitivity & solving skills**
+### Problem Sensitivity & solving skills
 
 Throughout the life cycle of a product, issues will arise. [SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) Engineers should have the ability to tell/recognize when something is wrong or is likely to go wrong accompanied by strong problem-solving skills as well as developing plans to solve those issues.
 
-**Written Comprehension & Expression**
+### Written Comprehension & Expression
 
 [SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) Engineers should have the ability to read and understand information or ideas presented in writing as well as communicate information and ideas in writing for team members to understand.
 
-**Good listening & strong communication skills**** (Oral Comprehension & Expression)**
+### Good listening & strong communication skills(Oral Comprehension & Expression)
 
 Good [SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) Engineers should be able to listen and understand information and ideas presented through spoken words and also be effective speakers since they are required to communicate with all parties involved(stakeholders, management, and [developers](https://piusmwilson.com/the-struggles-of-a-junior-software-developer)) throughout the [development process](https://piusmwilson.com/software-engineering-a-business-technology-enthusiast-beginners-guide) of a product.
 
-**Good time management**
+### Good time management
 
 Since [SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) Engineers have to balance multiple tasks throughout the day, it is important to have strong time management skills to ensure [productivity](https://piusmwilson.com/to-being-hyper-productive) and meet key deadlines and milestones.
 
-**The ability to write test plans**
+### The ability to write test plans
 
 A test plan is a document detailing the objectives and testing processes that will be applied to the software product. [SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) Engineers work with other [developers](https://piusmwilson.com/the-struggles-of-a-junior-software-developer) and stakeholders to develop this testing strategy.
 
-**An understanding of test automation tools and manual testing practices**
+### An understanding of test automation tools and manual testing practices
 
 It is helpful for [SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) Engineers to be familiar with different automated testing tools as well as how to effectively test products to identify bugs.
 
-**Strong understanding of the Software Development Life Cycle**
+### Strong understanding of the Software Development Life Cycle
 
 A good [SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) engineer should understand the full life cycle of [software products](https://piusmwilson.com/on-being-a-great-product-manager) to effectively plan and test them.
 
-# Some SQA Engineer's best practices
+## Some SQA Engineer's best practices
 
 - Set testing goals and requirements.
 - Establish a clear workflow.
@@ -348,7 +348,7 @@ Also hiring a team of professional software developers does not guarantee high q
 
 It's also important to note that there are many definitions of software failures — errors, bugs, inconsistencies, incidents or defects, etc. Therefore, investing in good, consistent Software Quality Assurance is key.
 
-**Is Software Quality Assurance and Software Testing the same?**
+## Is Software Quality Assurance and Software Testing the same?
 
 While Software Quality Assurance and Software Testing are used interchangeably in the Software Engineering/Development space, and both aim to provide software that meets the necessary requirements and quality standards, they aren't exactly the same.
 
@@ -358,7 +358,7 @@ Software testing concentrates on finding the bugs, defects, and errors within th
 
 **Note:**  Software testing is a part of the general quality control process within Software Quality Assurance, but its focus is exclusively on product-oriented tasks rather than the big picture.
 
-**What is Software Testing**
+## What is Software Testing
 
 Software testing is the process of evaluating and verifying that a software product being developed does what it is supposed to do. It checks whether the actual software product matches expected requirements and ensures that the software product is defect/bug-free prior to release/launch.
 
@@ -583,32 +583,27 @@ SQA is an important part of the software development process and plays a vital r
 - International Organization for Standardization (ISO). The [ISO]([https://www.iso.org/home.html](https://www.iso.org/home.html)) is a global standard-setting organization that spans multiple sectors.
 - Institute of Electrical and Electronics Engineers (IEEE). The [IEEE]([https://www.ieee.org/](https://www.ieee.org/)) is a 501 professional association for electronics engineering, electrical engineering, and other related disciplines.
 
-**Tags**
+## Reading & Reference Resources
 
-Software, Software Engineering, Software Development, Software Product Development, Software Quality, Software Quality Assurance, ISO, ISO Compliance, Agile, Processes, Process Optimization, Project Management, Software Product, Software Process, ISO Standards, Standardization.
-
-Reading & Reference Resources
-
-- [Software Development Standards: ISO compliance and Agile]([https://www.softkraft.co/software-development-standards/](https://www.softkraft.co/software-development-standards/))
-- [What Software Development Standards Should You Be Aware Of?]([https://www.orientsoftware.com/blog/software-development-standards/](https://www.orientsoftware.com/blog/software-development-standards/))
-- [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
-- [Software Engineering: A Business Technology Enthusiast beginner's guide](https://piusmwilson.com/software-engineering-a-business-technology-enthusiast-beginners-guide).
-- [Software Quality Assurance: Beyond the Basics](https://piusmwilson.com/software-quality-assurance-beyond-the-basics).
-- [Book Review: How to Manage Projects by Paul J Fielding](https://medium.com/@piusnmuhumuza/book-review-how-to-manage-projects-by-paul-j-fielding-040305b8f7b6).
-- [On being a good Software Quality Assurance Engineer.](https://piusmwilson.com/on-being-a-good-software-quality-assurance-engineer)
 - [Quality Assurance, Quality Control, and Testing — the Basics of Software Quality Management](https://www.altexsoft.com/whitepapers/quality-assurance-quality-control-and-testing-the-basics-of-software-quality-management/).
-- [A basic understanding of Software Quality Assurance.](https://piusmwilson.com/a-basic-understanding-of-software-quality-assurance)
-- [Software Quality Assurance: Beyond the Basics.](https://piusmwilson.com/software-quality-assurance-beyond-the-basics)
 - [How Google Tests Software by James A. Whittaker,Jason Arbon, Jeff Carollo](https://www.goodreads.com/book/show/13105440-how-google-tests-software)
+- [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 - [The 10 Minute Test Plan By James Whittaker](https://testing.googleblog.com/2011/09/10-minute-test-plan.html)
 - [How Much Testing is Enough? By George Pirocanac](https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html)
 - [WHAT IS SOFTWARE QUALITY?](https://asq.org/quality-resources/software-quality)
 - [What are the most common software quality issues and how can you address them?](https://www.linkedin.com/advice/0/what-most-common-software-quality-issues-how)
 - [Understanding Software Quality: A Guide for Non-Technical Founders](https://kvytechnology.com/blog/software/software-quality-non-technical-ceo/)
+- - [Deliver High-Quality Software: Best Practices and Strategies](https://kvytechnology.com/blog/software/high-quality-software/)
 - [Introduction Of Software Quality Assurance](https://dev.to/sardarmudassaralikhan/introduction-of-software-quality-assurance-1954)
 - [What is Software Quality?](https://asq.org/quality-resources/software-quality)
+- [Software Configuration Management in Software Engineering](https://www.guru99.com/software-configuration-management-tutorial.html)
+- [Software Development Standards: ISO compliance and Agile]([https://www.softkraft.co/software-development-standards/](https://www.softkraft.co/software-development-standards/))
+- [What Software Development Standards Should You Be Aware Of?]([https://www.orientsoftware.com/blog/software-development-standards/](https://www.orientsoftware.com/blog/software-development-standards/))
 - [What Is ISO 25010?](https://www.perforce.com/blog/qac/what-is-iso-25010)
-- [Deliver High-Quality Software: Best Practices and Strategies](https://kvytechnology.com/blog/software/high-quality-software/)
 - [Understanding Functional Requirements in Software Development](https://kvytechnology.com/blog/software/functional-requirements/)
 - [What is CMMI? A model for optimizing development processes](https://www.cio.com/article/274530/process-improvement-capability-maturity-model-integration-cmmi-definition-and-solutions.html)
-- [Software Configuration Management in Software Engineering](https://www.guru99.com/software-configuration-management-tutorial.html)
+- [Book Review: How to Manage Projects by Paul J Fielding](https://medium.com/@piusnmuhumuza/book-review-how-to-manage-projects-by-paul-j-fielding-040305b8f7b6)
+
+## Tags
+
+``Software``, ``Software Engineering``, ``Software Development``, ``Software Product Development``, ``Software Development Lifecycle(SDLC)``, ``Software Configuration Management``, ``Software Quality``, ``Software Quality Assurance(SQA)``, ``International Organization for Standardization(ISO)``, ``ISO Compliance``, ``Agile``, ``Processes``, ``Process Optimization``, ``Process Improvement``, ``Quality Control``, ``Quality Assurance``, ``Project Management``, ``Software Product``, ``Software Process``, ``ISO Standards``, ``Standardization``, ``Functional Quality``, ``Structural Quality``, ``Process Quality``
