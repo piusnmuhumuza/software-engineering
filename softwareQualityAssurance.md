@@ -59,9 +59,24 @@ These are problems that stem from the lack of or inadequate communication with t
 
 These are problems that result from the inefficiency or ineffectiveness of the software development processes thus causing delays, cost overruns, scope creep, or quality degradation.
 
-## Software Configuration Management
+**What are the possible software failures that necessitate SQA?**
 
-During the Software Development Life Cycle, **Software Configuration Management(SCM)** helps to systematically manage, organize, and control the changes in the documents, codes, and other entities by providing a process backbone for coordinating work between teams as well as applying administrative and technical direction to delivering high quality software.
+Although software failures often result from software programming errors, they do not always result from the incompetency or mistakes of the Software Engineer/Developer.
+
+**Sometimes**  **software failures may be as trivial as;-**
+
+- miscommunication within the project team,
+- module integration failures,
+- physical equipment failure,
+- downtimes,
+- poor documentation,
+- sudden updates on APIs or third-party software being used for the project,
+- change in software engineering team availability or skill-set,
+- or changes in the final client's requirements.
+
+Also hiring a team of professional software developers does not guarantee high quality of the software product. But thorough Software Quality Assurance and software testing of the software product among other things can assure its quality and adherence to standards.
+
+It's also important to note that there are many definitions of software failures — errors, bugs, inconsistencies, incidents or defects, etc. Therefore, investing in good, consistent Software Quality Assurance is key.
 
 ## How is Quality Determined by SQA Teams?**
 
@@ -192,6 +207,8 @@ Aspects of SQA you will encounter or partake in, include:
 - SQA goes beyond simple testing to provide broad oversight across the entire software lifecycle. It puts practices and controls in place to build quality software.
 
 As an Integral part of the the software development lifecycle (SDLC), Software Quality Assurance(SQL)'s primary goal is to establish and maintain high-quality software throughout the software development life cycle (SDLC) and should in fact be involved in all phases of the development process, as much as possible from requirements gathering to deployment and maintenance.
+
+During the Software Development Life Cycle, **Software Configuration Management(SCM)** helps to systematically manage, organize, and control the changes in the documents, codes, and other entities by providing a process backbone for coordinating work between teams as well as applying administrative and technical direction to delivering high quality software.
 
 By and large, SQA is all about; — Business value addition, customer satisfaction, reliability, information confidentiality, cost-effectiveness, usability, performance, security,flexibility, improvement and guarantee of service delivery on Software projects as per set requirements and Standards.
 
@@ -329,24 +346,6 @@ A good [SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basic
 - Perform frequent regression testing. (Regression cycle)
 - Set up the right environments; -Talk to end-users and simulate their environment, Mimic the developer environment this was [SQAs](https://piusmwilson.com/on-being-a-good-software-quality-assurance-engineer) and [Developers](https://piusmwilson.com/the-struggles-of-a-junior-software-developer) use the same environment for running tests. (Feedback and user acceptance are very critical).
 
-**What are the possible software failures that necessitate SQA?**
-
-Although software failures often result from software programming errors, they do not always result from the incompetency or mistakes of the Software Engineer/Developer.
-
-**Sometimes**  **software failures may be as trivial as;-**
-
-- miscommunication within the project team,
-- module integration failures,
-- physical equipment failure,
-- downtimes,
-- poor documentation,
-- sudden updates on APIs or third-party software being used for the project,
-- change in software engineering team availability or skill-set,
-- or changes in the final client's requirements.
-
-Also hiring a team of professional software developers does not guarantee high quality of the software product. But thorough Software Quality Assurance and software testing of the software product among other things can assure its quality and adherence to standards.
-
-It's also important to note that there are many definitions of software failures — errors, bugs, inconsistencies, incidents or defects, etc. Therefore, investing in good, consistent Software Quality Assurance is key.
 
 ## Is Software Quality Assurance and Software Testing the same?
 
