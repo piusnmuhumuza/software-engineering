@@ -31,13 +31,6 @@ And some of the approaches to software quality include defect management and qua
 
 Look at quality control as being a subset of quality assurance and software testing as a subset of quality control.
 
-**The Concept of Software Quality?**
-
-Is simply the degree of conformance to explicit or implicit requirements and expectations where the explicit and implicit expectations correspond to the two basics levels of software quality; -
-
-- **Functional** — the product's compliance with functional (explicit) requirements and design specifications. This aspect focuses on the practical use of software, from the point of view of the user: its features, performance, ease of use, and absence of defects.
-- **Non-Functional** — system's inner characteristics and architecture, i.e., structural (implicit) requirements. This includes code maintainability, understandability, efficiency, and security.
-
 ## What are the most common software quality issues
 
 The common software quality issues that Software Quality Assurance can help with include;-
@@ -184,11 +177,11 @@ While quality assurance is all about preventive activities and quality control f
 
 ## What is Software Quality Assurance
 
-**Software Quality Assurance (SQA)** is a set of tools, practices, and processes applied to discover, validate, verify, monitor, and evaluate a piece of software to ensure its quality.This is achieved by incorporating [software development](https://piusmwilson.com/software-engineering-a-business-technology-enthusiast-beginners-guide) processes starting from defining requirements to coding until release/launch.
+**Software Quality Assurance (SQA)** is a broad term in **Software Engineering/Development** that encompasses a wide range of tools, practices, activities and processes designed and applied to discover, validate, verify, monitor, evaluate, assess and improve processes to ensure that software products meet the desired quality standards, requirements, business objectives and exceed customer expectations.
 
-Software quality assurance (SQA) is a broad term in **Software Engineering/Development** that encompasses a wide range of activities and processes designed to assess and improve processes as well as ensuring that software products meet the desired quality standards, requirements, business objectives and exceed customer expectations.
+SQA is typically implemented by a dedicated team or department within an organization or on a project, responsible for overseeing the quality of software projects.
 
-Key aspects include:
+Aspects of SQA you will encounter or partake in, include:
 
 - Evaluating processes and work products against clearly defined standards.
 - Ensuring planned quality practices are fully implemented.
@@ -198,15 +191,18 @@ Key aspects include:
 - Verifying that software meets quality objectives.
 - SQA goes beyond simple testing to provide broad oversight across the entire software lifecycle. It puts practices and controls in place to build quality software.
 
-As an Integral part of the the software development lifecycle (SDLC), Software Quality Assurance(SQL)'s primary goal is to establish and maintain high-quality software throughout the software development life cycle (SDLC) and is in fact involved in all phases of the development process, from requirements gathering to deployment and maintenance.
-
-It involves a combination of techniques, methodologies, and tools to assess and improve the quality of software products, processes, and resources. SQA is typically implemented by a dedicated team or department within an organization, responsible for overseeing the quality of software projects.
+As an Integral part of the the software development lifecycle (SDLC), Software Quality Assurance(SQL)'s primary goal is to establish and maintain high-quality software throughout the software development life cycle (SDLC) and should in fact be involved in all phases of the development process, as much as possible from requirements gathering to deployment and maintenance.
 
 By and large, SQA is all about; — Business value addition, customer satisfaction, reliability, information confidentiality, cost-effectiveness, usability, performance, security,flexibility, improvement and guarantee of service delivery on Software projects as per set requirements and Standards.
 
-[SQA](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) stretches through all [software development](https://piusmwilson.com/software-engineering-a-business-technology-enthusiast-beginners-guide) phases depending on the team, industry, or practices being followed and should not be confused with software testing. -Testing is a big part of [**Software Quality Assurance**](https://piusmwilson.com/a-basic-understanding-of-software-quality-assurance), but it is not, by any means, the only part of it.
-
 In order to make sure the released software is safe and functions as expected, **the concept of software quality**  was introduced.
+
+## What is the Concept of Software Quality?
+
+Is simply the degree of conformance to explicit or implicit requirements and expectations where the explicit and implicit expectations correspond to the two basics levels of software quality; -
+
+- **Functional** — the product's compliance with functional (explicit) requirements and design specifications. This aspect focuses on the practical use of software, from the point of view of the user: its features, performance, ease of use, and absence of defects.
+- **Non-Functional** — system's inner characteristics and architecture, i.e., structural (implicit) requirements. This includes code maintainability, understandability, efficiency, and security.
 
 ## Why Software Quality Assurance
 
@@ -354,9 +350,11 @@ It's also important to note that there are many definitions of software failures
 
 **Is Software Quality Assurance and Software Testing the same?**
 
-While Software Quality Assurance and Software Testing are used interchangeably in the Software Engineering/Development space, and both aim to provide software that meets the necessary requirements and quality standards, they aren't exactly the same. In fact, they're actually quite different.
+While Software Quality Assurance and Software Testing are used interchangeably in the Software Engineering/Development space, and both aim to provide software that meets the necessary requirements and quality standards, they aren't exactly the same.
 
-Software testing concentrates on finding the bugs, defects, and errors within the software, while software quality assurance aims to assure that the overall quality of the software product being engineered/developed meets the requirements and expectations of the client.
+SQA stretches through all software development phases depending on the team, industry, or practices being followed and should not be confused with software testing. -Testing is a big part of **Software Quality Assurance**, but it is not, by any means, the only part of it.
+
+Software testing concentrates on finding the bugs, defects, and errors within the software, while Software Quality Assurance aims to assure that the overall quality of the software product being engineered/developed meets the requirements and expectations of the client.
 
 **Note:**  Software testing is a part of the general quality control process within Software Quality Assurance, but its focus is exclusively on product-oriented tasks rather than the big picture.
 
