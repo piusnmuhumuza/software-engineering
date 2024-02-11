@@ -564,13 +564,17 @@ SQA is an important part of the software development process and plays a vital r
 - [Introduction Of Software Quality Assurance](https://dev.to/sardarmudassaralikhan/introduction-of-software-quality-assurance-1954)
 - [What is Software Quality?](https://asq.org/quality-resources/software-quality)
 - [Software Configuration Management in Software Engineering](https://www.guru99.com/software-configuration-management-tutorial.html)
+- [Quality Assurance, Quality Control, and Testing — the Basics of Software Quality Management](https://www.altexsoft.com/whitepapers/quality-assurance-quality-control-and-testing-the-basics-of-software-quality-management/)
 - [Software Development Standards: ISO compliance and Agile]([https://www.softkraft.co/software-development-standards/](https://www.softkraft.co/software-development-standards/))
 - [What Software Development Standards Should You Be Aware Of?]([https://www.orientsoftware.com/blog/software-development-standards/](https://www.orientsoftware.com/blog/software-development-standards/))
 - [What Is ISO 25010?](https://www.perforce.com/blog/qac/what-is-iso-25010)
 - [Understanding Functional Requirements in Software Development](https://kvytechnology.com/blog/software/functional-requirements/)
 - [What is CMMI? A model for optimizing development processes](https://www.cio.com/article/274530/process-improvement-capability-maturity-model-integration-cmmi-definition-and-solutions.html)
+- [10 Types of Software Testing Models](https://www.testbytes.net/blog/types-software-testing-models/)
+- [The Testing Pyramid: Simplified for One and All](https://www.headspin.io/blog/the-testing-pyramid-simplified-for-one-and-all)
+- [What is Testing Pyramid? How Does It Benefit Agile Teams?](https://testsigma.com/blog/testing-pyramid/)
 - [Book Review: How to Manage Projects by Paul J Fielding](https://medium.com/@piusnmuhumuza/book-review-how-to-manage-projects-by-paul-j-fielding-040305b8f7b6)
 
 ## Tags
 
-``Software``, ``Software Engineering``, ``Software Development``, ``Software Product Development``, ``Software Development Lifecycle(SDLC)``, ``Software Configuration Management``, ``Software Quality``, ``Software Quality Assurance(SQA)``, ``International Organization for Standardization(ISO)``, ``ISO Compliance``, ``Agile``, ``Processes``, ``Process Optimization``, ``Process Improvement``, ``Quality Control``, ``Quality Assurance``, ``Project Management``, ``Software Product``, ``Software Process``, ``ISO Standards``, ``Standardization``, ``Functional Quality``, ``Structural Quality``, ``Process Quality``
+``Software``, ``Software Engineering``, ``Software Development``, ``Software Product Development``, ``Software Development Lifecycle(SDLC)``, ``Software Configuration Management``, ``Software Quality``, ``Software Quality Assurance(SQA)``, ``International Organization for Standardization(ISO)``, ``ISO Compliance``, ``Agile``, ``Processes``, ``Process Optimization``, ``Process Improvement``, ``Quality Control``, ``Quality Assurance``, ``Project Management``, ``Software Product``, ``Software Process``, ``ISO Standards``, ``Standardization``, ``Functional Quality``, ``Structural Quality``, ``Process Quality``,``Software Testing Lifecycle (STLC)``, ``Software Testing Models``, ``Software Testing Pyramid``, ``Quality Management``
