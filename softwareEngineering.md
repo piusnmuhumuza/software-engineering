@@ -185,21 +185,6 @@ In most business settings, steps like implementing, testing (User acceptance tes
 In the software business, a software product is tested thoroughly like before being shipped to the client. During Software Testing, you validate if the finished product meets set software, requirements, industry standards and passes user acceptance to make sure everything comes together correctly to deliver a software system that performs as expected, functionally and non-functionally.
 At a granular level, the purpose of software testing is to identify errors, gaps, or missing requirements and check whether the said software product is defect-free and matches the expected client requirements.
 
-### What is Software Testing
-
-Software Testing is a process of using various industry-standard techniques to evaluating, show and verify that a software product being developed does what it is supposed to do, meets clients requirements and is fit for use. It’s is part of Software Quality Assurance.
-
-It checks whether the actual software product matches expected requirements and ensures that the software product is defect/bug-free prior to release/launch.
-Sometimes testing can happen early in the development lifecycle depending on the team workflow, methodology or client requirements but it mostly ensures that the quality of the overall software from varying levels of granularity is as per expectations before sign off or software project handover.
-
-There are different levels of testing, from functional to acceptance, and each one checks specific things to make sure everything is up to standard.
-
-While Software Quality Assurance and Software Testing are used interchangeably in the Software Engineering/Development space, and both aim to provide software that meets the necessary requirements and quality standards, they are not exactly the same. In fact, they are quite different.
-
-Software testing concentrates on finding the bugs, defects, and errors within the software, while Software Quality Assurance aims to assure that the overall quality of the software product being engineered/developed meets the requirements and expectations of the client.
-
-**Note:** Software testing is a part of the general quality control process within Software Quality Assurance, but its focus is exclusively on product-oriented tasks rather than the big picture.
-
 ### Who does software testing?
 
 * Software Tester
@@ -207,31 +192,6 @@ Software testing concentrates on finding the bugs, defects, and errors within th
 * Software Quality Assurance Engineers can also test.
 * Project Lead/Manager
 * End User/Client.
-
-### The Seven testing principles are; —
-
-The seven basic software testing principles that every software tester and QA professional should know represent the ground rules for optimizing the testing process to get the best quality on your software testing investment.
-
-1. **Testing shows presence of defects**
-Reporting zero bugs/defects after a testing cycle does not mean the software is bug-free but rather the test cases probably did not cover all scenarios. The goal of testing is to make the software fail by showing the presence of bugs/defects in the software and sufficient testing reduces the presence of defects.
-
-2. **Exhaustive testing is impossible**
-Trying to exhaust all possible test conditions of a software, by going through every test case is impractical as it burns time and money without affecting the overall quality. So instead of trying to do exhaustive testing, it’s more effective to estimate testing efforts and consider risks and priorities in order to optimize the number of test cases for better testing.
-
-3. **Early testing**
-With the help of unit testing and Integration testing in the early phases of the SDLC, defects can be detected early on thus saving time, avoiding massive delays and reducing the cost of fixing those defects than if detected later during system testing.
-
-4. **Defect clustering**
-This principle simply states that a small number of modules or functionalities (20%) can contain most of the software defects/bugs or operational failures (80%) or 80% of software defect comes from 20% of modules. Based on the popular Pareto Principle.
-
-5. **Pesticide paradox**
-This principle says that trying to repeat the same test cases, repeatedly, will not find new bugs eventually making the software being tested immune to the tests. It is necessary to rethink your test approach, review the test cases regularly and add or update them to find more bugs/defects.
-
-6. **Testing is context-dependent**
-There is no one-strategy-fits-all in software testing rather testing approach depends on the context of the software we develop. We do test the software differently in different contexts. Different types of software need to perform different types of testing.
-
-7. **Absence of errors-fallacy**
-It is a common belief in the software engineering space that a low defect rate implies the software product is okay and the software project is a success which is an absence-of-errors delusion. Zero defects do not mean the software solves end-user problems successfully. In fact, even bug-free software can fail to address the business needs of a client if wrong inputs were incorporated into the software.
 
 ### Why is Software Testing Needed?
 

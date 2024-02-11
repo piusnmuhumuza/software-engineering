@@ -382,37 +382,7 @@ Software testing is the process of evaluating and verifying that a software prod
 - Project Lead/Manager
 - End User/Client.
 
-**The Seven testing principles are; —**
 
-The seven basic software testing principles that every software tester and QA professional should know represent the ground rules for optimizing the testing process to get the best quality on your software testing investment.
-
-**Testing shows presence of defects**
-
-Reporting zero bugs/defects after a testing cycle does not mean the software is bug-free but rather the test cases probably did not cover all scenarios. The goal of testing is to make the software fail by showing the presence of bugs/defects in the software and sufficient testing reduces the presence of defects.
-
-**Exhaustive testing is impossible.**
-
-Trying to exhaust all possible test conditions of a software, by going through every test case is impractical as it burns time and money without affecting the overall quality. So instead of trying to do exhaustive testing, it's more effective to estimate testing efforts and consider risks and priorities in order to optimize the number of test cases for better testing.
-
-**Early testing**
-
-With the help of unit testing and Integration testing in the early phases of the SDLC, defects can be detected early on thus saving time, avoiding massive delays and reducing the cost of fixing those defects than if detected later during system testing.
-
-**Defect clustering.**
-
-This principle simply states that a small number of modules or functionalities (20%) can contain most of the software defects/bugs or operational failures (80%) or 80% of software defect comes from 20% of modules. Based on the popular Pareto Principle.
-
-**Pesticide paradox.**
-
-This principle says that trying to repeat the same test cases, repeatedly, will not find new bugs eventually making the software being tested immune to the tests. It is necessary to rethink your test approach, review the test cases regularly and add or update them to find more bugs/defects.
-
-**Testing is context-dependent.**
-
-There is no one-strategy-fits-all in software testing rather testing approach depends on the context of the software we develop. We do test the software differently in different contexts. Different types of software need to perform different types of testing.
-
-**Absence of errors-fallacy.**
-
-It is a common belief in the software engineering space that a low defect rate implies the software product is okay and the software project is a success which is an absence-of-errors delusion. Zero defects do not mean the software solves end-user problems successfully. In fact, even bug-free software can fail to address the business needs of a client if wrong inputs were incorporated into the software.
 
 
 ## Software Quality Assurance best practices, processes, and techniques for successful software delivery.
