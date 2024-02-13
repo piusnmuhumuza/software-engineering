@@ -74,21 +74,19 @@ By identifying the many problems of software development It was thus, proposed t
 The term [‘Software Engineering’](https://piusnmuhumuza.medium.com/software-engineering-a-business-tech-enthusiast-beginners-guide-1961aa73d76) first was used in the late 1950s and early 1960s, where the concept of software engineering was first suggested at the 1968 NATO Science Committee in (Garmisch) Germany, while discussing the '[Software Crisis](https://en.wikipedia.org/wiki/Software_crisis)'. It is generally believed these conferences marked the official start of the profession as the term ['Software Engineering'](https://piusnmuhumuza.medium.com/software-engineering-a-business-tech-enthusiast-beginners-guide-1961aa73d76).
 The NATO Science Committee sponsored two conferences ( [The NATO Software Engineering Conferences]( http://homepages.cs.ncl.ac.uk/brian.randell/NATO/)  ) on [Software Engineering](https://piusnmuhumuza.medium.com/software-engineering-a-business-tech-enthusiast-beginners-guide-1961aa73d76) in 1968 and 1969, which gave the field its initial boost.
 
-## Breaking Down Software Engineering
-
-It emphasizes a systematic, disciplined approach to the development of software that typically applies to the construction of large software systems (or products) involving numerous Software Development and engineering teams.
+Software Engineering emphasizes a systematic, disciplined approach to the development of software that typically applies to the construction of large software systems (or products) involving numerous Software Development and engineering teams.
 
 Today, Software Development and engineering teams will typically fall under Front-end, Back-end or full-stack development, as is with Developers, Engineers and sometimes Programmers.
 
-### Front-end Vs Back-end Vs Full-stack Development
+## Front-end Vs Back-end Vs Full-stack Development
 
 Front-ends work on what the user can see while Back-ends build the infrastructure that supports it and Full-stacks are both in one. Both Front-ends & Back-ends are necessary components for high-functioning software or applications.
 
-* **Front-end —** ensures a satisfactory user experience with no issues, errors, or downtime by planning, designing, building, and implementing quality user interface systems for the software or application in question. Front-ends create and optimize systems, resolve UI/UX issues and even play an active role in testing and troubleshooting activities.
+- **Front-end —** ensures a satisfactory user experience with no issues, errors, or downtime by planning, designing, building, and implementing quality user interface systems for the software or application in question. Front-ends create and optimize systems, resolve UI/UX issues and even play an active role in testing and troubleshooting activities.
 
-* **Back-end —** typically deals with the logical back-end and core computational logic. Back-ends are responsible for the server-side/back-end part of a software or application and usually write the business logic of software, web services, and APIs used by front-end.
+- **Back-end —** typically deals with the logical back-end and core computational logic. Back-ends are responsible for the server-side/back-end part of a software or application and usually write the business logic of software, web services, and APIs used by front-end.
 
-* **Full-stack —** usually comes with experience of working both as a Front-end and Back-end. Often referred to as “jack-of-all-trades”, Full-stacks have skills in a wide variety of coding niches, databases, graphic design, and UI/UX that enables them do their job well working both the client and server ends.
+- **Full-stack —** usually comes with experience of working both as a Front-end and Back-end. Often referred to as “jack-of-all-trades”, Full-stacks have skills in a wide variety of coding niches, databases, graphic design, and UI/UX that enables them do their job well working both the client and server ends.
 
 ### The case of a Software Engineer Vs a Software Developer
 
@@ -102,7 +100,7 @@ _Software Developers_ and _Software Engineers_ typically handle different steps 
 
 Also, **Software Engineers** tend to be in more collaborative roles, while **Software Developers** often and may work in a more independent environment.
 
-### Developer expertise Levels
+#### Developer expertise Levels
 
 They are basically 3 levels but, in some places, or companies, you will find 5 or 7 levels depending on the breakdown and classifications of the expertise levels.
 
@@ -110,7 +108,7 @@ As you grow your experience in the Software Engineering industry you will go thr
 
 The 3 common basic levels are;-
 
-* **Junior Developer:**
+- **Junior Developer:**
 
 While starting out, most _Developers_ will be Trainees/Apprentices or referred to as Junior Developer most as commonly known in the software industry. At this level, you probably have 0 to 1.5 years of experience tops and everything you know about Software Engineering is basic at best.
 
@@ -118,13 +116,13 @@ You will work on a team where you either pair, work with or have your code revie
 
 Read my Article; — [The Struggles of a Junior Software Developer](https://piusnmuhumuza.medium.com/the-struggles-of-a-junior-software-developer-20856d57150e) to get a feel of the experience a typical Junior Developer goes through.
 
-* **Mid-Level Developer:**
+- **Mid-Level Developer:**
 
 Mostly referred to as _Intermediate Developer_ on some Job descriptions (JDs) put out by hiring companies or recruiter, _a mid-level Developer_ is any developer with 2–3 years under their belt and has developed a substantial level of technical skills in the software engineering industry.
 
 At this level, a developer has worked on some projects and can work unsupervised on a team among other things or under limited supervision which is typically code/tasks review from the Senior Developer who will act as a guide, mentor, and advisor for the most part.
 
-* **Senior Developer:**
+- **Senior Developer:**
 
 This developer is also known as the **Developer Lead** or **Team Lead** and is often referred to as a problem solver, because of their deep, specialized knowledge and exhaustive experience in the software engineering industry, knowledge of programming languages, tech stack, or even a specific product they are working or worked on.
 
@@ -149,23 +147,31 @@ SCM provides the process backbone for coordinating work between teams and delive
 
 The Business Of Project Management is about understanding the management of project information, resourcing, costing and budgeting to deliver on-time, on-budget and in-scope project. Project management of software products can be loosely referred to as Software Project management.
 
-## Understanding risk and uncertainty in Software Project management
+Software project management is the planning, managing and tracking of software development projects. While the deliverable might differ from other projects that produce tangible deliverables, the processes are basically the same as the management of any other type of project.
+
+It is a holistic approach to managing software projects with a business engineering mindset which focuses on the management of project information, resourcing, costing and budgeting to deliver on-time, on-budget and in-scope projects in Software Engineering.
+
+In Software projects management the _**Software Development Life Cycle (SDLC)**_ process(_Plan, Design, Implement, Test, Deploy, Maintain_ phases), often overlaps the traditional _**Project Management Life Cycle**_ process(_Initiation, Planning, Execution, Monitoring and Control, Closing_ project life cycle phases) and are managed together for successful software development.
+
+
+
+### Understanding risk and uncertainty in Software Project management
 
 In the presence of uncertainty, making a decision about actions today that impact outcomes in the future require some mechanism for determining those outcomes in the absence of perfect information and this absence of information creates risk.
 
-### These decisions typically have one or more of the following characteristics:
+#### These decisions typically have one or more of the following characteristics:
 
-* **The Stakes** — The stakes are involved in the decision, such as costs, schedule, delivered capabilities and those impacts on business success or the meeting the objectives.
+- **The Stakes** — The stakes are involved in the decision, such as costs, schedule, delivered capabilities and those impacts on business success or the meeting the objectives.
 
-* **Complexity** — The ramifications of alternatives are difficult to understand the impact of the decision without detailed analysis.
+- **Complexity** — The ramifications of alternatives are difficult to understand the impact of the decision without detailed analysis.
 
-* **Uncertainty** — Uncertainty in key inputs creates uncertainty in the outcome of the decision alternatives and points to risks that may need to be managed.
+- **Uncertainty** — Uncertainty in key inputs creates uncertainty in the outcome of the decision alternatives and points to risks that may need to be managed.
 
-* **Multiple Attributes** — Larger numbers of attributes cause a larger need for formal analysis.
+- **Multiple Attributes** — Larger numbers of attributes cause a larger need for formal analysis.
 
-* **Diversity of Stakeholders** — Attention is warranted to clarify objectives and formulate performance measures when the set of stakeholders reflects a diversity of values, preferences, and perspectives.
+- **Diversity of Stakeholders** — Attention is warranted to clarify objectives and formulate performance measures when the set of stakeholders reflects a diversity of values, preferences, and perspectives.
 
-### Event Risks and Non-Event Risks
+#### Event Risks and Non-Event Risks
 
 If you limit your risk identification to event risks only, you will not proactively manage all risks that could affect the success of your project – and you will end up taking risks without knowing it. When most people talk about uncertainty and risk in projects, they are thinking only about uncertain future events that could have a negative (or positive) effect on achievement of their project objectives. However, risk includes much more than threats or opportunities to deliverables, the project schedule or budget.
 
@@ -173,10 +179,10 @@ If you limit your risk identification to event risks only, you will not proactiv
 
 Most projects focus only on risks that are uncertain future events that may or may not occur. Examples of these Event-Risks include:
 
-* We may lose a key resource at a critical time in the project
-* A key supplier may go out of business during the project
-* The customer may change the requirements after the design is complete
-* A subcontractor may propose enhancements to the standard operating processes
+- We may lose a key resource at a critical time in the project
+- A key supplier may go out of business during the project
+- The customer may change the requirements after the design is complete
+- A subcontractor may propose enhancements to the standard operating processes
 
 There is an increasing recognition that also **Non-Event Risks** need to be identified and managed. The following list and figure shows you an overview of Event Risks and Non-Event Risks with their underlying uncertainty.
 
@@ -185,13 +191,13 @@ Ambiguity risk (Epistemic Uncertainty)
 Variability risk (Aleatoric Uncertainty)
 Emergent risk (Ontological Uncertainty)
 
-### Reducible and Irreducible Uncertainty
+#### Reducible and Irreducible Uncertainty
 
 There is pervasive confusion between these two types of uncertainties when discussing the impacts on these uncertainties on project outcomes, including the estimates of cost, schedule, and technical performance.
 
 All project work is driven by underlying processes that create a certain probability of uncertainty. There are two types of uncertainty on all projects, called Reducible (Epistemic) and Irreducible (Aleatory) uncertainty.
 
-#### Reducible Uncertainty
+##### Reducible Uncertainty
 
 A reducible uncertainty is called an epistemic uncertainty which refers to the deficiencies by a lack of knowledge or information while Irreducible uncertainty refers to a situation in which actors are uncertain about whether well-defined propositions (statements about future consequences which can be measured on a probability scale) are true or not.
 
@@ -205,7 +211,7 @@ With ambiguous risks there is uncertainty about what might happen in the future.
 
 You can reduce ambiguous risks by defining those areas where there is a deficit of knowledge or understanding, then filling the gap by obtaining expert knowledge or benchmarking against best practices. You can also reduce ambiguity, for example, through incremental development, prototyping, or simulation.
 
-#### Irreducible Uncertainty
+##### Irreducible Uncertainty
 
 Aleatoric uncertainty refers to the data's inherent randomness that cannot be explained away  while Epistemic uncertainty refers to the uncertainty of the model (epistemology is the study of knowledge) and is often due to a lack of training data.
 
@@ -214,9 +220,6 @@ Aleatory uncertainty arises from the random variability related to natural proce
 **Variability Risk** (is the result of  “aleatoric uncertainty”): Alea in Aleatory is Latin and means dice. Aleatoric uncertainty comes from an inherent randomness, natural stochasticity, environmental or structural variation across space and time in the properties or behavior of the system under study. Here you know that something will definitely happen, but the uncertainty is in what the result will be. The accumulation of more data or additional information cannot reduce aleatory uncertainty.
 
 Aleatory uncertainties can often be singled out from other uncertainties by their representation as distributed quantities that take on values in an established or known range. The exact values will vary by chance from unit to unit or time to time.
-
-Typical examples of aleatory uncertainty include the outcomes of tossing dice and drawing cards from a shuffled pack. Aleatory uncertainty in projects may include: Unseasonal weather conditions may occur during the construction phase. The exchange rate could be much higher or lower when the material is delivered.
-For variability risks, we cannot buy more information nor take specific risk reduction actions to reduce the uncertainty and resulting risk. The objective of identifying and managing variability risks is to be prepared to handle the impacts when risk is realized. The method for handling these impacts is to provide margin for this type of risk, including cost, schedule, and technical margin. Aleatoric uncertainty can be modeled in a Monte Carlo simulation tool. Here the range of variation is reflected in the probability distribution.
 
 **Emergent Risk** (is the result of “Ontological Uncertainty): Uncertainty exist from what we don’t know—from our blind-spots. They arise from limitations in our conceptual frameworks or worldview. These are risks which we are unable to see because they are outside our experience or mindset, so we don’t know that we should be looking for them.
 Another popular term for emergent risks is “the unknown unknowns,” which are things that we do not know but where we are unaware of our ignorance. In fact “unknown unknowns” can be divided into two types, one of which is a true emergent risk (“Black Swan”) and the other is not. These are:
