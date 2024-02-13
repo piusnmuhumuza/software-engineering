@@ -3,7 +3,7 @@
 Found The Humble programmer while reading about software Engineering when i decide to research the history which led me to the [Software Crisis of 1960-80s]() and somewhere in the noted, [the Humble Programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html).
 I figured, curating it here might be resourceful for any other software Engineering enthusiast as it was for me.
 
-[EWD 340: The humble programmer]((https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/EWD340.pdf)) was published in Commun. ACM 15 (1972), 10: 859–866. 
+[EWD 340: The humble programmer]((https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/EWD340.pdf)) was published in Commun. ACM 15 (1972), 10: 859–866.
 
 ## ACM Turing Lecture 1972.
 
