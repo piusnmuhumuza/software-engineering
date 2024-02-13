@@ -565,6 +565,8 @@ Even though project handover is an important part of the software product lifecy
 
 Typically, all stakeholders of the software project are present if possible for the hand over where final sign off take place and the Software product is handed of signaling the end of the project and making way for any post-project activities like support, maintenance and continuous improvement
 
+
+
 ## Conclusion
 
 Software Engineering/Development outside in the business environment is a very complex process, mostly because real-world software is much larger, more complex and run on big budgets with a lot of uncertainties, timelines and often unreasonable expectations from the various stakeholders.
