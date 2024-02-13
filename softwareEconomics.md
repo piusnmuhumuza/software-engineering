@@ -6,9 +6,12 @@ During Software Engineering in the business environment, vendors or Software Dev
 
 Engineering economics quantifies the benefits and costs associating with engineering projects to determine if they save enough money to warrant their capital investments.
 
-**Software engineering economics** addresses the elements of software project costs estimation and analysis and focuses on the economic analysis techniques and their applicability to software engineering and management.
+## The Economics Of Developing Software In Software Project Management
 
-Software Engineering Economics involves formulating, estimating, and evaluating the economic outcomes when alternatives to accomplish a defined software development purpose are available. It's all about making decisions related to software engineering in a business context.
+Software Economics in Software Engineering is a research area focusing on the challenges and issues associated with valuing software and determining or estimation costs usually involved in its production(_design, development, Implementation, testing and Maintenance among other things_). 
+[Barry Boehm & Kevin J.Sullivan in Software Economics: A Roadmap](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/softwareEconomics_ARoadMap-Boehm%20and%20Sullivan.pdf) outline these difficulties and challenges and also presented how software economics principles can be applied to improve software design, development, and evolution.
+
+Software economics is basically situated at intersection of information economics and Software Engineering. 
 
 ## Economic Foundations of Software Engineering
 
@@ -18,12 +21,9 @@ Economic analysis methodologies for engineering decisions include project costs,
 
 Every time we make a decision involving multiple choices we are making an opportunity cost based decisions. Since most of the time, these costs in the future and are uncertainty, we need to estimate those opportunity costs as well as the probability that our choice is the right choice to produce the desired beneficial outcomes.
 
-## The Economics Of Developing Software In Software Project Management
+## Software engineering economics
 
-Software Economics in Software Engineering is a research area focusing on the challenges and issues associated with valuing software and determining or estimation costs usually involved in its production(_design, development, Implementation, testing and Maintenance among other things_). 
-[Barry Boehm & Kevin J.Sullivan in Software Economics: A Roadmap](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/softwareEconomics_ARoadMap-Boehm%20and%20Sullivan.pdf) outline these difficulties and challenges and also presented how software economics principles can be applied to improve software design, development, and evolution.
-
-Software economics is basically situated at intersection of information economics and Software Engineering. 
+Software Engineering Economics involves formulating, estimating, and evaluating the economic outcomes when alternatives to accomplish a defined software development purpose are available. It's all about making decisions related to software engineering in a business context. It  addresses the elements of software project costs estimation and analysis while focusing on the economic analysis techniques and their applicability to software engineering and management.
 
 Software engineering economics provides a way to examine the attributes of software and software processes in a systematic way that relates them to economic measures. These can be weighted and analyzed when making decisions within the scope of a software engineering project and its organization. The essence of software engineering economics is aligning software technical decisions with the business goals of the organization.
 
@@ -87,3 +87,4 @@ Several parametric models have been developed to estimate software costs; all of
 3. Apply the concepts of risk and uncertainty to real world software development projects, including goals; estimates; prioritization and decision making.
 4. Perform best-practice economic analysis methods.
 5. Relate and interpret the “good-enough” principle; friction-free economy; ecosystems and outsourcing
+

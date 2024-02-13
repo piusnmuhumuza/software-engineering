@@ -489,19 +489,19 @@ The success of an SDLC depends on the people, process, and product and software 
 During requirements gathering/elicitation, Software Engineer/Developer or Business Analysts interact and collaborate with the various stakeholders, including customers and users, to gather information, assemble the insight, identify, translate, analyze and validate the project's needs about the current state of a software system and desired future state of the software system to be developed. 
 Getting familiar with the data, information types, requirements collection techniques, application types, client engineering techniques can go a long way to help your business case. 
 
-### Software Design and Modelling
+#### Software Design and Modelling
 
 After requirements and analysis, a Software Engineer/Developer must transform the analysis model into a design model that can be implemented in a specific hardware and software environment.
 
 Good Software design is fundamental to creating successful software which starts with gathering requirements followed by precisely articulating complex ideas using industry-standard design visual language tools such as Unified Modeling Language (UML) which enables you specify, construct, and document the artifacts of the software systems among other activities.
 
-### Software Implementation
+#### Software Implementation
 
 Implementation, is the process of converting the specified requirements into an actual software product. This can be programming, coding source code and execution. Software implementation also involves customer engineering to ensure software is working as expected of the client/end user during implementation and deployment.
 
 In most business settings, steps like implementing, testing (User acceptance testing) and deployment can happen concurrently or inter-changeably depending on client requirements or team.
 
-### Software Testing
+#### Software Testing
 
 In the software business, a software product is tested thoroughly like before being shipped to the client. During Software Testing, you validate if the finished product meets set software, requirements, industry standards and passes user acceptance to make sure everything comes together correctly to deliver a software system that performs as expected, functionally and non-functionally.
 At a granular level, the purpose of software testing is to identify errors, gaps, or missing requirements and check whether the said software product is defect-free and matches the expected client requirements.
@@ -516,28 +516,18 @@ But Software Testing in most cases will typically falls under 3 categories; -
 
 - **Maintenance Testing:** A method of software testing that aims to uncover software errors or bugs within a program after changes have been made. It retests the program to ensure that after the changes are complete, the changes don’t negatively impact the features within the code or conflict with necessary requirements. Test carried out in Maintenance Testing include Regression testing, confirmation testing.
 
-#### Common Levels of Testing
-
 The different levels of software testing explore the four software testing levels that take place during the development lifecycle with each level conducted thoroughly, checking for something different—nothing should be rushed or skipped.
 These are; —
 
-##### Unit Testing
+- **Unit Testing:** This is usually done at the code level, testing individual parts or components (units) of a software to analyse their functionality and ensure each piece of the software functions correctly on its own and works as intended.
 
-This is usually done at the code level, testing individual parts or components (units) of a software to analyse their functionality and ensure each piece of the software functions correctly on its own and works as intended.
+- **Integration Testing:** Is the process of testing how different units or components work together when integrated into a larger system to check if the combined units cooperate as expected and don't cause issues when connected. It enables software testers to test units of software when integrated into a whole system to identify any bugs or issues arising from integrations between modules. It is possible to automate integration testing.
 
-##### Integration Testing
+- **System Testing:** This is the process of testing the entire system (an integrated environment comprising the whole application), where all components are assessed against specific business requirements to verify that it meets the specified requirements, and ensure the complete software system functions correctly and satisfies user needs. Automation tools can be used for System Testing.
 
-Is the process of testing how different units or components work together when integrated into a larger system to check if the combined units cooperate as expected and don't cause issues when connected. It enables software testers to test units of software when integrated into a whole system to identify any bugs or issues arising from integrations between modules. It is possible to automate integration testing.
+- **Acceptance Testing:** This is where a team checks if the software meets the requirements and specifications set by the end-users or clients to confirm that the software is ready for release and satisfies the user's expectations and needs. Acceptance testing involves testing the system’s Functional and Non-functional aspects, such as performance, security, usability, accessibility, compatibility, and reliability. Depending on the system’s complexity, it can be done manually or through automation tools.
 
-##### System Testing
-
-This is the process of testing the entire system (an integrated environment comprising the whole application), where all components are assessed against specific business requirements to verify that it meets the specified requirements, and ensure the complete software system functions correctly and satisfies user needs. Automation tools can be used for System Testing.
-
-##### Acceptance Testing
-
-This is where a team checks if the software meets the requirements and specifications set by the end-users or clients to confirm that the software is ready for release and satisfies the user's expectations and needs. Acceptance testing involves testing the system’s Functional and Non-functional aspects, such as performance, security, usability, accessibility, compatibility, and reliability. Depending on the system’s complexity, it can be done manually or through automation tools.
-
-#### Who does software testing?
+##### Who does software testing?
 
 - Software Tester
 - Software Developer/Engineer.
@@ -545,7 +535,7 @@ This is where a team checks if the software meets the requirements and specifica
 - Project Lead/Manager
 - End User/Client.
 
-#### Why is Software Testing Needed?
+##### Why is Software Testing Needed?
 
 Software testing plays a crucial role in delivering reliable and high-quality software as well as mitigating risks, enhances user satisfaction, and ensuring a smooth user experience. It's essential to have robust testing processes to succeed in order to;-
 
@@ -555,7 +545,7 @@ Software testing plays a crucial role in delivering reliable and high-quality so
 - Enhancing Reliability
 - Preventing Future Issues and many more.
 
-### Software Project Handover
+#### Software Project Handover
 
 Software Project handover is the transfer of roles and responsibilities for a software project from one company, team, or person to another.
 
@@ -565,7 +555,95 @@ Even though project handover is an important part of the software product lifecy
 
 Typically, all stakeholders of the software project are present if possible for the hand over where final sign off take place and the Software product is handed of signaling the end of the project and making way for any post-project activities like support, maintenance and continuous improvement
 
+### The Economics Of Developing Software In Software Project Management
 
+The Success of any software engineering project is partly dependent on effective business management. And Developing good software also relies on understanding the underlying economics of Software Engineering.
+
+During Software Engineering in the business environment, vendors or Software Developers will be subcontracted to develop all, or some components, of the software systems and/or develop the hardware that the software will run on. In this case, the vendors will make a bid by providing proposals (_technical and financial capability_) in response to a _request for proposals (RFP)_ which are evaluated before the contract is offered.
+
+Engineering economics quantifies the benefits and costs associating with engineering projects to determine if they save enough money to warrant their capital investments.
+
+#### Economic Foundations of Software Engineering
+
+There are fundamental principles and methodologies utilized in engineering economics and their applications in software engineering that form the basis of decision making in the presence of uncertainty. These formal economic models include the cost of production and market models based on fundamental principles of microeconomics. The dynamic values of money and assets, patterns of cash flows, can be modeled in support of management's need to make decisions in the presence the constant uncertainties associated with software development.
+
+Economic analysis methodologies for engineering decisions include project costs, benefit-cost ratio, payback period, and rate of return can be rigorously described. This is the basis of any formal treatment of economic theories and principles. Software engineering economics is based on elements of software costs, software engineering project costs estimation, economic analyses of software engineering projects, and the software maintenance cost model.
+
+Every time we make a decision involving multiple choices we are making an opportunity cost based decisions. Since most of the time, these costs in the future and are uncertainty, we need to estimate those opportunity costs as well as the probability that our choice is the right choice to produce the desired beneficial outcomes.
+
+#### SoftwareEconomics
+
+Software Economics in Software Engineering is a research area focusing on the challenges and issues associated with valuing software and determining or estimation costs usually involved in its production(_design, development, Implementation, testing and Maintenance among other things_). 
+[Barry Boehm & Kevin J.Sullivan in Software Economics: A Roadmap](https://github.com/piusnmuhumuza/bootcamp/blob/master/Software%20Engineering/resources/softwareEconomics_ARoadMap-Boehm%20and%20Sullivan.pdf) outline these difficulties and challenges and also presented how software economics principles can be applied to improve software design, development, and evolution.
+
+Software economics is basically situated at intersection of information economics and Software Engineering. 
+
+#### Software engineering economics
+
+Software Engineering Economics involves formulating, estimating, and evaluating the economic outcomes when alternatives to accomplish a defined software development purpose are available. It's all about making decisions related to software engineering in a business context. It  addresses the elements of software project costs estimation and analysis while focusing on the economic analysis techniques and their applicability to software engineering and management.
+
+Software engineering economics provides a way to examine the attributes of software and software processes in a systematic way that relates them to economic measures. These can be weighted and analyzed when making decisions within the scope of a software engineering project and its organization. The essence of software engineering economics is aligning software technical decisions with the business goals of the organization.
+
+---key aspects of software engineering economics, including life cycle economics; risk and uncertainty; economic analysis methods and practical considerations, which tie concept and theory to contemporary software economic realities.
+
+Software Engineering Economics are about making decisions related to software engineering in a business context. Success of any software engineering project is partly dependent on effective business management.
+
+Software engineering economics provides a way to examine the attributes of software and software processes in a systematic way that relates them to economic measures. These can be weighted and analyzed when making decisions within the scope of a software engineering project and its organization.
+
+The essence of software engineering economics is aligning software technical decisions with the business goals of the organization. This course examines the key aspects of software engineering economics, including life cycle economics; risk and uncertainty; economic analysis methods and practical considerations, which tie concept and theory to contemporary software economic realities.
+
+Most of software cost models are generally abstracted into function of five basic parameters being;-
+
+* **Size –**
+Size is generally measured or qualified in term of number of source instructions or in SLOC (Source line of code) or number of function points required to realize desired capabilities. The size of end product or result is required to develop or create required functionality.
+
+* **Process –**
+The process is steps that are used to guide all of activities and produce end products, in particular ability and capability of process to avoid or ignore activities that are not adding any value. It also supports heading towards the target or goal and eliminate activities that are not essential or important.
+
+* **Personnel –**
+The capabilities of personnel of software engineering in general, and particularly their experience with issues or problems regarding computer science and issues regarding application domain of project. It emphasizes on team and responsibilities of team.
+
+* **Environment –**
+It is simply made of various tools and techniques and automated procedures that are available and used to support software development and effort in an efficient way.
+
+* **Quality –**
+The required quality along with its features, performance, reliability, scalability, portability, usability, user interface utility, adaptability, and many more.
+
+Between these parameters, relationship and estimated cost can be written in following way :
+
+```code
+Effort = (Personnel) (Environment) (Quality) (Size Process) 
+```
+
+## Cost Estimation Models in Software Engineering
+
+Cost estimation is a technique used to find out the cost estimates(_the financial spend that is done on the efforts to develop and test software_) of developing software.
+
+Cost estimation models in Software Engineering are mathematical algorithms or parametric equations used to estimate the cost of a product or a project.
+
+Most software cost models can be abstracted into a function of five basic parameters: size, process, personnel, environment, and required quality.
+
+1. The size of the end product typically quantified in terms of the number of source instructions or the number of function points required to develop the required functionality.
+2. The process used to produce the end product, in particular the ability of the process to avoid non-value-adding activities (rework, bureaucratic delays, communications overhead)
+3. The capabilities of software engineering personnel, and particularly their experience with the computer science issues and the applications domain issues of the project
+4. The environment, which is made up of the tools and techniques available to support efficient software development and to automate the process
+5. The required quality of the product, including its features, performance, reliability, and adaptability
+
+The relationships among these parameters and the estimated cost can be written as follows:
+
+```code
+Effort = (Personnel) (Environment) (Quality)(SizeProcess)
+```
+
+Several parametric models have been developed to estimate software costs; all of them can be generally abstracted into this form. One important aspect of software economics (as represented within today's software cost models) is that the relationship between effort and size exhibits a diseconomy of scale. The diseconomy of scale of software development is a result of the process exponent being greater than 1.0. Contrary to most manufacturing processes, the more software you build, the more expensive it is per unit item.
+
+## Software Engineering Economics Learning objectives to explore
+
+1. Understand and be able to apply the key software engineering economic fundamentals to real-world software economic issues.
+2. Illustrate through example the key software life cycle economics, including product and process life cycles; portfolios; proposals; investment decisions; pricing and costing, and earned value management (EVM).
+3. Apply the concepts of risk and uncertainty to real world software development projects, including goals; estimates; prioritization and decision making.
+4. Perform best-practice economic analysis methods.
+5. Relate and interpret the “good-enough” principle; friction-free economy; ecosystems and outsourcing
 
 ## Conclusion
 
