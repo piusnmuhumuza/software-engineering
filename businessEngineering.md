@@ -263,17 +263,15 @@ TOGAF was initiated in the early 1990s as methodology for the development of tec
 - [The Open Group Architecture Framework (TOGAF)]([https://www.opengroup.org/togaf](https://www.opengroup.org/togaf)) & ([https://en.wikipedia.org/wiki/The\_Open\_Group\_Architecture\_Framework](https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework))
 - [What is TOGAF? An enterprise architecture methodology for business]([https://www.cio.com/article/228328/what-is-togaf-an-enterprise-architecture-methodology-for-business.html](https://www.cio.com/article/228328/what-is-togaf-an-enterprise-architecture-methodology-for-business.html))
 - [TOGAF and the history of enterprise architecture]([https://www.redhat.com/architect/togaf](https://www.redhat.com/architect/togaf))
--
-
-* [An introduction to arc42](https://medium.com/nerd-for-tech/an-introduction-to-arc42-283b559d62cc)
-* [Domain Driven Design | Deep dive into context mapping](https://medium.com/geekculture/domain-driven-design-deep-dive-into-context-mapping-f9cd8acddd7e)
-* [Context Mapping](https://github.com/ddd-crew/context-mapping)
-* [Principles of technical documentation](https://dev.to/arc42/principles-of-technical-documentation-4akj)
-* [Documenting software architecture with arc42](https://www.innoq.com/en/blog/2022/08/brief-introduction-to-arc42/)
-* [Architecture documentation with ARC42](https://medium.com/@parserdigital/architecture-documentation-with-arc42-77662678aad8)
-* [What Is Enterprise, System, and Software Architecture](https://medium.com/@kirichuk/what-is-enterprise-system-and-software-architecture-480f23bbf43d)
-* [The Essential Guide to Requirements Management and Traceability](https://www.jamasoftware.com/requirements-management-guide)
-* [ISO (International Organization for Standardization)](https://www.techtarget.com/searchdatacenter/definition/ISO)
+- [An introduction to arc42](https://medium.com/nerd-for-tech/an-introduction-to-arc42-283b559d62cc)
+- [Domain Driven Design | Deep dive into context mapping](https://medium.com/geekculture/domain-driven-design-deep-dive-into-context-mapping-f9cd8acddd7e)
+- [Context Mapping](https://github.com/ddd-crew/context-mapping)
+- [Principles of technical documentation](https://dev.to/arc42/principles-of-technical-documentation-4akj)
+- [Documenting software architecture with arc42](https://www.innoq.com/en/blog/2022/08/brief-introduction-to-arc42/)
+- [Architecture documentation with ARC42](https://medium.com/@parserdigital/architecture-documentation-with-arc42-77662678aad8)
+- [What Is Enterprise, System, and Software Architecture](https://medium.com/@kirichuk/what-is-enterprise-system-and-software-architecture-480f23bbf43d)
+- [The Essential Guide to Requirements Management and Traceability](https://www.jamasoftware.com/requirements-management-guide)
+- [ISO (International Organization for Standardization)](https://www.techtarget.com/searchdatacenter/definition/ISO)
 
 ## Tags
 ``Business Engineering``, ``Business Thinking``, ``Business Acumen``, ``Business Analysis``, ``Business Process Improvement``, ``Business Agility``, ``Business Research``, ``Business Model Innovation``, ``Project Management``, ``Agile``, ``Agile Frameworks``, ``Srum``, ``Lean``, ``Enterprise Architecture``, ``Systems Thinking``, ``Design Thinking``, ``Systems Design``, ``Monitoring & Evaluation``, ``Intellectual Property Management``, ``Software Engineering``, ``Software Development``, ``Software Quality``, ``Software Quality Assurance``, ``Software Testing``, ``Research Methods``, ``Research & Development``
