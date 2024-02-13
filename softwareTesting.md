@@ -2,9 +2,7 @@
 
 ## Breakdown Software Testing
 
-As an Engineer, Developer, Product Manager or Project Manager, it’s important to know the levels of software testing and why going through each level is so crucial for software Quality Assurance and a software project’s success.
-There are so many ways of approaching software testing based on the project type, the Software product the client expectations, the budget or the Engineering Team available during the software Life cycle.
-I will document the simple approach I followed to avoid getting confused and I believe it can be built on by anyone reading this documentation.
+
 
 #### Software Testing Typically falls under 3 categories; -
 
