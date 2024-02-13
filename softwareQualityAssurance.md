@@ -118,19 +118,19 @@ Quality improvement – Defect analysis and process enhancements to improve qual
 
 Quality management spans the entire software lifecycle and involves various roles like project managers, quality engineers, developers, testers, and customers. When done effectively, it provides confidence that software meets critical quality characteristics.
 
-## Software  Quality Assurance(QA), QC, and Testing
+## Software Quality Assurance(QA), QC, and Testing
 
 Although these three terms are often used interchangeably, they refer to slightly different aspects of software quality management and use different approaches to delivering a software product of the best possible quality, both structurally and functionally.
 
-**Quality Assurance**
+### Quality Assurance**
 
 The purpose of this activity is to set up adequate processes and introduce standards of quality to prevent or at best limit the number of errors/flaws (bugs) in a software product. QA focuses on processes with the aim of prevention done by the software team including the various stakeholders which is done throughout the software development process.
 
-**Quality Control**
+### Quality Control**
 
 This activity makes sure that the software product corresponds to the requirements and specs before it is released and focuses on the product as a whole with the aim of verification done specifically by the team. Through Quality Control the team verifies the product's compliance with the functional requirements.
 
-**Testing**
+### Testing
 
 This activity aims at detecting and solving software errors/flaws(bugs) focusing on the source code and design of the software product usually done at the testing stage or along with the development process.
 
@@ -387,58 +387,58 @@ Software testing is the process of evaluating and verifying that a software prod
 
 ## Software Quality Assurance best practices, processes, and techniques for successful software delivery.
 
-**Software Quality Assurance Activities**
+### Software Quality Assurance Activities
 
 For SQA to effectively evaluate the quality of a software product in order to enforce adherence to industry standards and follow the accepted processes and procedures during software development, certain activities have to be followed and executed. These are;-
 
-**Creating an SQA Management Plan:**
+### Creating an SQA Management Plan
 
 Laying down a proper plan of how the [Software Quality Assurance](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) will be executed throughout the software project development is very very important. This is where things like a [Software Quality Assurance](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) approach the team will follow, best-fit engineering activities to be carried out and ensuring the right team with a fitting talent mix has been chosen is considered.
 
-**Setting the Checkpoints:**
+### Setting the Checkpoints
 
 SQA teams should endeavour to set up different checkpoints which they can base on to evaluate the performance and quality of the project using collected data at each checkpoint/project stage. This ensures that quality inspection is consistent and all tasks are progressing as per the schedule.
 
-**Measure change impact:**
+### Measure change impact
 
 Measuring Change impact on the software project is important for decision-making on how the team progresses on the project. Usually, changes made to correct defects/errors (fix bugs) sometimes reintroduce more errors, therefore measuring change impact can aid in establishing parameters for regression testing to check if the new changes compatibility with the entire project.
 
-**Apply Software Engineering Techniques:**
+### Apply Software Engineering Techniques
 
 Such as;-
 
 - Interviews for gathering information and  **FAST**  (_Functional Analysis System Technique which aids in thinking about the problem objectively & identifying the scope of the project by showing the logical relationships between functions_) can help a software designer achieve high-quality specifications.
 - Preparing the project estimation using techniques like  **WBS**  (work breakdown structure),  **SLOC**  analysis (_source line of codes;- a metric in software engineering used to measure the size of a software product by counting the number of lines in the text of the software's source code._ ), and  **FP**  ( _functional point;- a unit of measurement used to express the amount of business functionality, the software product provides to a user._ ) estimation.
 
-**Executing Formal Technical Reviews:**
+### Executing Formal Technical Reviews
 
 Conducting a Formal Technical Review (FTR) can help in detecting defects/errors in the early phases of SDLC and also reduces task repetitions in later phases can be done as a way to evaluate the quality and design of the prototype. This would consist of a series of meetings held with the technical staff to discuss the actual quality requirements of the software and the design quality of the prototype.
 
-**Having a Multi-Testing Strategy:**
+### Having a Multi-Testing Strategy
 
 Software engineering teams should not rely on a single testing approach, but instead, have a systematic multi-testing strategy, where multiple types of testing are performed so that the software product can be tested well from all angles to ensure better quality.
 
-**Enforcing Process Adherence:**
+### Enforcing Process Adherence:**
 
 This activity insists on the need for process adherence as well as sticking to the defined procedures during the software development process in order to deliver quality software.
 
-**Maintaining records and reports:**
+### Maintaining records and reports:**
 
 It's important for software engineering teams e.g. developers, testers, Business Analysts, and [SQA Engineers](https://piusmwilson.medium.com/being-a-good-software-quality-assurance-engineer-9e229eba89d6) to regularly document all changes and activities that occur in the software development lifecycle for purposes of [software quality assurance](https://piusmwilson.com/a-basic-understanding-of-software-quality-assurance).
 
-**Managing good relations:**
+### Managing good relations:**
 
 In the working environment, making & managing good relations with other teams involved in the project development is very important. Bad relations between the SQA team and the development team will impact the project directly & indirectly.
 
-**Software Quality Assurance Plan**
+## Software Quality Assurance Plan
 
-The software quality assurance plan is comprised of procedures, techniques, and tools that are employed to make sure that a product or service aligns with the requirements defined in the SRS (_ **software requirement specification** _).
+The software quality assurance plan is comprised of procedures, techniques, and tools that are employed to make sure that a product or service aligns with the requirements defined in the SRS (_**software requirement specification**_).
 
-A good [SQA](https://piusmwilson.medium.com/a-basic-understanding-of-software-quality-assurance-307317b82867) plan document should at least have a;- Purpose section, a Reference section, a software configuration management section, a problem reporting, and corrective action section, a Tools, technologies, and methodologies section, a code control section, a records collection, maintenance, and retention section, as well as a testing methodology.
+A good SQA plan document should at least have a;- _Purpose section, a Reference section, a software configuration management section, a problem reporting, a corrective action section, a Tools, technologies,_ and _methodologies section, a code control section, a records collection, maintenance,_ and _retention section,_ as well as _a testing methodology_.
 
-**The Software Quality Assurance process.**
+## The Software Quality Assurance process
 
-A typical SQA process in [Software Engineering](https://piusmwilson.com/software-engineering-a-business-technology-enthusiast-beginners-guide) follows a Design, Test, Deploy, support, and feedback which is similar to [PDCA](https://piusmwilson.com/how-to-plan-do-check-act-your-professional-growth) a four-step approach (
+A typical SQA process in Software Engineering follows a _Design, Test, Deploy, support, and feedback_ which is similar to [PDCA]() a four-step approach (
 
 - **Plan** : _Decide on a course of action for system changes_,
 - **Do** : _Perform a test on the software system_,
@@ -447,20 +447,20 @@ A typical SQA process in [Software Engineering](https://piusmwilson.com/software
 
 ) to perfect workflows, behaviours, and other activities.
 
-**During a Software Quality Assurance process, you will typically; -**
+During a Software Quality Assurance process, you will typically; -
 
-- **Defining of the project scope; ** — which involves researching, Analysis, Planning, and Initiation activities.
-- **Specifying the baseline system features; ** — which involves the requirements specifications, design & prototype activities.
-- **Production; ** — which involves the building/development and testing of the product.
-- **Release to Market; ** — this phase involves delivering the product to the customer/client and offering support.
+- **Defining of the project scope;** — which involves researching, Analysis, Planning, and Initiation activities.
+- **Specifying the baseline system features;** — which involves the requirements specifications, design & prototype activities.
+- **Production;** — which involves the building/development and testing of the product.
+- **Release to Market;** — this phase involves delivering the product to the customer/client and offering support.
 
-**Which is formally executed as;-**
+Which is formally executed as;-
 
-1. **Requirements Analysis; ** — Analyzing software requirements
-2. **Testing Planning; ** — Planning tests.
-3. **Testing Design; ** — Designing test cases or checklists.
-4. **Test Execution & Defect Reporting; ** — Running test cases as per prepared checklists.
-5. **Retesting: ** — Re-testing fixed issues (Bugs & Defects) as well as carrying out regression testing.
+1. **Requirements Analysis;** — Analyzing software requirements
+2. **Testing Planning;** — Planning tests.
+3. **Testing Design;** — Designing test cases or checklists.
+4. **Test Execution & Defect Reporting;** — Running test cases as per prepared checklists.
+5. **Retesting:** — Re-testing fixed issues (Bugs & Defects) as well as carrying out regression testing.
 6. **Release Testing; -** alpha and beta tests are the best examples for this phase.
 
 ## What is software process improvement?
@@ -483,14 +483,14 @@ Continually refine processes with PDCA cycles.
 
 Effective SPI requires a long-term commitment, not just temporary initiatives. Software organizations must build quality processes that stand the test of time.
 
-**The**  **Benefits of**  **implementing Software Quality Assurance** **(****SQA****).**
+## The Benefits of Implementing Software Quality Assurance(SQA)
 
 SQA can be a complex process but is an important part of any software development project and essential for ensuring that software products meet the needs of their users. Some of the benefits of Implementing SQA include;-
 
 - Increased customer satisfaction: SQA can help to increase customer satisfaction by ensuring that software products delivered to the customer meets its functional and non-functional requirements not to mention high-quality, reliable, usable, and secure.
-- Software Quality Assurance (SQA)can help improve the overall quality and reliability of software products by identifying and fixing defects as early as possible in the development processensuring they meet the desired quality standardsleading to a better reputation for the company.
+- Software Quality Assurance (SQA)can help improve the overall quality and reliability of software products by identifying and fixing defects as early as possible in the development process ensuring they meet the desired quality standards leading to a better reputation for the company.
 - Because of SQA, developed high-quality software can help increase the market share of a company/business or a freelance software developer's business portfolio.
-- SQA can help to reduce the cost of software developmentby preventing defects from being introduced into software or identifying and fixing them early in the development process.
+- SQA can help to reduce the cost of software development by preventing defects from being introduced into software or identifying and fixing them early in the development process.
 - SQA can help to reduce the risk of project failure by identifying and mitigating potential risks early in the development process.
 - Reduced software defects: SQA helps to identify and prevent software defects, which can lead to significant cost savings such as reduced maintenance and customer support costs in the long run.
 - Software Quality Assurance helps Improve the process of creating software thus significantly reducing the time to market thus allowing businesses to stay a step ahead of competitors.
@@ -509,13 +509,8 @@ SQA is an important part of the software development process that helps to ensur
 
 SQA is an important part of the software development process and plays a vital role in ensuring that software products meet customer expectations. By implementing effective SQA practices, organizations can improve the quality of their software products, reduce costs, and increase customer satisfaction.
 
-[Software Quality Assurance](https://piusmwilson.com/a-basic-understanding-of-software-quality-assurance) is very key for a lot of companies especially those rolling out [software products](https://piusmwilson.com/on-being-a-great-product-manager) as it ensures, quality adherence according to a set of agreed-upon standards.Its purpose is to make sure that all software engineering processes are monitored and comply with defined standards by incorporating software development processes starting from defining requirements to coding until release/launch where the key goal is to ensure the quality of the software product.
 
-[SQA Engineers](https://piusmwilson.com/on-being-a-good-software-quality-assurance-engineer) carry out [Software Quality Assurance](https://piusmwilson.com/a-basic-understanding-of-software-quality-assurance) through tasks like software design, writing source code, control of source code, reviewing code, configuration management, change management, program testing, integration of software, and release management process.
-
-[Software Quality Assurance](https://piusmwilson.com/a-basic-understanding-of-software-quality-assurance) (SQA) Engineers and testers have an eye for detail and are committed to improving the performance of the products (e.g Software) they work on by ensuring that the software packages shipped out meet or exceed the customer's expectations in performance and value.
-
-**Glossary**
+## Glossary
 
 - International Organization for Standardization (ISO). The [ISO]([https://www.iso.org/home.html](https://www.iso.org/home.html)) is a global standard-setting organization that spans multiple sectors.
 - Institute of Electrical and Electronics Engineers (IEEE). The [IEEE]([https://www.ieee.org/](https://www.ieee.org/)) is a 501 professional association for electronics engineering, electrical engineering, and other related disciplines.
@@ -544,6 +539,15 @@ SQA is an important part of the software development process and plays a vital r
 - [The Testing Pyramid: Simplified for One and All](https://www.headspin.io/blog/the-testing-pyramid-simplified-for-one-and-all)
 - [What is Testing Pyramid? How Does It Benefit Agile Teams?](https://testsigma.com/blog/testing-pyramid/)
 - [Book Review: How to Manage Projects by Paul J Fielding](https://medium.com/@piusnmuhumuza/book-review-how-to-manage-projects-by-paul-j-fielding-040305b8f7b6)
+- [Software Development Life Cycle: Phases and Models]([https://medium.com/@jeevanesh/software-development-life-cycle-phases-and-models-dc7b7aec3726](https://medium.com/@jeevanesh/software-development-life-cycle-phases-and-models-dc7b7aec3726))
+- [What is Testing Pyramid? How Does It Benefit Agile Teams?]([https://testsigma.com/blog/testing-pyramid/](https://testsigma.com/blog/testing-pyramid/))
+- [Test Pyramid by Martin Fowler]([https://martinfowler.com/bliki/TestPyramid.html](https://martinfowler.com/bliki/TestPyramid.html))
+- [Types of Software Testing : All You Need to Know About Testing Types]([https://www.edureka.co/blog/types-of-software-testing/](https://www.edureka.co/blog/types-of-software-testing/))
+- [What are the Differences Between Functional Testing & Non-Functional Testing?] ([https://www.edureka.co/blog/functional-testing-vs-non-functional-testing/](https://www.edureka.co/blog/functional-testing-vs-non-functional-testing/))
+- [What is Functional Testing? One Stop Solution to Automation Types]([https://www.edureka.co/blog/what-is-functional-testing/](https://www.edureka.co/blog/what-is-functional-testing/))
+- [Software Testing Models | What it is, Types & How They Work?]([https://testsigma.com/blog/software-testing-models/](https://testsigma.com/blog/software-testing-models/))
+- [Differences between Black Box Testing vs White Box Testing]([https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/))
+- [Black Box Testing vs White Box Testing: Key Difference]([https://www.guru99.com/back-box-vs-white-box-testing.html](https://www.guru99.com/back-box-vs-white-box-testing.html))
 
 ## Tags
 
