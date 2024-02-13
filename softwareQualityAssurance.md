@@ -343,14 +343,6 @@ There are many different tools and techniques used in SQA fall in categories of:
 - Testing tools: These tools help to automate the testing process.
 - Defect tracking tools: These tools help to track and manage software defects.
 
-**How to Implement SQA**
-
-There are many different ways to implement SQA, but there are some general principles that can be followed. These principles include:
-
-- Start early: SQA activities should be performed throughout the SDLC, from requirements gathering to deployment and maintenance.
-- Involve all stakeholders: SQA should involve all stakeholders in the software development process, including developers, testers, managers, and customers.
-- Use tools and automation: There are many SQA tools and automation software available that can help to streamline the SQA process.
-- Measure and improve: It is important to measure the effectiveness of SQA activities and to make improvements as needed.
 
 **Here are some of the challenges of SQA:**
 
@@ -360,6 +352,38 @@ There are many different ways to implement SQA, but there are some general princ
 
 Despite the challenges, SQA is an important part of any software development project. By implementing effective SQA practices, organizations can reap a number of benefits, including reduced costs, improved quality, and increased customer satisfaction.
 
+## Software Quality Assurance Plan
+
+The software quality assurance plan is comprised of procedures, techniques, and tools that are employed to make sure that a product or service aligns with the requirements defined in the SRS (_**software requirement specification**_).
+
+A good SQA plan document should at least have a;- _Purpose section, a Reference section, a software configuration management section, a problem reporting, a corrective action section, a Tools, technologies,_ and _methodologies section, a code control section, a records collection, maintenance,_ and _retention section,_ as well as _a testing methodology_.
+
+## The Software Quality Assurance process
+
+A typical SQA process in Software Engineering follows a _Design, Test, Deploy, support, and feedback_ which is similar to [PDCA]() a four-step approach (
+
+- **Plan** : _Decide on a course of action for system changes_,
+- **Do** : _Perform a test on the software system_,
+- **Check** : _Review the results & feedback of the study_ and
+- **Act** : _Incorporate the results into your next plan_
+
+) to perfect workflows, behaviours, and other activities.
+
+During a Software Quality Assurance process, you will typically; -
+
+- **Defining of the project scope;** — which involves researching, Analysis, Planning, and Initiation activities.
+- **Specifying the baseline system features;** — which involves the requirements specifications, design & prototype activities.
+- **Production;** — which involves the building/development and testing of the product.
+- **Release to Market;** — this phase involves delivering the product to the customer/client and offering support.
+
+Which is formally executed as;-
+
+1. **Requirements Analysis;** — Analyzing software requirements
+2. **Testing Planning;** — Planning tests.
+3. **Testing Design;** — Designing test cases or checklists.
+4. **Test Execution & Defect Reporting;** — Running test cases as per prepared checklists.
+5. **Retesting:** — Re-testing fixed issues (Bugs & Defects) as well as carrying out regression testing.
+6. **Release Testing; -** alpha and beta tests are the best examples for this phase.
 
 ## Software Quality Assurance best practices, processes, and techniques for successful software delivery.
 
@@ -369,7 +393,7 @@ For SQA to effectively evaluate the quality of a software product in order to en
 
 ### Creating an SQA Management Plan
 
-Laying down a proper plan of how the [Software Quality Assurance](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) will be executed throughout the software project development is very very important. This is where things like a [Software Quality Assurance](https://piusmwilson.com/software-quality-assurance-beyond-the-basics) approach the team will follow, best-fit engineering activities to be carried out and ensuring the right team with a fitting talent mix has been chosen is considered.
+Laying down a proper plan of how the Software Quality Assurance will be executed throughout the software project development is very very important. This is where things like a Software Quality Assurance approach the team will follow, best-fit engineering activities to be carried out and ensuring the right team with a fitting talent mix has been chosen is considered.
 
 ### Setting the Checkpoints
 
@@ -406,39 +430,15 @@ It's important for software engineering teams e.g. developers, testers, Business
 
 In the working environment, making & managing good relations with other teams involved in the project development is very important. Bad relations between the SQA team and the development team will impact the project directly & indirectly.
 
-## Software Quality Assurance Plan
 
-The software quality assurance plan is comprised of procedures, techniques, and tools that are employed to make sure that a product or service aligns with the requirements defined in the SRS (_**software requirement specification**_).
+## How to Implement SQA**
 
-A good SQA plan document should at least have a;- _Purpose section, a Reference section, a software configuration management section, a problem reporting, a corrective action section, a Tools, technologies,_ and _methodologies section, a code control section, a records collection, maintenance,_ and _retention section,_ as well as _a testing methodology_.
+There are many different ways to implement SQA, but there are some general principles that can be followed. These principles include:
 
-## The Software Quality Assurance process
-
-A typical SQA process in Software Engineering follows a _Design, Test, Deploy, support, and feedback_ which is similar to [PDCA]() a four-step approach (
-
-- **Plan** : _Decide on a course of action for system changes_,
-- **Do** : _Perform a test on the software system_,
-- **Check** : _Review the results & feedback of the study_ and
-- **Act** : _Incorporate the results into your next plan_
-
-) to perfect workflows, behaviours, and other activities.
-
-During a Software Quality Assurance process, you will typically; -
-
-- **Defining of the project scope;** — which involves researching, Analysis, Planning, and Initiation activities.
-- **Specifying the baseline system features;** — which involves the requirements specifications, design & prototype activities.
-- **Production;** — which involves the building/development and testing of the product.
-- **Release to Market;** — this phase involves delivering the product to the customer/client and offering support.
-
-Which is formally executed as;-
-
-1. **Requirements Analysis;** — Analyzing software requirements
-2. **Testing Planning;** — Planning tests.
-3. **Testing Design;** — Designing test cases or checklists.
-4. **Test Execution & Defect Reporting;** — Running test cases as per prepared checklists.
-5. **Retesting:** — Re-testing fixed issues (Bugs & Defects) as well as carrying out regression testing.
-6. **Release Testing; -** alpha and beta tests are the best examples for this phase.
-
+- Start early: SQA activities should be performed throughout the SDLC, from requirements gathering to deployment and maintenance.
+- Involve all stakeholders: SQA should involve all stakeholders in the software development process, including developers, testers, managers, and customers.
+- Use tools and automation: There are many SQA tools and automation software available that can help to streamline the SQA process.
+- Measure and improve: It is important to measure the effectiveness of SQA activities and to make improvements as needed.
 
 ## The Benefits of Implementing Software Quality Assurance(SQA)
 
@@ -482,11 +482,9 @@ Software testing is the process of evaluating and verifying that a software prod
 
 ## Conclusion
 
-Quality Assurance and testing can make or break a business. No matter the type of company, the business vertical, or its services or products, every organization in the software engineering business has to use some form of quality assurance and testing to ensure that they are offering safe, useful, and quality software products to their clients.
-
 And the best way to guarantee that a company releases reliable, high-quality software products is through thorough quality assurance.
 
-Conclusion
+Quality Assurance and testing can make or break a business. No matter the type of company, the business vertical, or its services or products, every organization in the software engineering business has to use some form of quality assurance and testing to ensure that they are offering safe, useful, and quality software products to their clients.
 
 SQA is an important part of the software development process that helps to ensure that software products meet the desired quality standards. By implementing SQA activities throughout the SDLC, organizations can reduce the risk of delivering software that is unreliable, unusable, unmaintainable, or insecure.
 
@@ -531,6 +529,7 @@ SQA is an important part of the software development process and plays a vital r
 - [Software Testing Models | What it is, Types & How They Work?]([https://testsigma.com/blog/software-testing-models/](https://testsigma.com/blog/software-testing-models/))
 - [Differences between Black Box Testing vs White Box Testing]([https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/))
 - [Black Box Testing vs White Box Testing: Key Difference]([https://www.guru99.com/back-box-vs-white-box-testing.html](https://www.guru99.com/back-box-vs-white-box-testing.html))
+- [6 Key Steps to Creating A Quality Assurance Plan](https://testsigma.com/blog/software-quality-assurance-plan/)
 
 ## Tags
 

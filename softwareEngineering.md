@@ -1,13 +1,18 @@
 # Software Engineering | A Learning Guide
 
-This is a Complete Software Engineering Summary Notes Guide i put together with basic [Software Engineering](https://piusnmuhumuza.hashnode.dev/a-business-technology-enthusiasts-guide-to-software-engineering) definitions, concepts, and practices for busy business technologists & thought leaders.
+This is a Complete Software Engineering Summary Notes Guide i put together consisting of basic Software Engineering definitions, concepts, approaches, processes and practices for busy business technologists & thought leaders.
 
 ## Table Of Contents
 
+- [Disclaimer](#disclaimer)
 - [Introduction](#introduction)
 - [What is Software](#what-is-software)
    -[Characteristics of Software](#characteristics-of-software)
 - [What is Software Engineering](#what-is-software-engineering)
+
+## Disclaimer
+
+As a piece of learning material, this documentation will include various links and references to further learning materials used with researching the Software Testing topic. Any advice, suggestions and corrections are welcome for the continuous improvement of this document.
 
 ## Introduction
 
