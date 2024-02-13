@@ -575,6 +575,8 @@ Continually refine processes with PDCA cycles.
 
 Effective SPI requires a long-term commitment, not just temporary initiatives. Software organizations must build quality processes that stand the test of time.
 
+
+
 ### The Economics Of Developing Software In Software Project Management
 
 The Success of any software engineering project is partly dependent on effective business management. And Developing good software also relies on understanding the underlying economics of Software Engineering.
