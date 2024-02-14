@@ -5,7 +5,7 @@ Important concepts in the field of Information Systems Technology, Business Engi
 
 ## Introduction
 
-The field of Business Engineering (BE) developed primarily to fill the gap between the management and technical or administrative teams within a company by combining Business and Technology to solve problems.
+The field of Business Engineering (BE) developed primarily to fill the gap between the management and technical or administrative teams within the business environment at the intersection of Business and Technology with a focus on skills in creative thinking (product development), problem solving (business cases), and effective communication (business pitch), as well as a solid understanding of business/management functions and an interdisciplinary approach among other competencies.
 
 Business engineering is a combination of business administration and technology specialization. In business engineering, you use business acumen and technology skills to develop, implement and maintain business technology databases, systems and frameworks for the company to use for success.
 
@@ -128,7 +128,7 @@ Any organization can be modelled as a complex structure (_e.g., network_) with a
 
 Business engineers should have skills enabling them to assess following business potential of IT innovations, create strategic visions, analyze and redesign business processes, plan and control transformation projects, and get people actively involved in transformation processes.
 
-**What Is A Business Engineer**
+## What Is A Business Engineer
 
 A Business Engineer is a hybrid between a business administration and technology expert, a person with the business acumen and engineering abilities to understand a complex organization and devise solutions and work as a liaison between commercial and technical teams.
 
@@ -161,7 +161,7 @@ Business engineers typically have a variety of responsibilities in their daily r
 - Documenting software updates
 - Overseeing quality control and performance levels
 
-**Business Skills Every Engineer Needs**
+## Business Skills Every Engineer Needs
 
 **Cores Business Engineer Skills**
 
@@ -274,4 +274,5 @@ TOGAF was initiated in the early 1990s as methodology for the development of tec
 - [ISO (International Organization for Standardization)](https://www.techtarget.com/searchdatacenter/definition/ISO)
 
 ## Tags
-``Business Engineering``, ``Business Thinking``, ``Business Acumen``, ``Business Analysis``, ``Business Process Improvement``, ``Business Agility``, ``Business Research``, ``Business Model Innovation``, ``Project Management``, ``Agile``, ``Agile Frameworks``, ``Srum``, ``Lean``, ``Enterprise Architecture``, ``Systems Thinking``, ``Design Thinking``, ``Systems Design``, ``Monitoring & Evaluation``, ``Intellectual Property Management``, ``Software Engineering``, ``Software Development``, ``Software Quality``, ``Software Quality Assurance``, ``Software Testing``, ``Research Methods``, ``Research & Development``
+
+``Business Engineering``, ``Business Engineer``, ``Business Thinking``, ``Business Acumen``, ``Business Analysis``, ``Business Process Improvement``, ``Business Agility``, ``Business Research``, ``Business Model Innovation``, ``Project Management``, ``Agile``, ``Agile Frameworks``, ``Srum``, ``Lean``, ``Enterprise Architecture``, ``Systems Thinking``, ``Systems Thinkers``, ``Design Thinking``, ``Systems Design``, ``Monitoring & Evaluation``, ``Intellectual Property Management``, ``Software Engineering``, ``Software Development``, ``Software Quality``, ``Software Quality Assurance``, ``Software Testing``, ``Research Methods``, ``Research & Development``
