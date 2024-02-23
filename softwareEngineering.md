@@ -672,6 +672,65 @@ Several parametric models have been developed to estimate software costs; all of
 4. Perform best-practice economic analysis methods.
 5. Relate and interpret the “good-enough” principle; friction-free economy; ecosystems and outsourcing
 
+## Software Design Principles
+
+[1.] KISS (Keep It Simple, Stupid)
+
+- Software should be as simple as possible.
+- Use clear and concise code, avoid unnecessary complexity, and focus on the essential features.
+
+[2.] DRY (Don't Repeat Yourself)
+
+- Code should not be duplicated.
+- Use functions and classes to encapsulate common code.
+- Use variables and constants to store values that are used in multiple places.
+
+[3.] YAGNI (You Ain't Gonna Need It)
+
+- Don't add extra features to software that you don't need.
+- Keep the software simple and maintainable.
+
+[4.] SOLID
+
+- Single Responsibility Principle - A class should have only one responsibility.
+- Open/Closed Principle - Classes should be open for extension but closed for modification.
+- Liskov Substitution Principle - Objects of a derived class should be substitutable for objects of the base class.
+- Interface Segregation Principle - Clients should not be forced to depend on methods that they do not use.
+- Dependency Inversion Principle - Dependencies should be injected into a class rather than being hard-coded.
+
+[5.] Principle of Least Astonishment/Surprise
+
+- Design software in a way that is consistent with the user's expectations.
+- Use familiar terminology and conventions, and provide clear and concise instructions.
+- Use proper and concise error messages.
+
+[6.] Principle of Modularity
+
+- Design software as a collection of independent modules.
+- This can help to make the software easier to understand, maintain, and test.
+
+[7.] Principle of Abstraction
+
+- Design software by hiding the implementation details from the user.
+- This can help to make the software easier to understand and use.
+
+[8.] Principle of Encapsulation
+
+- Software should be designed to hide the internal state of an object from the outside world.
+- This can help to make the software more robust and maintainable.
+
+[9.] Principle of Least Knowledge
+
+- Software should be designed to minimize the amount of knowledge that a module needs about other modules.
+- This can help to make the software more modular and flexible.
+
+[10.] Principle of Low Coupling & High Cohesion
+
+- Coupling refers to the degree to which the elements of a module depend on each other.
+- A module with low coupling has few dependencies and its elements do not depend on each other too much.
+- Cohesion refers to the degree to which the elements of a module belong together.
+- A module with high cohesion has a single, well-defined purpose and all of its elements are related to that purpose.
+
 ## Conclusion
 
 Software Engineering/Development outside in the business environment is a very complex process, mostly because real-world software is much larger, more complex and run on big budgets with a lot of uncertainties, timelines and often unreasonable expectations from the various stakeholders.
